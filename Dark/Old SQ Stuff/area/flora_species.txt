@@ -1,0 +1,23 @@
+Name 'green apple'
+Class 'apple'
+FlowerEffort 6
+FlowerVnum 0
+FlowerMax 1
+FruitVnum 51
+FruitMax 3
+GrowthSeed -168
+GrowthFlowering 720
+GrowthMax 40000
+EndFloraSpecies
+Name 'prickly pear'
+Class 'opuntia'
+FlowerEffort 8
+FlowerVnum 0
+FlowerMax 0
+FruitVnum 1002
+FruitMax 2
+GrowthSeed -168
+GrowthFlowering 720
+GrowthMax 40000
+EndFloraSpecies
+Endsection

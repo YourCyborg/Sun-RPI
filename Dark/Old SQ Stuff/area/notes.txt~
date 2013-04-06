@@ -1,0 +1,206 @@
+Sender  Delerak~
+Date    Thu Oct 16 07:51:17 2003~
+To      all~
+Subject TODO list~
+Text
+1. Finish Urik and Tyr
+2. Get the documentation in
+3. Permdeath
+4. Stats for PCs
+5. Classes/Races
+6. Re-hash combat messages, and work on combat system
+7. Magic system needs to be advanced, (not important right now)
+8. Lots of objects/weapons/armor etc go into the eq zones.
+9. Website.
+10. A stat or info command showing weight carried, certain flags on PCs, their background (need to code) and other things like on arm.
+11. Finish change command, got hands and Rob is doing ldesc.
+12. Need 2 players for the sorcerer-kings Kalak and Hamanu, will not just pick anyone, they have to have extensive knowledge about Darksun and roleplay
+
+When all of this done we might actually be somewhere!
+-Del
+~
+
+Sender  Delerak~
+Date    Thu Oct 16 09:14:49 2003~
+To      all~
+Subject TODO list 2~
+Text
+Code in accounts.
+Need lots of darksun NPCs for outside the city-states
+~
+
+Sender  Delerak~
+Date    Sat Oct 18 18:06:30 2003~
+To      all~
+Subject TODO~
+Text
+Need a good system for large-scale battles.  The uunit system on arm is too shabby for my taste.
+~
+
+Sender  Delerak~
+Date    Fri Oct 24 15:21:15 2003~
+To      all~
+Subject Class List~
+Text
+Bard- Unique abilities such as palm, sing, combat abilities, craft mandolin, etc, etc.
+Brute- Berserk ability.  Major abilities focused toward raging and going nuts in combat.  Very poor combat skills overall though.
+Cleric (Air, Earth, Fire, Magma, Rain, Silt, Sun, Water) Self-explanatory.
+Druid- Spells coming from the nature of Athas.  Ranging from an earthquake to a spell to a water creation spell.
+Fighter/Warrior- Disciplined guards, captain in an army, that is what this is for.  Unlike Brutes.
+Gladiator- Have not decided whether to use this as a class yet or not, if I do they will be very efficient killers basically assassins.
+Psionicist, aka Mindbender- Self-explanatory.
+*Psychic Warrior- Special app only.  Basically a cross between a warrior and a psion.
+Ranger- Self-explanatory. Master of the bow, and tracking.
+Rogue- Taking burglar, assassin, and pickpocket and putting it into one class.  The rogue will be the only class allowed to pick their skills.
+Templar- Self-explanatory.
+Wizard(Preserver and Defiler)- The magic system isn't even in so who cares right now.
+
+If anyone has any ideas just email or note me.  This isn't the final list, more of a version 1.0 list of the classes.
+-Delerak
+~
+
+Sender  Delerak~
+Date    Mon Oct 27 08:01:52 2003~
+To      all~
+Subject UPDATED TODO~
+Text
+1. Account system.  Going to need it sooner or later.
+2. Falling out of air sectors and taking damage.  Also falling from climb-check rooms.
+3. A number of toughness for walls, which will then be used in large-scaled battles with siege engines, etc to destroy the wall.
+4. Perhaps an addition to OLC so we can set room echoes with rset. 
+5. Gravity.  Going back to number 2, basically a gravity code for objects, people, BUILDINGS, etc.
+6. More wear_locations, such as <over shoulder> (for sheathing swords and bows) Ten fingers.  Ability to sheath weapons on the back as well.
+7. Conscious stat like hp and mana for being knocked out by psionics or clubs.
+8. Custom code for special weapons, like throwing a chakra and having it come back to you.  Using spiked weapons and getting extra attacks, etc etc.
+9. Poisoning code.
+10. Tracking for rangers.  Blackjacking for rogues.  Some sort of rage code for Brutes.
+11. A shatter code for obsidian/bone going up against steel/iron weapons.  Would like to see obsidian shatter basically everytime it goes up against so
+-someone using steel or iron.
+12. Always wanted to see some sort of fire code, for people who want to use fire arrows against wagons, argosies etc.
+Would be very hard to come by however, getting the fire to burn on an arrow, would need oil etc.  Maybe a crafting system?
+Also the fire code would be used for fireballs, instead of instant-damage it could set the person on fire, and they would take
+X amount of damage for X amount of mud ticks.
+13. Drowning in silt.  Silt storms near the sea, very dangerous so would need to do damage or give some sort of blindness maybe.
+14.  Sandkicking at people's eyes to blind them. Sandstorms blind people. Rub command to rub at your eyes and get out sand/silt/etc.
+Masks/hoods/veils/etc would loweer the chance of being blinded in a sandstorm, and some objects would render you immune to 
+sandkicking.
+15. Need to make thirst a high priority for pcs, not sure what the code does with it now.  But water should be needed
+every IC day.
+16.  A code for heat, such as strokes.  And for freezing weather, such as the desert night which gets down to 40 degrees F and even lower then that.
+Possibly a melting code, or code for having your swords get stuck in their sheaths if it's extremely cold.
+
+Just a few more things that could be done.
+-DL
+~
+
+Sender  Linedel~
+Date    Wed Oct 29 21:04:51 2003~
+To      all~
+Subject clans/guilds.~
+Text
+I'm presently pondering what clan/guild data structures require, so I can
+decide how to implement them.  What variables do you all think
+each character needs to store with respect to every guild in the game?
+Currently, I believe they need:
+A general faction standing - how much the guild likes you.
+A membership variable.  Flag maybe?  or Rank?
+A rank?  Is this really necessary, or just info characters need IC?
+Flags for "rights" with guild resources.  commanding npcs, giving quests
+to other PCs, etc.
+
+Can any of y'all think of anything else?
+
+R.
+~
+
+Sender  Delerak~
+Date    Thu Oct 30 06:29:13 2003~
+To      all~
+Subject clan code~
+Text
+Flags for "rights" is an excellent idea, being able to set these flags would be good too.  Ranks don't
+really matter IC, but I will tell you something, players love to see their rank in their score or
+whatever, mainly because it reminds them that they just got that 'sergeant' position or they are now
+'war leader' of the mekillot raiders, you know?  Players just like many options that don't necessarily
+do much for the immortals, but for them it makes them feel 'special' in their own way because
+they worked hard to get that spot and stayed with the clan when it had no PCs.  So coding ranks just for
+that would be cool, but just that, so that all ranks do is show it in score like
+You are Delerak, Templar of Hamanu.
+That's all I can think of, you pretty much have it all done in your note.
+~
+
+Sender  Delerak~
+Date    Mon Nov  3 17:06:00 2003~
+To      all~
+Subject Merchant Houses~
+Text
+Here they are.
+House Stel - Based in Urik and Tyr.  Weapons and some armor.
+House Shom - Based everywhere.  Major armor and weapons.
+House Vordon - Based everywhere.  The only Usury Merchant House, banks in major cities, does loans, etc.
+House Tsalaxa - A Merchant House dealing mainly in slaves around Tyr.
+House Inika - Based in Nibenay and Gulg.  Deals in agafari, and wood from the forests there.
+House Fyra - Based in Urik.  An underground house that looks like it deals in clothing, but actually has a blackmarket in Urik.
+House Wavir - House that secretly employs mindbenders so they can have a monopoly on the clothing trade.
+House M'ke - Minor House that deals mainly in hides and raw materials, employs hundreds of hunters.
+House Ianto - Based in Tyr, works the human Blackmarket in Tyr, has close relations with Veiled Alliance there.
+
+Do note that this is might not be a permanent list, I am always open to suggestions and ideas for
+our Merchant Houses, these are from the Darksun Campiagn, so any original houses someone might
+want us to have do post it.
+~
+
+Sender  Delerak~
+Date    Mon Nov  3 17:34:36 2003~
+To      all~
+Subject Class List 2~
+Text
+This is the newer list I've come up with.
+Bard stays.
+Brute stays.
+Clerics all stay, we have the main elementals (powerful) fire, water, etc. and the others silt, magma etc are para-elementals.
+Druids stay.
+Fighters stay.
+Gladiators are gone, they will just be specialized fighters with set skills.
+Psionicists are now broken up into three different types. Will explain in more detail later.
+Psychic Warriors stay as special app and imm only classes.
+Ranger stays.
+Rogue is being taken out and fleshed into three classes: Thief, Trader, and Assassin.
+Templar stays obviously.
+Wizard will be broken up into Preserver and Defiler, and another I think, but who cares right now.
+~
+
+Sender  Delerak~
+Date    Mon Nov  3 22:39:06 2003~
+To      all~
+Subject city-states/kings~
+Text
+	Stretching from the eastern gate of Urik to the entrance gate of the
+Palace itself.  Way of the Lion is one of the shortest main roads in the
+city-state.  It is used for travel between the behemoth Obsidian Road
+and the other two massive roads Way of Vengeance and Way of Patience.
+All types of races can be seen meandering along the mortarted road;
+long-legged elves dashing along the street, dusty humans with a range of
+characteristics, half-giants lumbering along their way clumsily, and
+perhaps the rare mul striding alongside his master.  Soldiers patrol
+daily and nightly, and it is not uncommon to see a yellow-cloaked
+templar or two with the small units that circumvent the city.  The
+massive palace can be seen rising over it's walled enclosure far to the west.
+	The road continues east and west, to the north an alleyway moves
+between the depots of merchant houses.
+Urik - Hamanu (building)
+Draj - Tectuctitlay or his son (building)
+Tyr - Kalak (building)
+Gulg - Forest-Goddess (need builder)
+Balic - Androponis (need builder)
+Nibenay - Nibenay (need builder)
+Raam - Great Vizier (need builder)
+
+These are all the city-states are their sorcerer-kings/queens.  Gulg and Raam both
+have sorcerer-queens but I don't feel like digging them up right now.
+I'm posting this because I need builders for the city-states that currently don't have
+anyone working on them.  I'm pretty much loaded down with my 40% done Urik and my 1% done Tyr
+so if anyone knows anyone steer them my way and we will try to get more builders working on the
+other city-states.
+~
+

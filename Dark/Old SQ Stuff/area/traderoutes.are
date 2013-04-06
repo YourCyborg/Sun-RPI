@@ -1,0 +1,8979 @@
+#AREA Xione   traderoutes~
+traderoutes~
+thalladorn~
+25000 27999
+0 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#25000
+camp abandoned broken burnt gate~
+an abandoned camp~
+A broken and burnt gate serves as entrance to the camp.~
+This is an abandoned camp, the gate is broken and burnt, allowing entrance.
+~
+~
+'wood'
+50 16 0 0
+25267 0 0 0
+500000000 0 100 1 100
+1 1 1000 2
+L 1
+#0
+
+
+#ROOMS
+#25000
+Traderoute~
+     City gates loom up ahead in the distance to the west.  Soldiers
+are visible manning the gates and the crowds are thick during the day.
+Here and there a peddler has set up shop.  All matter of persons are
+visible on the road.  Some are travelling, but some loitering --
+merchants, pilgrims, beggars, lepers, sell-swords, scavengers, bounty
+hunters, wagon teamsters, and even highly trusted slaves.  The road is
+normally teeming with elves, who seem to enjoy this region, and it's
+distance from the Urikite law, or better yet templar reach.
+       The traderoute continues west and east.
+~
+~
+'road'
+4 0 0
+0 0 0
+D0
+The grain fields of Urik lie to the north.
+~
+~
+0 0 21642 0
+D1
+The traderoute continues eastward.
+~
+~
+0 0 25001 0
+D2
+The grain fields of Urik stretch off to the south.
+~
+~
+0 0 -1 5
+D3
+The road stretches westward to the massive gates of Urik.
+~
+~
+0 0 13014 0
+S
+#25001
+Traderoute~
+     City gates loom up ahead in the distance to the west.  Soldiers
+are visible manning the gates and the crowds are thick during the day.
+Here and there a peddler has set up shop.  All matter of persons are
+visible on the road.  Some are travelling, but some loitering --
+merchants, pilgrims, beggars, lepers, sell-swords, scavengers, bounty
+hunters, wagon teamsters, and even highly trusted slaves.  The road is
+normally teeming with elves, who seem to enjoy this region, and it's
+distance from the Urikite law, or better yet templar reach.
+       The traderoute continues west and east.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The grain fields of Urik lie to the north.
+~
+~
+0 0 21630 0
+D1
+The traderoute continues eastward.
+~
+~
+0 0 25002 1685217635
+D2
+The grain fields of Urik lie to the south.
+~
+~
+0 0 -1 5
+D3
+The road stretches westward to a massive, yellow-walled city.
+~
+~
+0 0 25000 0
+S
+#25002
+Traderoute~
+     The traderoute bears ancient, gray stones, weathered from use and time.
+During the day the sun gradually rises to literally heat the stones
+beyond a bearable touch without some sort of protection.  At night
+however the sun goes down and the stones become cold to the touch as the
+chill of Athas sets in.
+     The traderoute bends here, heading north and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward.
+~
+~
+0 0 25003 0
+D1
+A massive ravine stretches off to the horizon and the drop would surely be deadly.
+~
+~
+0 0 0 0
+D2
+The grain fields of Urik lie to the south.
+~
+~
+0 0 -1 5
+D3
+The road stretches westward to a massive, yellow-walled city.
+~
+~
+0 0 25001 0
+D4
+~
+~
+0 0 26002 100
+S
+#25003
+Traderoute~
+     The traderoute bears ancient, gray stones, weathered from use and time.
+During the day the sun gradually rises to literally heat the stones
+beyond a bearable touch without some sort of protection.  At night
+however the sun goes down and the stones become cold to the touch as the
+chill of Athas sets in.
+     The traderoute continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward.
+~
+~
+0 0 25004 0
+D1
+A ravine drops off to the east, the deadly maw of Lake Pit.
+~
+~
+0 0 -1 5
+D2
+The traderoute makes a bend to the south.
+~
+~
+0 0 25002 0
+D3
+The grain fields of Urik lie to the west.
+~
+~
+0 0 21630 0
+D4
+~
+~
+0 0 26003 0
+S
+#25004
+Traderoute~
+     The traderoute bears ancient, gray stones, weathered from use and time.
+During the day the sun gradually rises to literally heat the stones
+beyond a bearable touch without some sort of protection.  At night
+however the sun goes down and the stones become cold to the touch as the
+chill of Athas sets in.
+     The traderoute continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward.
+~
+~
+0 0 25005 0
+D1
+A ravine drops off to the east, the deadly maw of Lake Pit.
+~
+~
+0 0 -1 5
+D2
+The traderoute continues southward, toward Urik.
+~
+~
+0 0 25003 0
+D3
+The grain fields of Urik lie to the west.
+~
+~
+0 0 21631 0
+D4
+~
+~
+0 0 26004 0
+S
+#25005
+Traderoute~
+     The traderoute bears ancient, gray stones, weathered from use and time.
+During the day the sun gradually rises to literally heat the stones
+beyond a bearable touch without some sort of protection.  At night
+however the sun goes down and the stones become cold to the touch as the
+chill of Athas sets in.
+     The traderoute continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward.
+~
+~
+0 0 25006 0
+D1
+A ravine drops off to the east, the deadly maw of Lake Pit.
+~
+~
+0 0 -1 5
+D2
+The traderoute continues southward, toward Urik.
+~
+~
+0 0 25004 0
+D3
+The grain fields of Urik lie to the west.
+~
+~
+0 0 21632 0
+D4
+~
+~
+0 0 26005 0
+S
+#25006
+Traderoute~
+     The traderoute bears ancient, gray stones, weathered from use and time.
+During the day the sun gradually rises to literally heat the stones
+beyond a bearable touch without some sort of protection.  At night
+however the sun goes down and the stones become cold to the touch as the
+chill of Athas sets in.
+     The traderoute continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward.
+~
+~
+0 0 25007 0
+D1
+A ravine drops off to the east, the deadly maw of Lake Pit.
+~
+~
+0 0 -1 5
+D2
+The traderoute continues southward, toward Urik.
+~
+~
+0 0 25005 0
+D3
+The grain fields of Urik lie to the west.
+~
+~
+0 0 21633 0
+D4
+~
+~
+0 0 26006 0
+S
+#25007
+Traderoute~
+     The traderoute bears ancient, gray stones, weathered from use and time.
+During the day the sun gradually rises to literally heat the stones
+beyond a bearable touch without some sort of protection.  At night
+however the sun goes down and the stones become cold to the touch as the
+chill of Athas sets in.
+     The traderoute continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward.
+~
+~
+0 0 25008 0
+D1
+A ravine drops off to the east, the deadly maw of Lake Pit.
+~
+~
+0 0 -1 5
+D2
+The traderoute continues southward, toward Urik.
+~
+~
+0 0 25006 0
+D3
+The grain fields of Urik lie to the west.
+~
+~
+0 0 21634 0
+D4
+~
+~
+0 0 26007 0
+S
+#25008
+Traderoute~
+     The traderoute bears ancient, gray stones, weathered from use and time.
+During the day the sun gradually rises to literally heat the stones
+beyond a bearable touch without some sort of protection.  At night
+however the sun goes down and the stones become cold to the touch as the
+chill of Athas sets in.
+     The traderoute continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward.
+~
+~
+0 0 25010 0
+D1
+A ravine drops off to the east, the deadly maw of Lake Pit.
+~
+~
+0 0 -1 5
+D2
+The traderoute continues southward, toward Urik.
+~
+~
+0 0 25007 0
+D3
+The grain fields of Urik lie to the west.
+~
+~
+0 0 21635 0
+D4
+~
+~
+0 0 26008 0
+S
+#25010
+Traderoute~
+     The road reaches an intersection here.  To the west lies the fields of
+Urik.  An abandoned camp can be seen just off to the road to the west and
+to the east it cuts through the vast spread of sandy desert.
+     The traderoute continues east and bends southward.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The grain fields of Urik lie to the north.
+~
+~
+0 0 21045 0
+D1
+The ancient stones stretch eastward through the desert.
+~
+~
+0 0 25011 0
+D2
+The traderoute continues southward, toward Urik.
+~
+~
+0 0 25008 0
+D3
+The grain fields of Urik lie to the west.
+~
+~
+0 0 25009 0
+D4
+~
+~
+0 0 26010 0
+S
+#25009
+Abandoned Camp~
+     The fields of Urik are tilled seasonally by burly Urikite farmers.
+Yellow-clad soldiers can be seen patrolling day and night as the crops
+and grains are tended to.  The lifeblood of the massive city-state of
+Urik lies with their food source, which is also a form of currency in
+some areas, where food doesn't grow at all.  It is rumored that the
+farmlands of Urik took the sorcerer-king Hamanu two thousand years to
+grow and till to what they are today.
+~
+~
+'field'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 21081 0
+D1
+~
+~
+0 0 25010 0
+D2
+~
+~
+0 0 21635 0
+D3
+~
+~
+0 0 21637 0
+S
+#25011
+Traderoute~
+     As one gets farther and farther from any city, this road becomes more
+and more well-maintained.  Bricks make up most of the paving.  The ends
+are anchored with primitive curb.  Frequent sweeping crews of royal-owned
+or noble-owned slaves dust off contracted regions of the road.  The
+sturdiness of the highway is a testament to the importance of the
+Traderoute between the city-states.  The sturdiness of the road is a
+point of pride for the King and the citizens of Urik at this point.  To
+the north grain fields stretch out several miles.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 21046 0
+D1
+The ancient stones stretch eastward through the desert.
+~
+~
+0 0 25012 0
+D2
+The desert stretches out before you.
+~
+~
+0 0 -1 5
+D3
+The road continues westward, toward the city-state of Urik.
+~
+~
+0 0 25010 0
+D4
+~
+~
+0 0 26011 0
+S
+#25012
+Traderoute~
+     As one gets farther and farther from any city, this road becomes more
+and more well-maintained.  Bricks make up most of the paving.  The ends
+are anchored with primitive curb.  Frequent sweeping crews of royal-owned
+or noble-owned slaves dust off contracted regions of the road.  The
+sturdiness of the highway is a testament to the importance of the
+Traderoute between the city-states.  The sturdiness of the road is a
+point of pride for the King and the citizens of Urik at this point.  To
+the north dunes stretch out as far as the eye can see.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 21047 0
+D1
+The ancient stones stretch eastward through the desert.
+~
+~
+0 0 25013 0
+D2
+The desert stretches out before you.
+~
+~
+0 0 -1 5
+D3
+The road continues westward, toward the city-state of Urik.
+~
+~
+0 0 25011 0
+D4
+~
+~
+0 0 26012 0
+S
+#25013
+Traderoute~
+     As one gets farther and farther from any city, this road becomes more
+and more well-maintained.  Bricks make up most of the paving.  The ends
+are anchored with primitive curb.  Frequent sweeping crews of royal-owned
+or noble-owned slaves dust off contracted regions of the road.  The
+sturdiness of the highway is a testament to the importance of the
+Traderoute between the city-states.  The sturdiness of the road is a
+point of pride for the King and the citizens of Urik at this point.  To
+the north dunes stretch out as far as the eye can see.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 21048 0
+D1
+The ancient stones stretch eastward through the desert.
+~
+~
+0 0 25014 0
+D2
+The desert stretches out before you.
+~
+~
+0 0 -1 5
+D3
+The road continues westward, toward the city-state of Urik.
+~
+~
+0 0 25012 0
+D4
+~
+~
+0 0 26013 0
+S
+#25014
+Traderoute~
+     As one gets farther and farther from any city, this road becomes more
+and more well-maintained.  Bricks make up most of the paving.  The ends
+are anchored with primitive curb.  Frequent sweeping crews of royal-owned
+or noble-owned slaves dust off contracted regions of the road.  The
+sturdiness of the highway is a testament to the importance of the
+Traderoute between the city-states.  The sturdiness of the road is a
+point of pride for the King and the citizens of Urik at this point.  To
+the north dunes stretch out as far as the eye can see.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 21049 0
+D1
+The ancient stones stretch eastward through the desert.
+~
+~
+0 0 25015 0
+D2
+The desert stretches out before you.
+~
+~
+0 0 -1 5
+D3
+The road continues westward, toward the city-state of Urik.
+~
+~
+0 0 25013 0
+S
+#25015
+Traderoute~
+     As one gets farther and farther from any city, this road becomes more
+and more well-maintained.  Bricks make up most of the paving.  The ends
+are anchored with primitive curb.  Frequent sweeping crews of royal-owned
+or noble-owned slaves dust off contracted regions of the road.  The
+sturdiness of the highway is a testament to the importance of the
+Traderoute between the city-states.  The sturdiness of the road is a
+point of pride for the King and the citizens of Urik at this point.  To
+the north dunes stretch out as far as the eye can see.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 21050 0
+D1
+The road creeps between two massive mekillot dunes to the east.
+~
+~
+0 0 25016 0
+D2
+The desert stretches out before you.
+~
+~
+0 0 -1 5
+D3
+The road continues westward, toward the city-state of Urik.
+~
+~
+0 0 25014 0
+D4
+~
+~
+0 0 26015 0
+S
+#25016
+Traderoute - Between Mekillot Dunes~
+     The road narrows only slightly here as it squeezes between two
+massive mekillot dunes.  The dunes reach massive heights of seven hundred
+feet or more and it seems the sand tumbling from their sides at times can
+be problems for travellers.  Slaves can be seen clearing this area
+frequently, bearing merchant house insignias on their cloaks.  The road
+is still wide enough for an argosy to travel comfortably through the two
+massive dunes.
+       The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+A huge mekillot dune rises seven hundred feet into the air.
+~
+~
+0 0 -1 5
+D1
+The ancient stones stretch eastward through the desert.
+~
+~
+0 0 25017 854574
+D2
+A huge mekillot dune rises into the air, towering over the road like some great monolithic beast.
+~
+~
+0 0 -1 5
+D3
+The road continues westward, toward the city-state of Urik.
+~
+~
+0 0 25015 0
+D4
+~
+~
+0 0 26016 0
+S
+#25017
+Traderoute~
+     The road bends here considerably, moving westward between two massive
+mekillot dunes that flank the road.  It stretches to the north and shows
+signs of more turns.  The air is filled with dust and the surrounding
+desert landscape does little to aid a traveller in finding his place on
+the wide, ancient road.
+     The road bends here, heading north and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road snakes northward around high dunes.
+~
+~
+0 0 25018 1685217635
+D1
+Desert stretches off to the east.
+~
+~
+0 0 -1 5
+D2
+The desert stretches out before you.
+~
+~
+0 0 -1 5
+D3
+The road creeps between two massive mekillot dunes to the west.
+~
+~
+0 0 25016 0
+D4
+~
+~
+0 0 26017 0
+S
+#25018
+Traderoute~
+     The traffic of the road seems to be fairly less and less at this point.
+The heavy traffic near the city-states seems to dwindle as distance
+increases.  The most common occurrence on the road will be a small
+merchant caravan, some bearing the insignia of a house, some not.  Desert
+flanks the road on all sides and does little to harness any heat away
+from the sun, as the stones are broiling hot during the late day and
+bone-numbing cold during the chill of night.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward, snaking about.
+~
+~
+0 0 25019 0
+D1
+The desert sands have thrown up all over the stones to the east, burying the road in that direction.
+~
+~
+0 0 21660 0
+D2
+The ancient road continues that way, snaking about.
+~
+~
+0 0 25017 0
+D3
+A chain of mekillot dunes lay across the desert landscape.
+~
+~
+0 0 -1 5
+D4
+~
+~
+0 0 26018 0
+S
+#25019
+Traderoute~
+     The traffic of the road seems to be fairly less and less at this point.
+The heavy traffic near the city-states seems to dwindle as distance
+increases.  The most common occurrence on the road will be a small
+merchant caravan, some bearing the insignia of a house, some not.  Desert
+flanks the road on all sides and does little to harness any heat away
+from the sun, as the stones are broiling hot during the late day and
+bone-numbing cold during the chill of night.
+     The road bends here, heading east and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches to the northern horizon.
+~
+~
+0 0 21121 0
+D1
+The road snakes eastward.
+~
+~
+0 0 25020 0
+D2
+The road snakes southward.
+~
+~
+0 0 25018 0
+D3
+A chain of mekillot dunes lay across the desert landscape.
+~
+~
+0 0 -1 5
+D4
+~
+~
+0 0 26019 0
+S
+#25020
+Traderoute~
+     The traffic of the road seems to be fairly less and less at this point.
+The heavy traffic near the city-states seems to dwindle as distance
+increases.  The most common occurrence on the road will be a small
+merchant caravan, some bearing the insignia of a house, some not.  Desert
+flanks the road on all sides and does little to harness any heat away
+from the sun, as the stones are broiling hot during the late day and
+bone-numbing cold during the chill of night.
+     The road continues east and west from here.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches to the northern horizon.
+~
+~
+0 0 21122 0
+D1
+The road stretches eastward.
+~
+~
+0 0 25021 0
+D2
+The desert sands have piled up around the road to the south.
+~
+~
+0 0 21660 0
+D3
+The road continues.
+~
+~
+0 0 25019 0
+D4
+~
+~
+0 0 26020 0
+S
+#25021
+Traderoute~
+     The traffic of the road seems to be fairly less and less at this point.
+The heavy traffic near the city-states seems to dwindle as distance
+increases.  The most common occurrence on the road will be a small
+merchant caravan, some bearing the insignia of a house, some not.  Desert
+flanks the road on all sides and does little to harness any heat away
+from the sun, as the stones are broiling hot during the late day and
+bone-numbing cold during the chill of night.
+     The road continues east and west from here.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches to the northern horizon.
+~
+~
+0 0 21123 0
+D1
+The road stretches eastward.
+~
+~
+0 0 25022 0
+D2
+The desert sands have piled up around the road to the south.
+~
+~
+0 0 21659 0
+D3
+The road continues.
+~
+~
+0 0 25020 0
+D4
+~
+~
+0 0 26021 0
+S
+#25022
+Traderoute~
+     The traffic of the road seems to be fairly less and less at this point.
+The heavy traffic near the city-states seems to dwindle as distance
+increases.  The most common occurrence on the road will be a small
+merchant caravan, some bearing the insignia of a house, some not.  Desert
+flanks the road on all sides and does little to harness any heat away
+from the sun, as the stones are broiling hot during the late day and
+bone-numbing cold during the chill of night.
+     The road continues east and west from here.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches to the northern horizon.
+~
+~
+0 0 21124 0
+D1
+The road stretches eastward.
+~
+~
+0 0 25023 0
+D2
+The desert sands have piled up around the road to the south.
+~
+~
+0 0 21658 0
+D3
+The road continues.
+~
+~
+0 0 25021 0
+D4
+~
+~
+0 0 26022 0
+S
+#25023
+Traderoute~
+     The traffic of the road seems to be fairly less and less at this point.
+The heavy traffic near the city-states seems to dwindle as distance
+increases.  The most common occurrence on the road will be a small
+merchant caravan, some bearing the insignia of a house, some not.  Desert
+flanks the road on all sides and does little to harness any heat away
+from the sun, as the stones are broiling hot during the late day and
+bone-numbing cold during the chill of night.
+     The road continues east and west from here.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches to the northern horizon.
+~
+~
+0 0 21125 0
+D1
+The road stretches eastward.
+~
+~
+0 0 25024 0
+D2
+The desert sands have piled up around the road to the south.
+~
+~
+0 0 21657 0
+D3
+The road continues.
+~
+~
+0 0 25022 0
+D4
+~
+~
+0 0 26023 0
+S
+#25024
+Traderoute - Atop a Bridge~
+     The stone blocks stop short of a wooden bridge which fords a nonexistent
+river below.  The ground dips down several feet, but is filled with sand
+and appears that it may have once held the precious water.  After
+crossing the bridge the road appears to resume it's normal trek through
+the tablelands.
+     The bridge stretches to the east and west to the roads.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+To the north, the river of sand stretches onward, one could jump the bridge perhaps and land safely.
+~
+~
+128 0 21126 0
+D1
+The bridge meets a road to the east.
+~
+~
+0 0 25025 0
+D2
+To the south the river of sand dips down and ends, one could jump down into it safely.
+~
+~
+128 0 21656 0
+D3
+The bridge meets a road to the west.
+~
+~
+0 0 25023 0
+D4
+~
+~
+0 0 26024 0
+S
+#25025
+Traderoute~
+     The traffic of the road seems to be fairly less and less at this point.
+The heavy traffic near the city-states seems to dwindle as distance
+increases.  The most common occurrence on the road will be a small
+merchant caravan, some bearing the insignia of a house, some not.  Desert
+flanks the road on all sides and does little to harness any heat away
+from the sun, as the stones are broiling hot during the late day and
+bone-numbing cold during the chill of night.
+     The road continues east and west from here.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches to the northern horizon.
+~
+~
+0 0 21127 0
+D1
+The road engages in a turn to the east.
+~
+~
+0 0 25026 0
+D2
+The desert sands have piled up around the road to the south.
+~
+~
+0 0 -1 5
+D3
+The road continues.
+~
+~
+0 0 25024 0
+S
+#25026
+Traderoute - Bend~
+     The road bends here to the south and west, it follows the desert sands
+through the tablelands.  Traffic is thin as usual being this far from
+civilization.  The road is not well-maintained here and the ancient gray
+stones are cracked and have holes in some areas.
+     The road bends to the south and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches to the northern horizon.
+~
+~
+0 0 21128 0
+D1
+Desert sands can be seen to the east.
+~
+~
+0 0 21613 0
+D2
+The road continues southward.
+~
+~
+0 0 25027 0
+D3
+The road continues.
+~
+~
+0 0 25025 0
+S
+#25027
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road engages in a turn to the north.
+~
+~
+0 0 25026 0
+D1
+Desert sands stretch eastward.
+~
+~
+0 0 21612 0
+D2
+The road stretches south through the desert sands.
+~
+~
+0 0 25028 1685217635
+D3
+The desert sands can be seen to the west.
+~
+~
+0 0 -1 5
+S
+#25028
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road stretches north through the desert sands.
+~
+~
+0 0 25027 0
+D1
+The desert lies to the east.
+~
+~
+0 0 21611 0
+D2
+The road stretches south through the desert sands.
+~
+~
+0 0 25029 0
+D3
+Desert sands can be seen to the west.
+~
+~
+0 0 -1 5
+S
+#25029
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road stretches north through the desert sands.
+~
+~
+0 0 25028 0
+D1
+The desert lies to the east.
+~
+~
+0 0 21610 0
+D2
+The road stretches south through the desert sands.
+~
+~
+0 0 25030 0
+D3
+Desert sands can be seen to the west.
+~
+~
+0 0 -1 5
+S
+#25030
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road stretches north through the desert sands.
+~
+~
+0 0 25029 0
+D1
+The desert lies to the east.
+~
+~
+0 0 21609 0
+D2
+The road stretches south through the desert sands.
+~
+~
+0 0 25031 0
+D3
+Desert sands can be seen to the west.
+~
+~
+0 0 -1 5
+S
+#25031
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road bends here, heading east and north.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road stretches north through the desert sands.
+~
+~
+0 0 25030 0
+D1
+The route through the desert continues eastward toward Raam.
+~
+~
+0 0 25032 0
+D2
+The desert stretches out to the south.
+~
+~
+0 0 21622 0
+D3
+Desert sands can be seen to the west.
+~
+~
+0 0 -1 5
+S
+#25032
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road bends here, west and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The desert stretches on to the northern horizon.
+~
+~
+0 0 21609 0
+D1
+A plain of sand can be seen to the east.
+~
+~
+0 0 21607 0
+D2
+The road continues its journey through the desert.
+~
+~
+0 0 25033 0
+D3
+The road engages in a turn to the west.
+~
+~
+0 0 25031 0
+S
+#25033
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues northward along the desert.
+~
+~
+0 0 25032 0
+D1
+A plain of sand can be seen eastward.
+~
+~
+0 0 21602 0
+D2
+The road continues to the south.
+~
+~
+0 0 25034 0
+D3
+A plain of sand can be seen to the west.
+~
+~
+0 0 21622 0
+S
+#25034
+Traderoute~
+     The ancient blocks of this road are cracked and worn, with little care
+being given to them.  Sandy desert surrounds the road on all sides as it
+continues along its way through the dusty landscape.
+     The road bends here, heading east and north.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road makes a turn to the north.
+~
+~
+0 0 25033 0
+D1
+The route continues eastward through the desert, toward Raam.
+~
+~
+0 0 25035 0
+D2
+A plain of sand stretches southward.
+~
+~
+0 0 21647 0
+D3
+The desert lies to the west.
+~
+~
+0 0 21623 0
+S
+#25035
+Traderoute~
+     The maintenance of the road begins to be seen at this point, far to the
+east a large city looms on the horizon, perhaps the reason for such care
+of the road.  Slaves and travelers can be seen every now and then, with
+the common merchant wagon.  The insignias of Raamite houses are branded
+on several of the maintenance crews, with an overseer snapping his whip
+to continue clearing sand from the large blocks of stone.  The desert
+surrounds the road on all sides.
+     The road heads east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The vast desert sands stretch to the horizon.
+~
+~
+0 0 21602 0
+D1
+The road continues eastward toward a walled city.
+~
+~
+0 0 25036 0
+D2
+The desert can be seen to the south.
+~
+~
+0 0 21648 0
+D3
+The road stretches onward to the west.
+~
+~
+0 0 25034 0
+D4
+~
+~
+0 0 26035 0
+S
+#25037
+Traderoute~
+     The maintenance of the road begins to be seen at this point, far to the
+east a large city looms on the horizon, perhaps the reason for such care
+of the road.  Slaves and travelers can be seen every now and then, with
+the common merchant wagon.  The insignias of Raamite houses are branded
+on several of the maintenance crews, with an overseer snapping his whip
+to continue clearing sand from the large blocks of stone.  The desert
+surrounds the road on all sides.
+     The road heads east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The vast desert sands stretch to the horizon.
+~
+~
+0 0 21600 0
+D1
+The road continues eastward toward a walled city.
+~
+~
+0 0 25038 0
+D2
+The desert can be seen to the south.
+~
+~
+0 0 21650 0
+D3
+The road stretches onward to the west.
+~
+~
+0 0 25036 0
+D4
+~
+~
+0 0 26037 0
+S
+#25036
+Traderoute~
+     The maintenance of the road begins to be seen at this point, far to the
+east a large city looms on the horizon, perhaps the reason for such care
+of the road.  Slaves and travelers can be seen every now and then, with
+the common merchant wagon.  The insignias of Raamite houses are branded
+on several of the maintenance crews, with an overseer snapping his whip
+to continue clearing sand from the large blocks of stone.  The desert
+surrounds the road on all sides.
+     The road heads east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The vast desert sands stretch to the horizon.
+~
+~
+0 0 21601 0
+D1
+The road continues eastward toward a walled city.
+~
+~
+0 0 25037 0
+D2
+The desert can be seen to the south.
+~
+~
+0 0 21649 0
+D3
+The road stretches onward to the west.
+~
+~
+0 0 25035 0
+D4
+~
+~
+0 0 26036 0
+S
+#25038
+Traderoute~
+     The maintenance of the road begins to be seen at this point, far to the
+east a large city looms on the horizon, perhaps the reason for such care
+of the road.  Slaves and travelers can be seen every now and then, with
+the common merchant wagon.  The insignias of Raamite houses are branded
+on several of the maintenance crews, with an overseer snapping his whip
+to continue clearing sand from the large blocks of stone.  The desert
+surrounds the road on all sides.
+     The road heads east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The vast desert sands stretch to the horizon.
+~
+~
+0 0 21599 0
+D1
+The road continues eastward toward a walled city.
+~
+~
+0 0 25039 0
+D2
+The desert can be seen to the south.
+~
+~
+0 0 21629 0
+D3
+The road stretches onward to the west.
+~
+~
+0 0 25037 0
+D4
+~
+~
+0 0 26038 0
+S
+#25039
+Traderoute~
+     The maintenance of the road begins to be seen at this point, far to the
+east a large city looms on the horizon, perhaps the reason for such care
+of the road.  Slaves and travelers can be seen every now and then, with
+the common merchant wagon.  The insignias of Raamite houses are branded
+on several of the maintenance crews, with an overseer snapping his whip
+to continue clearing sand from the large blocks of stone.  The desert
+surrounds the road on all sides.
+     The road heads east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The vast desert sands stretch to the horizon.
+~
+~
+0 0 21598 0
+D1
+The road continues eastward toward a walled city.
+~
+~
+0 0 25040 0
+D2
+The desert can be seen to the south.
+~
+~
+0 0 21626 0
+D3
+The road stretches onward to the west.
+~
+~
+0 0 25038 0
+D4
+~
+~
+0 0 26039 0
+S
+#25040
+Outside Western Gates of Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25041 1685217635
+D3
+~
+~
+0 0 25039 0
+S
+#25041
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25042 0
+D2
+~
+~
+0 0 25040 0
+S
+#25042
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25043 0
+D2
+~
+~
+0 0 25041 0
+S
+#25043
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25044 0
+D2
+~
+~
+0 0 25042 0
+S
+#25044
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25045 0
+D2
+~
+~
+0 0 25043 0
+S
+#25045
+Going around Raam~
+Temporary.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25046 0
+D3
+~
+~
+0 0 25044 0
+S
+#25046
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25047 0
+D3
+~
+~
+0 0 25045 0
+S
+#25047
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25048 0
+D3
+~
+~
+0 0 25046 0
+S
+#25048
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25049 0
+D3
+~
+~
+0 0 25047 0
+S
+#25049
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25050 0
+D3
+~
+~
+0 0 25048 0
+S
+#25050
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25049 0
+D2
+~
+~
+0 0 25051 1685217635
+S
+#25051
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25050 0
+D2
+~
+~
+0 0 25052 0
+S
+#25052
+Going around Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25051 0
+D2
+~
+~
+0 0 25053 0
+S
+#25053
+Eastern gates of Raam~
+Temporary.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25052 0
+D1
+~
+~
+0 0 25054 0
+S
+#25054
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25055 0
+D3
+~
+~
+0 0 25053 0
+S
+#25055
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25056 0
+D3
+~
+~
+0 0 25054 0
+S
+#25056
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25057 0
+D3
+~
+~
+0 0 25055 0
+S
+#25057
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25058 0
+D3
+~
+~
+0 0 25056 0
+S
+#25058
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25059 0
+D3
+~
+~
+0 0 25057 0
+S
+#25059
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25060 0
+D3
+~
+~
+0 0 25058 0
+S
+#25060
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25061 0
+D3
+~
+~
+0 0 25059 0
+S
+#25061
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25062 0
+D3
+~
+~
+0 0 25060 0
+S
+#25062
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25063 0
+D3
+~
+~
+0 0 25061 0
+S
+#25063
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25064 0
+D3
+~
+~
+0 0 25062 0
+S
+#25064
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25065 0
+D3
+~
+~
+0 0 25063 0
+S
+#25066
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25067 0
+D3
+~
+~
+0 0 25065 0
+S
+#25065
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25066 0
+D3
+~
+~
+0 0 25064 0
+S
+#25067
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25068 0
+D3
+~
+~
+0 0 25066 0
+S
+#25068
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues bending north and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25069 0
+D3
+~
+~
+0 0 25067 0
+S
+#25069
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25070 0
+D2
+~
+~
+0 0 25068 0
+S
+#25070
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road bends east and south from here.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25071 0
+D2
+~
+~
+0 0 25069 0
+S
+#25071
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25072 0
+D3
+~
+~
+0 0 25070 0
+S
+#25072
+Outside Fort Ebon~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25073 0
+D3
+~
+~
+0 0 25071 0
+S
+#25073
+Around the Fort we go~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25074 0
+D2
+~
+~
+0 0 25072 0
+S
+#25074
+Around the Fort we go~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25075 0
+D2
+~
+~
+0 0 25073 0
+S
+#25075
+Around the Fort we go~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25076 0
+D3
+~
+~
+0 0 25074 0
+S
+#25076
+Around the Fort we go~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25077 0
+D3
+~
+~
+0 0 25075 0
+S
+#25077
+Around the Fort we go~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25076 0
+D2
+~
+~
+0 0 25078 0
+S
+#25078
+Outside Fort Ebon~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25077 0
+D1
+~
+~
+0 0 25079 1919902817
+S
+#25079
+Traderoute - Silt Shoals to the South~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travelers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  A sandy expanse of
+terrain can be see northward, whereas to the south, not far from this
+road lies the shore of the Sea of Silt.  The deadly body of silt is far
+from dangerous here, near the shoals where it is shallow, but the deeper
+one gets to the Sea the greater the chance of drowning.
+     The road continues to the east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25080 0
+D3
+~
+~
+0 0 25078 0
+S
+#25080
+Traderoute - Silt Shoals to the South~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travelers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  A sandy expanse of
+terrain can be see northward, whereas to the south, not far from this
+road lies the shore of the Sea of Silt.  The deadly body of silt is far
+from dangerous here, near the shoals where it is shallow, but the deeper
+one gets to the Sea the greater the chance of drowning.
+     The road continues to the east and west.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25081 0
+D3
+~
+~
+0 0 25079 0
+S
+#25081
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travelers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  A sandy expanse of
+terrain can be see northward, whereas to the south, not far from this
+road lies the shore of the Sea of Silt.  The deadly body of silt is far
+from dangerous here, near the shoals where it is shallow, but the deeper
+one gets to the Sea the greater the chance of drowning.
+     The road curved here to the north and west, while a path lies to the south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25082 0
+D2
+A path of trodden earth lies to the south, flanked by stone pillars.
+~
+~
+0 0 4801 5
+D3
+~
+~
+0 0 25080 0
+S
+#25082
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25083 0
+D2
+~
+~
+0 0 25081 0
+S
+#25083
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25084 0
+D2
+~
+~
+0 0 25082 0
+S
+#25084
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25085 0
+D2
+~
+~
+0 0 25083 0
+S
+#25086
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25087 0
+D2
+~
+~
+0 0 25085 0
+S
+#25085
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25086 0
+D2
+~
+~
+0 0 25084 0
+S
+#25087
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25088 1685217635
+D2
+~
+~
+0 0 25086 0
+S
+#25088
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25089 0
+D2
+~
+~
+0 0 25087 0
+S
+#25089
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25090 0
+D2
+~
+~
+0 0 25088 0
+S
+#25090
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25091 0
+D2
+~
+~
+0 0 25089 0
+S
+#25091
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25092 0
+D2
+~
+~
+0 0 25090 0
+S
+#25092
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25093 0
+D2
+~
+~
+0 0 25091 0
+D3
+You see sands off of the tradeourte.
+~
+~
+0 0 -1 5
+S
+#25093
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25094 0
+D2
+~
+~
+0 0 25092 0
+S
+#25094
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25095 0
+D2
+~
+~
+0 0 25093 0
+S
+#25095
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road continues onward north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25096 0
+D2
+~
+~
+0 0 25094 0
+S
+#25096
+Traderoute~
+     The ancient stones of this route are large blocks, scarred and worn from
+millenia of use.  Travellers from all walks of life are forced to use it,
+from the richest merchant to the poorest mercenary.  Sand flanks both
+sides of the road, stretching off to the horizon.
+     The road bends east and south from here.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25097 0
+D2
+~
+~
+0 0 25095 0
+S
+#25097
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25098 0
+D3
+~
+~
+0 0 25096 0
+S
+#25098
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25099 1685217635
+D3
+~
+~
+0 0 25097 0
+S
+#25099
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25100 0
+D2
+~
+~
+0 0 25098 0
+S
+#25100
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25101 0
+D2
+~
+~
+0 0 25099 0
+S
+#25101
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 2169 0
+D2
+~
+~
+0 0 25100 0
+S
+#26011
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 25011 0
+S
+#26010
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27010 0
+D5
+~
+~
+0 0 25010 0
+S
+#27010
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26010 0
+S
+#26008
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27008 0
+D5
+~
+~
+0 0 25008 0
+S
+#27008
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26008 0
+S
+#26007
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27007 0
+D5
+~
+~
+0 0 25007 0
+S
+#27007
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26007 0
+S
+#26006
+New Room.~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27006 0
+D5
+~
+~
+0 0 25006 0
+S
+#27006
+New Room.~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26006 0
+S
+#26005
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27005 0
+D5
+~
+~
+0 0 25005 0
+S
+#27005
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26005 0
+S
+#26004
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27004 0
+D5
+~
+~
+0 0 25004 0
+S
+#27004
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26004 0
+S
+#26003
+In the air above a traderoute~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27003 0
+D5
+~
+~
+0 0 25003 0
+S
+#27003
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26003 0
+S
+#26002
+In the air~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27002 0
+D5
+Below lies a wide road, heading north and west.
+~
+~
+0 0 25002 0
+S
+#27002
+High in the air~
+Empty description.
+~
+~
+'air'
+4 0 0
+0 0 0
+D5
+Far below lies a wide road, leading north and west into the great and
+massive city of Urik.
+~
+~
+0 0 26002 0
+S
+#26012
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27012 0
+D5
+~
+~
+0 0 25012 0
+S
+#27012
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26012 0
+S
+#26013
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27013 0
+D5
+~
+~
+0 0 25013 0
+S
+#27013
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26013 0
+S
+#26015
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27015 0
+D5
+~
+~
+0 0 25015 0
+S
+#27015
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26015 0
+S
+#26016
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27016 0
+D5
+~
+~
+0 0 25016 0
+S
+#27016
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26016 0
+S
+#26019
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27019 0
+D5
+~
+~
+0 0 25019 0
+S
+#27019
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26019 0
+S
+#26018
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27018 0
+D5
+~
+~
+0 0 25018 0
+S
+#27018
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26018 0
+S
+#26017
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27017 0
+D5
+~
+~
+0 0 25017 0
+S
+#27017
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26017 0
+S
+#26020
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27020 0
+D5
+~
+~
+0 0 25020 0
+S
+#27020
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26020 0
+S
+#26021
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27021 0
+D5
+~
+~
+0 0 25021 0
+S
+#27021
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26021 0
+S
+#26022
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27022 0
+D5
+~
+~
+0 0 25022 0
+S
+#27022
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26022 0
+S
+#26023
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27023 0
+D5
+~
+~
+0 0 25023 0
+S
+#27023
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26023 0
+S
+#26024
+New Room.~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27024 0
+D5
+~
+~
+0 0 25024 0
+S
+#27024
+New Room.~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26024 0
+S
+#26035
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27035 0
+D5
+~
+~
+0 0 25035 0
+S
+#27035
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26035 0
+S
+#26036
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27036 0
+D5
+~
+~
+0 0 25036 0
+S
+#27036
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26036 0
+S
+#26037
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27037 0
+D5
+~
+~
+0 0 25037 0
+S
+#27037
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26037 0
+S
+#26038
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27038 0
+D5
+~
+~
+0 0 25038 0
+S
+#27038
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26038 0
+S
+#26039
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 27039 0
+D5
+~
+~
+0 0 25039 0
+S
+#27039
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D5
+~
+~
+0 0 26039 0
+S
+#25102
+Traderoute - Nearing Urik~
+     This road is bordered by sand and the fields of Urik, the ancient
+cracked stones swept clean by slaving companies.  The crack of the whip
+is a rarity so close to Urik, where slaves are well-fed and live a
+healthy lifestyle.  However the brutal justice of Hamanu is carried out
+with swift efficiency by his templars, whom can be seen with contingents
+of soldiers so close to the city - patrolling.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road continues to the north.
+~
+~
+0 0 13269 0
+D2
+The road continues to the south.
+~
+~
+0 0 25103 1920212992
+S
+#25103
+Traderoute - Nearing Urik~
+     This road is bordered by sand and the fields of Urik, the ancient
+cracked stones swept clean by slaving companies.  The crack of the whip
+is a rarity so close to Urik, where slaves are well-fed and live a
+healthy lifestyle.  However the brutal justice of Hamanu is carried out
+with swift efficiency by his templars, whom can be seen with contingents
+of soldiers so close to the city - patrolling.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road stretches northward, toward a great yellow-walled city.
+~
+~
+0 0 25102 0
+D2
+The road stretches southward, further into the bleakness of the Athasian deserts.
+~
+~
+0 0 25104 0
+S
+#25104
+Traderoute~
+     This road is bordered by sand and the fields of Urik, the ancient
+cracked stones swept clean by slaving companies.  The crack of the whip
+is a rarity so close to Urik, where slaves are well-fed and live a
+healthy lifestyle.  However the brutal justice of Hamanu is carried out
+with swift efficiency by his templars, whom can be seen with contingents
+of soldiers so close to the city - patrolling.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road stretches northward, toward a great yellow-walled city.
+~
+~
+0 0 25103 0
+D2
+The road stretches southward, further into the bleakness of the Athasian deserts.
+~
+~
+0 0 25105 0
+S
+#25105
+Traderoute~
+     This road is bordered by sand and the fields of Urik, the ancient
+cracked stones swept clean by slaving companies.  The crack of the whip
+is a rarity so close to Urik, where slaves are well-fed and live a
+healthy lifestyle.  However the brutal justice of Hamanu is carried out
+with swift efficiency by his templars, whom can be seen with contingents
+of soldiers so close to the city - patrolling.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+To the north the road continues, piles of sand a testament to the lack of maintenance so far from the cities.
+~
+~
+0 0 25104 0
+D2
+The road cuts straight south through desert sands.
+~
+~
+0 0 25106 0
+S
+#25106
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25105 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25107 0
+S
+#25107
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25106 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25108 0
+S
+#25108
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25107 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25109 0
+S
+#25109
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25108 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25110 0
+S
+#25110
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25109 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25111 0
+S
+#25111
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25110 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25112 0
+S
+#25112
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25111 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25113 0
+S
+#25113
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25112 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25114 0
+S
+#25114
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25113 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25115 0
+S
+#25115
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25114 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25116 0
+S
+#25116
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25115 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25117 0
+S
+#25117
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25116 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25118 0
+S
+#25118
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25117 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25119 0
+S
+#25119
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25118 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25120 0
+S
+#25120
+Traderoute~
+     This road is bordered by sand and desert, bleakness becoming the main
+scenery.  The ancient stones bear piles of sand here and there, as one
+gets farther out the route is less and less maintained.  However, a
+caravan, wagon, or a team of kank-riding travelers is not uncommon as is
+this is the main road to the Tyr region.
+     The road continues north and south.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25119 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25121 0
+S
+#25121
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25120 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25122 0
+S
+#25122
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25121 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25123 0
+S
+#25123
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25122 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25124 0
+S
+#25124
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25123 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25125 0
+S
+#25125
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25124 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25126 0
+S
+#25126
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25125 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25127 0
+S
+#25127
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25126 0
+D2
+The road stretches onward into the bleak horizon.
+~
+~
+0 0 25128 0
+S
+#25128
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25127 0
+D2
+In the distance, the road engages in a turn, a massive dune blocking further travel.
+~
+~
+0 0 25129 0
+S
+#25129
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+The road cuts straight north through desert sands.
+~
+~
+0 0 25128 0
+D1
+The desert sands stretch out to the east.
+~
+~
+0 0 -1 5
+D2
+A massive mekillot dune rises into the sky.
+~
+~
+0 0 -1 5
+D3
+The road curves around a massive mekillot dune.
+~
+~
+0 0 25130 0
+S
+#25130
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25129 0
+D3
+~
+~
+0 0 25131 0
+S
+#25131
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25130 0
+D2
+~
+~
+0 0 25132 0
+S
+#25132
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25131 0
+D2
+~
+~
+0 0 25133 0
+S
+#25133
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25132 0
+D2
+~
+~
+0 0 25134 0
+S
+#25134
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25133 0
+D2
+~
+~
+0 0 25135 0
+S
+#25135
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25134 0
+D2
+~
+~
+0 0 25136 0
+S
+#25136
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25135 0
+D2
+~
+~
+0 0 25137 0
+S
+#25137
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25136 0
+D2
+~
+~
+0 0 25138 0
+S
+#25138
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25137 0
+D2
+~
+~
+0 0 25139 0
+S
+#25139
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25138 0
+D2
+~
+~
+0 0 25140 0
+S
+#25140
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25139 0
+D2
+~
+~
+0 0 25141 3328
+S
+#25141
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25140 0
+D2
+~
+~
+0 0 25142 0
+S
+#25142
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25141 0
+D2
+~
+~
+0 0 25143 0
+S
+#25143
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25142 0
+D2
+~
+~
+0 0 25144 0
+S
+#25144
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25143 0
+D2
+~
+~
+0 0 25145 0
+S
+#25145
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25144 0
+D3
+~
+~
+0 0 25146 0
+S
+#25146
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25145 0
+D3
+~
+~
+0 0 25147 0
+S
+#25147
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25146 0
+D3
+~
+~
+0 0 25148 0
+S
+#25148
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25147 0
+D2
+~
+~
+0 0 25149 0
+S
+#25149
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25148 0
+D2
+~
+~
+0 0 25150 0
+S
+#25150
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25149 0
+D2
+~
+~
+0 0 25151 0
+S
+#25151
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25150 0
+D2
+~
+~
+0 0 25152 0
+S
+#25152
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25151 0
+D2
+~
+~
+0 0 25153 0
+S
+#25153
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25152 0
+D2
+~
+~
+0 0 25154 0
+S
+#25154
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25153 0
+D2
+~
+~
+0 0 25155 0
+S
+#25155
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25154 0
+D2
+~
+~
+0 0 25156 0
+S
+#25156
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25155 0
+D2
+~
+~
+0 0 25157 0
+S
+#25157
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25156 0
+D2
+~
+~
+0 0 25158 0
+S
+#25158
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25157 0
+D2
+~
+~
+0 0 25159 0
+S
+#25159
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25158 0
+D2
+~
+~
+0 0 25160 0
+S
+#25160
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25159 0
+D2
+~
+~
+0 0 25161 0
+S
+#25161
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25160 0
+D2
+~
+~
+0 0 25162 0
+S
+#25162
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25161 0
+D2
+~
+~
+0 0 25163 0
+S
+#25163
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25162 0
+D2
+~
+~
+0 0 25164 0
+S
+#25164
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25163 0
+D2
+~
+~
+0 0 25165 0
+S
+#25165
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25164 0
+D2
+~
+~
+0 0 25166 0
+S
+#25166
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25165 0
+D2
+~
+~
+0 0 25167 0
+S
+#25167
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25166 0
+D2
+~
+~
+0 0 25168 0
+S
+#25168
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25167 0
+D2
+~
+~
+0 0 25169 0
+S
+#25169
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25168 0
+D2
+~
+~
+0 0 25170 0
+S
+#25170
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25169 0
+D2
+~
+~
+0 0 25171 0
+S
+#25171
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25170 0
+D2
+~
+~
+0 0 25172 0
+S
+#25172
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25171 0
+D1
+~
+~
+0 0 25183 1769107539
+D2
+~
+~
+0 0 25173 0
+S
+#25173
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25172 0
+D2
+~
+~
+0 0 25174 0
+S
+#25174
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25173 0
+D2
+~
+~
+0 0 25175 0
+S
+#25175
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25174 0
+D2
+~
+~
+0 0 25176 0
+S
+#25176
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25175 0
+D2
+~
+~
+0 0 25177 0
+S
+#25177
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25176 0
+D2
+~
+~
+0 0 25178 0
+S
+#25178
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25177 0
+D2
+~
+~
+0 0 25179 0
+S
+#25179
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25178 0
+D2
+~
+~
+0 0 25180 0
+S
+#25180
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25179 0
+D2
+~
+~
+0 0 25181 0
+S
+#25181
+Traderoute - Nearing Silver Spring~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25180 0
+D2
+~
+~
+0 0 25182 0
+S
+#25182
+Traderoute - Outside Silver Spring~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25181 0
+D1
+~
+~
+0 0 10000 0
+D2
+~
+~
+0 0 25184 1769107456
+S
+#25183
+Traderoute to Shazlim and Raam~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 25172 0
+S
+#25184
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25182 0
+D2
+~
+~
+0 0 25185 1769107456
+S
+#25185
+Traderoute - Intersection, South to Altaruk, West to Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25184 0
+D2
+~
+~
+0 0 25294 0
+D3
+~
+~
+0 0 25186 0
+S
+#25186
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25185 0
+D3
+~
+~
+0 0 25187 0
+S
+#25187
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25186 0
+D3
+~
+~
+0 0 25188 0
+S
+#25188
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25187 0
+D3
+~
+~
+0 0 25189 0
+S
+#25189
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25188 0
+D3
+~
+~
+0 0 25190 0
+S
+#25190
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25189 0
+D3
+~
+~
+0 0 25192 0
+S
+#25192
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25190 0
+D3
+~
+~
+0 0 25191 0
+S
+#25191
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25192 0
+D3
+~
+~
+0 0 25193 0
+S
+#25193
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25191 0
+D3
+~
+~
+0 0 25194 0
+S
+#25194
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25193 0
+D3
+~
+~
+0 0 25195 0
+S
+#25195
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25194 0
+D3
+~
+~
+0 0 25196 0
+S
+#25196
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25195 0
+D3
+~
+~
+0 0 25197 0
+S
+#25197
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25196 0
+D3
+~
+~
+0 0 25198 0
+S
+#25198
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25197 0
+D3
+~
+~
+0 0 25199 0
+S
+#25199
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25198 0
+D3
+~
+~
+0 0 25200 0
+S
+#25200
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25199 0
+D3
+~
+~
+0 0 25201 0
+S
+#25201
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25200 0
+D3
+~
+~
+0 0 25202 0
+S
+#25202
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25201 0
+D3
+~
+~
+0 0 25203 0
+S
+#25203
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25202 0
+D3
+~
+~
+0 0 25204 0
+S
+#25204
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25203 0
+D3
+~
+~
+0 0 25205 0
+S
+#25205
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25204 0
+D3
+~
+~
+0 0 25206 854574
+S
+#25206
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25205 0
+D3
+~
+~
+0 0 25207 0
+S
+#25207
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25206 0
+D3
+~
+~
+0 0 25208 0
+S
+#25208
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25207 0
+D3
+~
+~
+0 0 25209 0
+S
+#25209
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25208 0
+D3
+~
+~
+0 0 25210 0
+S
+#25210
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25209 0
+D3
+~
+~
+0 0 25211 0
+S
+#25211
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25210 0
+D3
+~
+~
+0 0 25212 0
+S
+#25212
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25211 0
+D3
+~
+~
+0 0 25213 0
+S
+#25213
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25212 0
+D3
+~
+~
+0 0 25214 0
+S
+#25214
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25213 0
+D3
+~
+~
+0 0 25215 0
+S
+#25215
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25214 0
+D3
+~
+~
+0 0 25216 0
+S
+#25216
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25215 0
+D3
+~
+~
+0 0 25217 0
+S
+#25217
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25216 0
+D3
+~
+~
+0 0 25218 0
+S
+#25218
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25217 0
+D3
+~
+~
+0 0 25219 0
+S
+#25219
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25218 0
+D3
+~
+~
+0 0 25220 0
+S
+#25220
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25219 0
+D3
+~
+~
+0 0 25221 0
+S
+#25221
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25220 0
+D3
+~
+~
+0 0 25222 0
+S
+#25222
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25221 0
+D3
+~
+~
+0 0 25223 0
+S
+#25223
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25222 0
+D3
+~
+~
+0 0 25224 0
+S
+#25224
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25223 0
+D3
+~
+~
+0 0 25225 0
+S
+#25225
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25224 0
+D3
+~
+~
+0 0 25226 0
+S
+#25226
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25225 0
+D3
+~
+~
+0 0 25227 0
+S
+#25227
+Traderoute - Cutting through the Great Alluvial Sand Wastes~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25226 0
+D3
+~
+~
+0 0 25228 854574
+S
+#25228
+Traderoute - Nearing Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25227 0
+D3
+~
+~
+0 0 25229 8023663
+S
+#25229
+Traderoute - Nearing Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25228 0
+D3
+~
+~
+0 0 25230 0
+S
+#25230
+Outside Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25231 8023552
+D1
+~
+~
+0 0 25229 0
+S
+#25231
+Around Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25230 0
+D3
+~
+~
+0 0 25232 0
+S
+#25232
+Around Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25231 0
+D3
+~
+~
+0 0 25233 0
+S
+#25233
+Around Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25232 0
+D2
+~
+~
+0 0 25234 0
+S
+#25234
+Outside Fort Skonz~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25233 0
+D3
+~
+~
+0 0 25235 854574
+S
+#25235
+Traderoute Curves North to Tyr~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25236 29184
+D1
+~
+~
+0 0 25234 0
+S
+#25236
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25237 0
+D2
+~
+~
+0 0 25235 0
+S
+#25237
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25236 0
+D3
+~
+~
+0 0 25238 0
+S
+#25238
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25239 0
+D1
+~
+~
+0 0 25237 0
+S
+#25239
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25240 0
+D2
+~
+~
+0 0 25238 0
+S
+#25240
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25239 0
+D3
+~
+~
+0 0 25241 0
+S
+#25241
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25242 0
+D1
+~
+~
+0 0 25240 0
+S
+#25242
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25243 0
+D2
+~
+~
+0 0 25241 0
+S
+#25243
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25244 0
+D2
+~
+~
+0 0 25242 0
+S
+#25244
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25245 0
+D2
+~
+~
+0 0 25243 0
+S
+#25245
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25246 0
+D2
+~
+~
+0 0 25244 0
+S
+#25246
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25247 0
+D2
+~
+~
+0 0 25245 0
+S
+#25247
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25248 0
+D2
+~
+~
+0 0 25246 0
+S
+#25248
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25249 0
+D2
+~
+~
+0 0 25247 0
+S
+#25249
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25250 0
+D2
+~
+~
+0 0 25248 0
+S
+#25250
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25251 0
+D2
+~
+~
+0 0 25249 0
+S
+#25251
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25252 0
+D2
+~
+~
+0 0 25250 0
+S
+#25252
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25251 0
+D3
+~
+~
+0 0 25253 0
+S
+#25253
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25252 0
+D3
+~
+~
+0 0 25254 0
+S
+#25254
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25253 0
+D3
+~
+~
+0 0 25255 0
+S
+#25255
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25257 0
+D1
+~
+~
+0 0 25254 0
+S
+#25257
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25256 0
+D2
+~
+~
+0 0 25255 0
+S
+#25256
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25258 0
+D2
+~
+~
+0 0 25257 0
+S
+#25258
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25259 0
+D2
+~
+~
+0 0 25256 0
+S
+#25259
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25260 0
+D2
+~
+~
+0 0 25258 0
+S
+#25260
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25259 0
+D3
+~
+~
+0 0 25261 1948280164
+S
+#25261
+Traderoute ~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25260 0
+D3
+~
+~
+0 0 25262 1377828965
+S
+#25262
+Traderoute ~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25261 0
+D3
+~
+~
+0 0 25263 0
+S
+#25263
+Traderoute ~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25264 0
+D1
+~
+~
+0 0 25262 0
+S
+#25264
+Traderoute ~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25265 0
+D2
+~
+~
+0 0 25263 0
+S
+#25265
+Traderoute ~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25266 0
+D2
+~
+~
+0 0 25264 0
+S
+#25266
+Traderoute ~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25265 0
+D3
+~
+~
+0 0 25268 0
+S
+#25267
+Abandoned Camp~
+This camp is abandoned.
+~
+~
+'inside'
+4 0 0
+0 0 0
+S
+#25268
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25266 0
+D3
+~
+~
+0 0 25269 29550
+S
+#25269
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25268 0
+D3
+~
+~
+0 0 25270 29550
+S
+#25270
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25269 0
+D3
+~
+~
+0 0 25271 0
+S
+#25271
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25270 0
+D3
+~
+~
+0 0 25272 0
+S
+#25272
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25271 0
+D3
+~
+~
+0 0 25273 0
+S
+#25273
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25272 0
+D3
+~
+~
+0 0 25274 0
+S
+#25274
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25273 0
+D3
+~
+~
+0 0 25275 0
+S
+#25275
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25274 0
+D3
+~
+~
+0 0 25276 0
+S
+#25276
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25275 0
+D3
+~
+~
+0 0 25277 0
+S
+#25277
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25276 0
+D3
+~
+~
+0 0 25278 0
+S
+#25278
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25277 0
+D3
+~
+~
+0 0 25279 0
+S
+#25279
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25278 0
+D3
+~
+~
+0 0 25280 0
+S
+#25280
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25279 0
+D3
+~
+~
+0 0 25281 0
+S
+#25281
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25280 0
+D3
+~
+~
+0 0 25282 0
+S
+#25282
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25281 0
+D3
+~
+~
+0 0 25283 0
+S
+#25283
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25282 0
+D3
+~
+~
+0 0 25284 0
+S
+#25284
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25283 0
+D3
+~
+~
+0 0 25285 0
+S
+#25285
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25284 0
+D3
+~
+~
+0 0 25286 0
+S
+#25286
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25287 0
+D1
+~
+~
+0 0 25285 0
+S
+#25287
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25288 0
+D2
+~
+~
+0 0 25286 0
+S
+#25288
+Traderoute~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25289 0
+D2
+~
+~
+0 0 25287 0
+S
+#25289
+Traderoute - Nearing Tyr~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25290 0
+D2
+~
+~
+0 0 25288 0
+S
+#25290
+Traderoute - Nearing Tyr~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25291 0
+D2
+~
+~
+0 0 25289 0
+S
+#25291
+Traderoute - Nearing Tyr~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25292 0
+D2
+~
+~
+0 0 25290 0
+S
+#25292
+Traderoute - Near Caravan Gate~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25291 0
+D3
+~
+~
+0 0 25293 0
+S
+#25293
+Traderoute - Outside Caravan Gate~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25292 0
+S
+#25294
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25185 0
+D2
+~
+~
+0 0 25295 0
+S
+#25295
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25294 0
+D2
+~
+~
+0 0 25296 29550
+S
+#25296
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25295 0
+D2
+~
+~
+0 0 25297 0
+S
+#25297
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25296 0
+D2
+~
+~
+0 0 25298 0
+S
+#25298
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25297 0
+D2
+~
+~
+0 0 25299 0
+S
+#25299
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25298 0
+D2
+~
+~
+0 0 25300 0
+S
+#25300
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25299 0
+D2
+~
+~
+0 0 25301 0
+S
+#25301
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25300 0
+D2
+~
+~
+0 0 25302 0
+S
+#25302
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25301 0
+D2
+~
+~
+0 0 25303 0
+S
+#25303
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25302 0
+D2
+~
+~
+0 0 25304 0
+S
+#25304
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25303 0
+D2
+~
+~
+0 0 25305 0
+S
+#25305
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25304 0
+D2
+~
+~
+0 0 25306 0
+S
+#25306
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25305 0
+D2
+~
+~
+0 0 25307 0
+S
+#25307
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25306 0
+D2
+~
+~
+0 0 25308 0
+S
+#25308
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25307 0
+D2
+~
+~
+0 0 25309 0
+S
+#25309
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25308 0
+D2
+~
+~
+0 0 25310 0
+S
+#25310
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25309 0
+D2
+~
+~
+0 0 25311 0
+S
+#25311
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25310 0
+D2
+~
+~
+0 0 25312 0
+S
+#25312
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25311 0
+D2
+~
+~
+0 0 25313 0
+S
+#25313
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25312 0
+D2
+~
+~
+0 0 25314 0
+S
+#25314
+Traderoute - Outside Abalath~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25313 0
+D3
+~
+~
+0 0 25315 0
+S
+#25315
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25314 0
+D2
+~
+~
+0 0 25316 0
+S
+#25316
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25315 0
+D2
+~
+~
+0 0 25317 0
+S
+#25317
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25316 0
+D1
+~
+~
+0 0 25318 0
+S
+#25318
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25319 0
+D3
+~
+~
+0 0 25317 0
+S
+#25319
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25320 0
+D3
+~
+~
+0 0 25318 0
+S
+#25320
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25319 0
+D2
+~
+~
+0 0 25321 0
+S
+#25321
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25320 0
+D1
+~
+~
+0 0 25322 0
+S
+#25322
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25323 0
+D3
+~
+~
+0 0 25321 0
+S
+#25323
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25324 0
+D3
+~
+~
+0 0 25322 0
+S
+#25324
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25325 0
+D3
+~
+~
+0 0 25323 0
+S
+#25325
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25324 0
+D2
+~
+~
+0 0 25326 0
+S
+#25326
+Traderoute - At the base of Mountains~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25325 0
+D3
+~
+~
+0 0 25327 0
+S
+#25327
+Traderoute - At the base of Mountains~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25326 0
+D3
+~
+~
+0 0 25328 0
+S
+#25328
+Traderoute - At the base of Mountains~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25327 0
+D2
+~
+~
+0 0 25329 0
+S
+#25329
+Traderoute - At the base of Mountains~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25328 0
+D3
+~
+~
+0 0 25330 0
+S
+#25330
+Traderoute - At the base of Mountains~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25329 0
+D2
+~
+~
+0 0 25331 0
+S
+#25331
+Traderoute - Right near Estuary of the Forked Tongue (Silt Sea)~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25330 0
+D1
+~
+~
+0 0 25332 0
+D3
+~
+~
+0 0 25333 854574
+S
+#25332
+Traderoute - to Fort Kalvis~
+Empty description.
+Silt Sea to the south, the whole way to Kalvis almost.
+~
+~
+'road'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 25331 0
+S
+#25333
+Traderoute - Right near Estuary of the Forked Tongue (Silt Sea)~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25331 0
+D3
+~
+~
+0 0 25334 0
+S
+#25334
+Traderoute - Right near Estuary of the Forked Tongue (Silt Sea)~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25333 0
+D3
+~
+~
+0 0 25335 0
+S
+#25335
+Traderoute - Right near Estuary of the Forked Tongue (Silt Sea)~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25334 0
+D2
+~
+~
+0 0 25336 0
+S
+#25336
+Traderoute - Right near Estuary of the Forked Tongue (Silt Sea)~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25335 0
+D2
+~
+~
+0 0 25337 0
+S
+#25337
+Traderoute - Right near Estuary of the Forked Tongue (Silt Sea)~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25336 0
+D2
+~
+~
+0 0 25338 0
+S
+#25338
+Traderoute - Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25337 0
+D1
+~
+~
+0 0 25346 0
+D3
+~
+~
+0 0 25339 0
+S
+#25339
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25338 0
+D3
+~
+~
+0 0 25340 0
+S
+#25340
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25339 0
+D2
+~
+~
+0 0 25341 0
+S
+#25341
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25340 0
+D2
+~
+~
+0 0 25342 0
+S
+#25342
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25341 0
+D1
+~
+~
+0 0 25343 0
+D2
+~
+~
+0 0 25348 0
+S
+#25343
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25344 0
+D3
+~
+~
+0 0 25342 0
+S
+#25344
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25345 0
+D2
+~
+~
+0 0 25347 0
+D3
+~
+~
+0 0 25343 0
+S
+#25345
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25346 0
+D2
+~
+~
+0 0 25344 0
+S
+#25346
+Outside Altaruk~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25345 0
+D3
+~
+~
+0 0 25338 0
+S
+#25347
+Traderoute - Near Estuary of Silt - To Balic~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25344 0
+D2
+~
+~
+0 0 25349 0
+S
+#25348
+Traderoute - Near Mountains - To Fort Adros~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25342 0
+S
+#25349
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25347 0
+D2
+~
+~
+0 0 25350 0
+S
+#25350
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25349 0
+D2
+~
+~
+0 0 25351 0
+S
+#25351
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25350 0
+D1
+~
+~
+0 0 25352 0
+S
+#25352
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25353 0
+D3
+~
+~
+0 0 25351 0
+S
+#25353
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25352 0
+D2
+~
+~
+0 0 25354 0
+S
+#25354
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25353 0
+D1
+~
+~
+0 0 25355 0
+S
+#25355
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25356 0
+D3
+~
+~
+0 0 25354 0
+S
+#25356
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25355 0
+D1
+~
+~
+0 0 25357 0
+S
+#25357
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25358 0
+D3
+~
+~
+0 0 25356 0
+S
+#25358
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25357 0
+D1
+~
+~
+0 0 25359 0
+S
+#25359
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25360 0
+D3
+~
+~
+0 0 25358 0
+S
+#25360
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25359 0
+D2
+~
+~
+0 0 25361 0
+S
+#25361
+Traderoute - Grak's Pool~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25360 0
+D2
+~
+~
+0 0 25362 0
+S
+#25362
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25361 0
+D2
+~
+~
+0 0 25363 0
+S
+#25363
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25362 0
+D2
+~
+~
+0 0 25364 0
+S
+#25364
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25363 0
+D1
+~
+~
+0 0 25365 0
+S
+#25365
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25366 0
+D3
+~
+~
+0 0 25364 0
+S
+#25366
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25367 0
+D3
+~
+~
+0 0 25365 0
+S
+#25367
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25366 0
+D2
+~
+~
+0 0 25368 0
+S
+#25368
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25367 0
+D1
+~
+~
+0 0 25369 0
+S
+#25369
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25370 0
+D3
+~
+~
+0 0 25368 0
+S
+#25370
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25369 0
+D2
+~
+~
+0 0 25371 0
+S
+#25371
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25370 0
+D2
+~
+~
+0 0 25372 0
+S
+#25372
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25371 0
+D2
+~
+~
+0 0 25373 0
+S
+#25373
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25372 0
+D2
+~
+~
+0 0 25374 0
+S
+#25374
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25373 0
+D1
+~
+~
+0 0 25375 0
+D2
+~
+~
+0 0 25376 0
+S
+#25375
+South Ledopolus~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 25374 0
+S
+#25376
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25374 0
+D2
+~
+~
+0 0 25377 0
+S
+#25377
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25376 0
+D2
+~
+~
+0 0 25378 0
+S
+#25378
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25377 0
+D2
+~
+~
+0 0 25379 0
+S
+#25379
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25378 0
+D2
+~
+~
+0 0 25380 0
+S
+#25380
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25379 0
+D2
+~
+~
+0 0 25381 0
+S
+#25381
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25380 0
+D2
+~
+~
+0 0 25382 0
+S
+#25382
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25381 0
+D2
+~
+~
+0 0 25383 0
+S
+#25383
+Traderoute intersection - west to nowhere, east to Balic~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25382 0
+D1
+~
+~
+0 0 25384 0
+D3
+~
+~
+0 0 25385 0
+S
+#25384
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25386 0
+D3
+~
+~
+0 0 25383 0
+S
+#25385
+Traderoute - Ancient stones broken and shattered, off to nowhere.~
+Empty description.
+~
+~
+'desert'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25383 0
+S
+#25386
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25387 0
+D3
+~
+~
+0 0 25384 0
+S
+#25387
+Outside Fort Glammis~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25388 0
+D3
+~
+~
+0 0 25386 0
+S
+#25388
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25389 0
+D2
+~
+~
+0 0 25387 0
+S
+#25389
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25390 0
+D3
+~
+~
+0 0 25388 0
+S
+#25390
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25391 0
+D3
+~
+~
+0 0 25389 0
+S
+#25391
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25392 0
+D3
+~
+~
+0 0 25390 0
+S
+#25392
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25391 0
+D1
+~
+~
+0 0 25393 0
+S
+#25393
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25394 0
+D3
+~
+~
+0 0 25392 0
+S
+#25394
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25393 0
+D1
+~
+~
+0 0 25395 0
+S
+#25395
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25396 0
+D3
+~
+~
+0 0 25394 0
+S
+#25396
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25397 0
+D3
+~
+~
+0 0 25395 0
+S
+#25397
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25398 0
+D3
+~
+~
+0 0 25396 0
+S
+#25398
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25399 0
+D3
+~
+~
+0 0 25397 0
+S
+#25399
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 25400 0
+D3
+~
+~
+0 0 25398 0
+S
+#25400
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 25399 0
+D1
+~
+~
+0 0 25401 0
+S
+#25401
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25402 0
+D3
+~
+~
+0 0 25400 0
+S
+#25402
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25403 0
+D3
+~
+~
+0 0 25401 0
+S
+#25403
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25404 0
+D3
+~
+~
+0 0 25402 0
+S
+#25404
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25405 0
+D3
+~
+~
+0 0 25403 0
+S
+#25405
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25406 0
+D3
+~
+~
+0 0 25404 0
+S
+#25406
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25407 0
+D3
+~
+~
+0 0 25405 0
+S
+#25407
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25408 0
+D3
+~
+~
+0 0 25406 0
+S
+#25408
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25409 0
+D3
+~
+~
+0 0 25407 0
+S
+#25409
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25410 0
+D3
+~
+~
+0 0 25408 0
+S
+#25410
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25411 0
+D3
+~
+~
+0 0 25409 0
+S
+#25411
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25412 0
+D3
+~
+~
+0 0 25410 0
+S
+#25412
+Traderoute~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 25413 0
+D3
+~
+~
+0 0 25411 0
+S
+#25413
+Outside the Olive Gate~
+Empty description.
+~
+~
+'road'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75000 0
+D3
+~
+~
+0 0 25412 0
+S
+#0
+
+
+#RESETS
+O 0 25000 0 25009
+S
+
+
+#$

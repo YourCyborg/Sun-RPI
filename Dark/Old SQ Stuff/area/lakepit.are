@@ -1,0 +1,50 @@
+#AREA Lake Pit~
+lakepit~
+Delerak~
+15000 17999
+15 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#15000
+Grassy Plain~
+You are floating in nothing.
+~
+~
+'inside'
+16396 0 0
+0 0 0
+D0
+~
+~
+0 0 15001 0
+S
+#15001
+Grassy Plain~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 15000 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

@@ -1,0 +1,13 @@
+Name 'apple'
+Type 'tree'
+HealthFlower 500
+HealthMax 1000
+WaterDesired 300
+EndFloraClass
+Name 'opuntia'
+Type 'cactus'
+HealthFlower 400
+HealthMax 1000
+WaterDesired 150
+EndFloraClass
+Endsection

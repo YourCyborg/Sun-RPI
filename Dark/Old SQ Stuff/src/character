@@ -1,0 +1,367 @@
+act_comm.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+act_comm.c:	och = d->original ? d->original : d->character;
+act_comm.c:	vch = d->character;
+act_comm.c:	if ( d->connected == CON_PLAYING
+act_info.c:    for ( d = descriptor_list; d != NULL; d = d->next ) {
+act_info.c:	if ( d->connected != CON_PLAYING || !can_see( ch, d->character ) )
+act_info.c:	wch   = ( d->original != NULL ) ? d->original : d->character;
+act_info.c:	for ( d = descriptor_list; d; d = d->next )
+act_info.c:	    if ( d->connected == CON_PLAYING
+act_info.c:	    && ( victim = d->character ) != NULL
+act_wiz.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+act_wiz.c:	if ( d->character == NULL )
+act_wiz.c:	if ( !str_cmp( d->character->name, name ) )
+act_wiz.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+act_wiz.c:    for ( d = descriptor_list; d; d = d->next )
+act_wiz.c:	if ( d->connected == CON_PLAYING )
+act_wiz.c:	    send_to_char( argument, d->character );
+act_wiz.c:	    send_to_char( "\n\r",   d->character );
+act_wiz.c:    for ( d = descriptor_list; d; d = d->next )
+act_wiz.c:	if ( d->connected == CON_PLAYING
+act_wiz.c:	&&   d->character->in_room == ch->in_room )
+act_wiz.c:	    send_to_char( argument, d->character );
+act_wiz.c:	    send_to_char( "\n\r",   d->character );
+act_wiz.c:	for ( d = descriptor_list; d != NULL; d = d->next )
+act_wiz.c:	    if ( d->connected == CON_PLAYING
+act_wiz.c:	    &&   d->character != ch
+act_wiz.c:	    &&   d->character->in_room != NULL
+act_wiz.c:	    &&   can_see( ch, d->character ) )
+act_wiz.c:		sprintf( buf, "%s %s", d->character->name, arg2 );
+act_wiz.c:	for ( ed = location->extra_descr; ed; ed = ed->next )
+act_wiz.c:	    send_to_char( ed->keyword, ch );
+act_wiz.c:	    if ( ed->next != NULL )
+act_wiz.c:	for ( ed = obj->extra_descr; ed != NULL; ed = ed->next )
+act_wiz.c:	    send_to_char( ed->keyword, ch );
+act_wiz.c:	    if ( ed->next != NULL )
+act_wiz.c:	for ( ed = obj->pIndexData->extra_descr; ed != NULL; ed = ed->next )
+act_wiz.c:	    send_to_char( ed->keyword, ch );
+act_wiz.c:	    if ( ed->next != NULL )
+act_wiz.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+act_wiz.c:	if ( d->character && d->character->name
+act_wiz.c:	&& !str_cmp( arg, d->character->name ) )
+act_wiz.c:	    write_to_descriptor( d->descriptor, buf, 0 );
+act_wiz.c:	for ( d = descriptor_list; d != NULL; d = d->next )
+act_wiz.c:	    if ( d->snoop_by == ch->desc )
+act_wiz.c:		d->snoop_by = NULL;
+act_wiz.c:	for ( d = ch->desc->snoop_by; d != NULL; d = d->snoop_by )
+act_wiz.c:	    if ( d->character == victim || d->original == victim )
+act_wiz.c:	ed->keyword		= str_dup( arg3     );
+act_wiz.c:	ed->description		= str_dup( argument );
+act_wiz.c:	ed->next		= obj->extra_descr;
+act_wiz.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+act_wiz.c:	if ( d->character != NULL && can_see( ch, d->character ) )
+act_wiz.c:		d->descriptor,
+act_wiz.c:		d->connected,
+act_wiz.c:		d->original  ? d->original->name  :
+act_wiz.c:		d->character ? d->character->name : "(none)",
+act_wiz.c:		d->host
+comm.c:	for ( d = descriptor_list; d; d = d->next )
+comm.c:	    maxdesc = UMAX( maxdesc, d->descriptor );
+comm.c:	    FD_SET( d->descriptor, &in_set  );
+comm.c:	    FD_SET( d->descriptor, &out_set );
+comm.c:	    FD_SET( d->descriptor, &exc_set );
+comm.c:	    d_next = d->next;   
+comm.c:	    if ( FD_ISSET( d->descriptor, &exc_set ) )
+comm.c:		FD_CLR( d->descriptor, &in_set  );
+comm.c:		FD_CLR( d->descriptor, &out_set );
+comm.c:		if ( d->character
+comm.c:		&& !IS_SET( d->character->act, PLR_UNAPPROVED )
+comm.c:		&& !IS_SET( d->character->act, PLR_REJECTED ) )
+comm.c:		    save_char_obj( d->character );
+comm.c:		d->outtop	= 0;
+comm.c:	    d_next	= d->next;
+comm.c:	    d->fcommand	= FALSE;
+comm.c:	    if ( FD_ISSET( d->descriptor, &in_set ) )
+comm.c:		if ( d->character != NULL )
+comm.c:		    d->character->timer = 0;
+comm.c:		    FD_CLR( d->descriptor, &out_set );
+comm.c:		    if ( d->character != NULL
+comm.c:		    && !IS_SET( d->character->act, PLR_UNAPPROVED )
+comm.c:		    && !IS_SET( d->character->act, PLR_REJECTED ) )
+comm.c:			save_char_obj( d->character );
+comm.c:		    d->outtop	= 0;
+comm.c:	    if ( d->character != NULL && d->character->wait > 0 )
+comm.c:		--d->character->wait;
+comm.c:	    if ( d->incomm[0] != '\0' )
+comm.c:		d->fcommand	= TRUE;
+comm.c:		stop_idling( d->character );
+comm.c:		if ( d->connected == CON_PLAYING )
+comm.c:		    if (d->showstr_point)
+comm.c:			show_string( d, d->incomm );
+comm.c:			interpret( d->character, d->incomm );
+comm.c:		    nanny( d, d->incomm );
+comm.c:		d->incomm[0]	= '\0';
+comm.c:	    d_next = d->next;
+comm.c:	    if ( ( d->fcommand || d->outtop > 0 )
+comm.c:	    &&   FD_ISSET(d->descriptor, &out_set) )
+comm.c:		    if ( d->character != NULL
+comm.c:		    && !IS_SET( d->character->act, PLR_UNAPPROVED )
+comm.c:		    && !IS_SET( d->character->act, PLR_REJECTED ) )
+comm.c:			save_char_obj( d->character );
+comm.c:		    d->outtop	= 0;
+comm.c:	for ( d = descriptor_list; d != NULL; d = d->next )
+comm.c:	    if ( d->snoop_by == dclose )
+comm.c:		d->snoop_by = NULL;
+comm.c:	for ( d = descriptor_list; d && d->next != dclose; d = d->next )
+comm.c:	    d->next = dclose->next;
+comm.c:    if ( d->incomm[0] != '\0' )
+comm.c:    iStart = strlen(d->inbuf);
+comm.c:    if ( iStart >= sizeof(d->inbuf) - 10 )
+comm.c:	sprintf( log_buf, "%s input overflow!", d->host );
+comm.c:	write_to_descriptor( d->descriptor,
+comm.c:	nRead = read( d->descriptor, d->inbuf + iStart,
+comm.c:	    sizeof(d->inbuf) - 10 - iStart );
+comm.c:	    if ( d->inbuf[iStart-1] == '\n' || d->inbuf[iStart-1] == '\r' )
+comm.c:    d->inbuf[iStart] = '\0';
+comm.c:    if ( d->incomm[0] != '\0' )
+comm.c:    for ( i = 0; d->inbuf[i] != '\n' && d->inbuf[i] != '\r'; i++ )
+comm.c:	if ( d->inbuf[i] == '\0' )
+comm.c:    for ( i = 0, k = 0; d->inbuf[i] != '\n' && d->inbuf[i] != '\r'; i++ )
+comm.c:	    write_to_descriptor( d->descriptor, "Line too long.\n\r", 0 );
+comm.c:	    for ( ; d->inbuf[i] != '\0'; i++ )
+comm.c:		if ( d->inbuf[i] == '\n' || d->inbuf[i] == '\r' )
+comm.c:	    d->inbuf[i]   = '\n';
+comm.c:	    d->inbuf[i+1] = '\0';
+comm.c:	if ( d->inbuf[i] == '\b' && k > 0 )
+comm.c:	else if ( isascii(d->inbuf[i]) && isprint(d->inbuf[i]) )
+comm.c:	    d->incomm[k++] = d->inbuf[i];
+comm.c:	d->incomm[k++] = ' ';
+comm.c:    d->incomm[k] = '\0';
+comm.c:    if ( k > 1 || d->incomm[0] == '!' )
+comm.c:    	if ( d->incomm[0] != '!' && strcmp( d->incomm, d->inlast ) )
+comm.c:	    d->repeat = 0;
+comm.c:	    if ( ++d->repeat >= 20 && d->character->level < 40 )
+comm.c:		sprintf( log_buf, "%s input spamming!", d->host );
+comm.c:		write_to_descriptor( d->descriptor,
+comm.c:		strcpy( d->incomm, "quit" );
+comm.c:    if ( d->incomm[0] == '!' )
+comm.c:	strcpy( d->incomm, d->inlast );
+comm.c:	strcpy( d->inlast, d->incomm );
+comm.c:    while ( d->inbuf[i] == '\n' || d->inbuf[i] == '\r' )
+comm.c:    for ( j = 0; ( d->inbuf[j] = d->inbuf[i+j] ) != '\0'; j++ )
+comm.c:    if ( fPrompt && !merc_down && d->connected == CON_PLAYING )
+comm.c:	if ( d->showstr_point )
+comm.c:	ch = d->original ? d->original : d->character;
+comm.c:    if ( d->outtop == 0 )
+comm.c:    if ( d->snoop_by != NULL )
+comm.c:	write_to_buffer( d->snoop_by, "% ", 2 );
+comm.c:	write_to_buffer( d->snoop_by, d->outbuf, d->outtop );
+comm.c:    if ( !write_to_descriptor( d->descriptor, d->outbuf, d->outtop ) )
+comm.c:	d->outtop = 0;
+comm.c:	d->outtop = 0;
+comm.c:   ch = d->character;
+comm.c:      str = d->original != NULL ? d->original->prompt : d->character->prompt;
+comm.c:    if ( d->outtop == 0 && !d->fcommand )
+comm.c:	d->outbuf[0]	= '\n';
+comm.c:	d->outbuf[1]	= '\r';
+comm.c:	d->outtop	= 2;
+comm.c:    while ( d->outtop + length >= d->outsize )
+comm.c:	outbuf      = alloc_mem( 2 * d->outsize );
+comm.c:	strncpy( outbuf, d->outbuf, d->outtop );
+comm.c:	free_mem( d->outbuf, d->outsize );
+comm.c:	d->outbuf   = outbuf;
+comm.c:	d->outsize *= 2;
+comm.c:    strcpy( d->outbuf + d->outtop, txt );
+comm.c:    d->outtop += length;
+comm.c:    ch = d->character;
+comm.c:    switch ( d->connected )
+comm.c:	bug( "Nanny: bad d->connected %d.", d->connected );
+comm.c:	    free_char( d->character );
+comm.c:	    d->character = NULL;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	sprintf( log_buf, "%s@%s has connected.", ch->name, d->host );
+comm.c:	d->connected = CON_MAIN_MENU;
+comm.c:	d->connected	= CON_PLAYING;
+comm.c:	sprintf( log_buf, "%s@%s has entered the game.", ch->name, d->host );
+comm.c:	    d->ansi_enable = TRUE;
+comm.c:	    d->ansi_enable = FALSE;
+comm.c:	d->connected = CON_MAIN_MENU;
+comm.c:	    if ( d->character != NULL )
+comm.c:		free_char( d->character );
+comm.c:		d->character = NULL;
+comm.c:	    d->connected = CON_LOGIN_GET_NAME;
+comm.c:	    if ( d->character == NULL || IS_NPC( d->character ) )
+comm.c:		d->connected = CON_MAIN_MENU;
+comm.c:	    if ( IS_SET( d->character->act, PLR_UNAPPROVED ) )
+comm.c:		d->connected = CON_MAIN_MENU;
+comm.c:	    d->connected = CON_READ_MOTD;
+comm.c:	    if ( d->character != NULL )
+comm.c:		free_char( d->character );
+comm.c:		d->character = NULL;
+comm.c:	    d->connected = CON_CREATE_NEW_NAME;
+comm.c:	    if ( d->character != NULL )
+comm.c:		free_char( d->character );
+comm.c:		d->character = NULL;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	    free_char( d->character );
+comm.c:	    d->character = NULL;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	ch   = d->character;
+comm.c:	    sprintf( log_buf, "Denying access to %s@%s.", argument, d->host );
+comm.c:            sprintf( log_buf, "Denying access to dead character, %s@%s.",argument, d->host );
+comm.c:	    free_char( d->character );
+comm.c:	    d->character = NULL;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	d->connected = CON_LOGIN_PASSWORD;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	    d->connected = CON_MAIN_MENU;
+comm.c:	SET_BIT( d->character->act, PLR_UNAPPROVED );
+comm.c:	d->connected = CON_CREATE_NEW_PASSWORD;
+comm.c:	d->connected = CON_CREATE_CONFIRM_PASSWORD;
+comm.c:	    d->connected = CON_CREATE_NEW_PASSWORD;
+comm.c:	d->connected = CON_CREATE_NEW_SEX;
+comm.c:	d->connected = CON_CREATE_NEW_RACE;
+comm.c:	d->connected = CON_CREATE_NEW_CLASS;
+comm.c:	d->connected = CON_CREATE_LONG_DESC;
+comm.c:	d->connected = CON_CREATE_SHORT_DESC;
+comm.c:	d->connected = CON_CREATE_NAMELIST;
+comm.c:	d->connected = CON_CREATE_DESCRIPTION;
+comm.c:	    d->connected = CON_CREATE_EMAIL;
+comm.c:		d->connected = CON_CREATE_EMAIL;
+comm.c:	  ch->name, d->host );
+comm.c:	d->character = NULL;
+comm.c:	d->connected = CON_MAIN_MENU;
+comm.c:	&& !str_cmp( d->character->name, ch->name ) )
+comm.c:		free_string( d->character->pcdata->pwd, MEM_PCDATA );
+comm.c:		d->character->pcdata->pwd = str_dup( ch->pcdata->pwd );
+comm.c:        if ( d->character == NULL || dclose->character == NULL
+comm.c:        || str_cmp( d->character->name, dclose->character->name ) )
+comm.c:    for ( obj = d->character->carrying; obj != NULL; obj = obj->next_content )
+comm.c:    free_char( d->character );
+comm.c:    d->character = ch;
+comm.c:    sprintf( log_buf, "%s@%s reconnected.", ch->name, d->host );
+comm.c:    d->connected = CON_PLAYING;
+comm.c:  if ( d->original )
+comm.c:    pagelen = d->original->pcdata->pagelen;
+comm.c:    pagelen = d->character->pcdata->pagelen;
+comm.c:    if ( d->showstr_head )
+comm.c:      free_string( d->showstr_head, MEM_GENERAL );
+comm.c:      d->showstr_head  = 0;
+comm.c:    d->showstr_point = 0;
+comm.c:    for ( scan = d->showstr_point; scan > d->showstr_head; scan-- )
+comm.c:    d->showstr_point = scan;
+comm.c:  for ( scan = buffer; ; scan++, d->showstr_point++ )
+comm.c:       if ( ( ( *scan = *d->showstr_point ) == '\n' || *scan == '\r' )
+comm.c:	   if ( !*scan || ( d->character && !IS_NPC( d->character )
+comm.c:	       for ( chk = d->showstr_point; isspace( *chk ); chk++ );
+comm.c:		   if ( d->showstr_head )
+comm.c:		      free_string( d->showstr_head, MEM_GENERAL );
+comm.c:		      d->showstr_head  = 0;
+comm.c:		   d->showstr_point = 0;
+Binary file comm.o matches
+db.c:		ed->keyword		= fread_string( fp );
+db.c:		ed->description		= fread_description( fp );
+db.c:		ed->next		= pObjIndex->extra_descr;
+db.c:		ed->keyword		= fread_string( fp );
+db.c:		ed->description		= fread_string( fp );
+db.c:		ed->next		= pRoomIndex->extra_descr;
+db.c:    free_string( ed->keyword, MEM_DIRECTION_KEYWORD );
+db.c:    free_string( ed->description, MEM_DIRECTION_DESCRIPTION );
+db.c:    ed->next = extra_descr_free;
+db.c:	room_from->extra_descr = ed->next;
+db.c:    for ( ; ed != NULL; ed = ed->next )
+db.c:	if ( is_name( name, ed->keyword ) )
+db.c:	    return ed->description;
+Binary file executable matches
+fight.c:	sr += wield->weight/10;
+fight.c:	    dt += wield->attack_type;
+fight.c:	dam = dice( wield->dam[0], wield->dam[1] );
+fight.c:    dt = TYPE_HIT + wield->attack_type;
+fight.c:    dam = dice( wield->dam[0], wield->dam[1] );
+fileio.c: * These strings are read-only and shared.
+fileio.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+fileio.c:        if ( d->character == NULL || get_trust( d->character ) < 37
+fileio.c:        || interp_doer > get_trust( d->character )
+fileio.c:        || IS_SET( d->character->deaf, CHANNEL_LOG )
+fileio.c:        || d->connected != CON_PLAYING )
+fileio.c:        send_to_char( buf, d->character );
+fileio.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+fileio.c:        if ( d->character == NULL || get_trust( d->character ) < 37
+fileio.c:        || interp_doer > get_trust( d->character )
+fileio.c:        || IS_SET( d->character->deaf, CHANNEL_LOG )
+fileio.c:        || d->connected != CON_PLAYING )
+fileio.c:        send_to_char( str, d->character );
+fileio.c:        send_to_char( "\n\r", d->character );
+handler.c:    for ( paf_old = ch->affected; paf_old != NULL; paf_old = paf_old->next )
+handler.c:	if ( paf_old->type == paf->type )
+handler.c:	    paf->duration += paf_old->duration;
+handler.c:	    paf->modifier += paf_old->modifier;
+handler.c:	    free_string( ed->description, MEM_DIRECTION_DESCRIPTION );
+handler.c:	    free_string( ed->keyword, MEM_DIRECTION_KEYWORD     );
+handler.c:	    ed_next		= ed->next;
+mem_manage.c: * Fread_strings are read-only and shared.
+mem_manage.c: * Read-only shared strings are not touched.
+merc.bak: * Most output files (bug, idea, typo, shutdown) are append-only.
+merc.h: * Most output files (bug, idea, typo, shutdown) are append-only.
+olc.c:	for ( ed = ch->in_room->extra_descr; ed != NULL; ed = ed->next )
+olc.c:	    if ( is_name( argument, ed->keyword ) )
+olc.c:	free_string( ed->description, MEM_DIRECTION_DESCRIPTION );
+olc.c:	ed->description = str_dup_tab( ch->pnote->text, TRUE );
+olc.c:	for ( ed = ch->in_room->extra_descr; ed != NULL; ed = ed->next )
+olc.c:	    if ( is_name( argument, ed->keyword ) )
+olc.c:	if ( ed->description == NULL )
+olc.c:	ch->pnote->text = str_dup_tab( ed->description, FALSE );
+olc.c:	    for ( ed = pObjIndex->extra_descr; ed != NULL; ed = ed->next )
+olc.c:		if ( is_name( arg4, ed->keyword ) )
+olc.c:		pObjIndex->extra_descr = ed->next;
+olc.c:			ed2->next = ed->next;
+olc.c:	    ed->keyword = str_dup( argument );
+olc.c:	    ed->description = str_dup( "Empty obj extra desc." );
+olc.c:	    ed->next = pObjIndex->extra_descr;
+olc.c:	    strcpy( buf, ed->description );
+olc.c:	    ed->description = str_dup( buf );
+olc.c:	    ed->description = str_dup( "\0" );
+olc.c:	pAppend->next = NULL;
+olc.c:	pAppend->command = rtype[0];
+olc.c:	pAppend->arg1 = v1;
+olc.c:	pAppend->arg2 = v2;
+olc.c:	pAppend->arg3 = v3;
+olc.c:	pAppend->target = NULL;
+olc.c:		pAppend->next = ch->in_room->area->reset_first;
+olc.c:	    pAppend->next = pReset->next;
+olc.c:    for ( ed = ch->in_room->extra_descr; ed != NULL; ed = ed->next )
+olc.c:	if ( is_name( keyword, ed->keyword ) )
+olc.c:	ed->keyword = str_dup( argument );
+olc.c:	ed->description = str_dup( "\0" );
+olc.c:	ed->next = ch->in_room->extra_descr;
+olc.c:	free_string( ed->description, MEM_DIRECTION_DESCRIPTION );
+olc.c:	ed->description = str_dup( "\0" );
+olc.c:	strcpy( buf, ed->description );
+olc.c:	free_string( ed->description, MEM_DIRECTION_DESCRIPTION );
+olc.c:	ed->description = str_dup( buf );
+olc.c:	    ch->in_room->extra_descr = ed->next;
+olc.c:	    pextra->next = ed->next;
+olc.c:	for ( ed = pObjIndex->extra_descr; ed != NULL; ed = ed->next )
+olc.c:	    if ( ed->keyword == NULL || ed->description == NULL )
+olc.c:	    write_string( fp, ed->keyword );
+olc.c:	    write_string( fp, ed->description );
+olc.c:	    for ( ed = pRoomIndex->extra_descr; ed != NULL; ed = ed->next )
+olc.c:		if ( ed->keyword == NULL || ed->description == NULL )
+olc.c:		write_string( fp, ed->keyword );
+olc.c:		write_string( fp, ed->description );
+olc.c:	for ( ed = pObjIndex->extra_descr; ed != NULL; ed = ed->next )
+olc.c:		ed->keyword, ed->description );
+review.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+review.c:	if ( d->character == NULL )
+review.c:	if ( !str_cmp( d->character->name, name ) )
+save.c:    for ( ed = obj->extra_descr; ed != NULL; ed = ed->next )
+save.c:	write_string( fp, ed->keyword );
+save.c:	write_string( fp, ed->description );
+save.c:	d->character			= ch;
+save.c:		ed->keyword		= fread_string( fp );
+save.c:		ed->description		= fread_string( fp );
+save.c:		ed->next		= obj->extra_descr;
+skills.c:    d_next = d->next;
+skills.c:    if ( current_time >= d->expire )
+skills.c:      skill_table[d->skill].name, (char *) ctime( &d->expire ) );
+Binary file test matches
+update.c:	for ( d = descriptor_list; d != NULL; d = d->next )
+update.c:	    if ( d->connected == CON_PLAYING
+update.c:	    &&   VIEW_OUTSIDE(d->character)
+update.c:	    &&   IS_AWAKE(d->character) )
+update.c:		send_to_char( buf, d->character );
+update.c:    for ( d = descriptor_list; d != NULL; d = d->next )
+update.c:	if ( d->connected != CON_PLAYING )
+update.c:	if ( ( ch = d->character ) == NULL )

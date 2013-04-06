@@ -1,0 +1,799 @@
+Sender  Rip~
+Date    Sat Jun  4 10:33:21 1994~
+To      all~
+Subject Welcome to Rip's Quest~
+Text
+Blah, like I have anything to say  >:)
+
+leave your suggestions here...
+
+Rip
+~
+
+Sender  Rip~
+Date    Sun Jun  5 10:32:04 1994~
+To      all~
+Subject Mage spells:~
+Text
+1: magic missile, ventril, read magic
+2: detect invis, detect magic, use wands
+3: chill touch, use staffs
+4: continual light, faerie fire, invis
+5: armor
+6: infravision, locate object
+7: strength, shocking grasp, weaken, fly
+8: blindness, teleport
+9: lightning bolt
+10: control weather, faerie fog
+11 colour spray
+12: curse, enchant weapon
+13: shield
+14: charm person, sleep
+15: fireball, farsee
+16: dispel magic
+17: stone skin
+18: mass invis
+20: ice storm, vampiric touch, identify
+22: remove curse
+25: death spray
+26: pass door
+27: gate
+28: blackmantle, improved invis, fireshield
+30: improved identify
+~
+
+Sender  Rip~
+Date    Sun Jun  5 10:34:46 1994~
+To      all~
+Subject Cleric spells~
+Text
+1: armor, cure light, cause light
+2: create water, faerie fire
+3: create food, detect magic
+4: cure blind, detect evil
+5: bless, blind, cause serious, cure serious, detect poison
+5: know alignment, read magic
+6: protection (from evil)
+7: detect hidden, earthquake
+8: poison
+9: cause critic, cure critic, cure poison
+10: dispel evil, dispel good
+12: call lightning, remove curse, summon
+13: control weather, flamestrike, sanctuary
+14: faerie fog, heal
+15: harm, use wands
+20: word of recall, no summon
+25: miracle
+28: use staffs
+
+Paladins are essentially clerics divided by 2,
+Rangers are essentially clerics divided by 4
+~
+
+Sender  Howler~
+Date    Fri Jun 10 11:47:14 1994~
+To      rip~
+Subject drow~
+Text
+mm..yeah ive glanced through it, ive also read the D1,2,3 and Q1 modules
+more times then i can remember (plus G3) and ive read 1st 2 of the
+drizzt novels.  but..most of stuff in city willprobably come out
+of my imagination..i can probably go to waldenbooks and just scam 
+info out of book though (dont wantto buy it).  i need the docs though
+to make a zone. hmm..guess ihave to do a reception eh?;)
+~
+
+Sender  Rip~
+Date    Sun Jun 12 14:28:14 1994~
+To      rip~
+Subject drow see rooms~
+Text
+~
+
+Sender  Rip~
+Date    Sun Jun 12 14:30:17 1994~
+To      rip~
+Subject exits for drow~
+Text
+~
+
+Sender  Rip~
+Date    Sun Jun 12 15:38:04 1994~
+To      rip~
+Subject dual wield/two hand proficiency~
+Text
+~
+
+Sender  Rip~
+Date    Sun Jun 12 15:53:52 1994~
+To      rip~
+Subject lock picks~
+Text
+~
+
+Sender  Erolinar~
+Date    Mon Jun 13 05:44:06 1994~
+To      rip~
+Subject practice limit at half adept~
+Text
+~
+
+Sender  Erolinar~
+Date    Mon Jun 13 06:44:57 1994~
+To      rip~
+Subject fix bless and invis and curse etc for items~
+Text
+~
+
+Sender  Rip~
+Date    Mon Jun 13 07:32:03 1994~
+To      rip~
+Subject 'needs god' flag...~
+Text
+also, make provisions for short descr and long descr
+~
+
+Sender  Rip~
+Date    Mon Jun 13 07:32:18 1994~
+To      rip~
+Subject get rid of who list...~
+Text
+~
+
+Sender  Dyrnwyn~
+Date    Mon Jun 13 18:40:28 1994~
+To      all~
+Subject NEW PLAYERS!!! READ ME!!!~
+Text
+Welcome to Rip's Quest.
+Basically the mud is still under development and currently
+increasing playability, adding/switching new zones, and
+making a whole bunch of nifty (non standard Merc/Diku) junk.
+Anyway, as for right now, it's a bit difficult to get
+started... so here's some tips and hint.
+.
+Start: type 'race *race_type*' to pick a race.
+at the healer in Ys, type 'pick *class_type*' to pick a class.
+help files exist for all the races and classes.
+Next, goto your guildmaster and type 'gain' to
+gain a level.  You must be level 2 in order to 'save'
+which basically sticks you into the player file.  You must
+'rent' at a reception to save equipment and crap.  Rent is free, but goto a reception,
+cuz just cutting link will leave you standing there, link
+dead... a sitting duck.
+ok. Here are the guilds and places to go from the healer in Ys:
+Apocrathy - eeunnw
+Metal Worker - eeunneesesw
+Leather Worker - eeune
+Rogue - ssswdwswuse (open grate ok?)
+Poet - essus
+Archpriest - wwssuessusw
+Paladin - senw (no i'm kidding.. he wanders... find him!)
+Ok to check out what you can practice, type 'practice' at
+your guildmaster.  Then, you can train in that/those
+skills by typing 'practice *skill_name*'.
+Best way to get started is to go kill crap in Hell/Midgaard
+like fidos, and maybe kill dogs in Ys, hmm and shire's
+not too bad a place.  I wouldn't try the sewers yet tho.
+gold is scare, so pick up what you can... and get a weapon.
+food/drink is implemented in this game, as is mv (killer)
+buy 'cup of spam' from the maid in Midgaard/Hell.
+that will make you Full and Not Thirsty, other crap doesn't
+do jack.  It costs like 15 gp or so. So get one when you
+can!
+Midgaard/Hell: sssesesssseeesssssss (to the north wall of it)
+Reception at Ys: ennu
+if other receptions don't work, goto Ys
+if you can't practice at your guildmaster, goto Archpriest
+For more help, read the man pages... snicker. (or ask me
+or someone)
+~
+
+Sender  Dyrnwyn~
+Date    Mon Jun 13 19:28:34 1994~
+To      all~
+Subject apocrathy, metalworker, leatherworker, typo in directions.~
+Text
+go eeuen (not eeun. sorry, Pug, noted that error)
+~
+
+Sender  Hyndbruin~
+Date    Tue Jun 14 11:31:19 1994~
+To      Rip~
+Subject Wierd Eq~
+Text
+All this wierd-named eq is pretty cool (would be even better if I knew what
+the hell it was).  :)  However, is there some reason we can't sell
+it anywhere?  Or, am I just not trying the right places?  Thanks.
+
+Hyndbruin Crazyaxe of Clan Crownshield
+~
+
+Sender  Ohara~
+Date    Wed Jun 15 09:02:41 1994~
+To      immortal~
+Subject credits~
+Text
+Darkside wrote Thalos and Drow City
+Conner wrote New Thalos
+
+-- Ohara.
+~
+
+Sender  Ohara~
+Date    Wed Jun 15 09:11:23 1994~
+To      immortal~
+Subject ~
+Text
+If your intention is to create a world ala Armaggeddon, where you are never quite sure who is PC or not, [eventually] then there is currently a problem
+
+-- Ohara.
+~
+
+Sender  Rip~
+Date    Wed Jun 15 10:35:44 1994~
+To      ohara~
+Subject re: armag~
+Text
+I'm not sure how close to armag it's going to get,
+I'm conglomerating a bunch of ideas... from challenger, eltanin,
+and armageddon mainly, with some of my own.
+I'm not sure armag's system will work in a system with levels,
+as well, not eveyone has 95-110 hps...
+Feel free to post any comments you hve...
+
+Rip
+~
+
+Sender  Rip~
+Date    Wed Jun 15 10:43:35 1994~
+To      chrome obadon triad~
+Subject re: bug lost all eq in rent~
+Text
+shake, dyrnwyn noted that you had about 2457839258794357389 gold
+also noted that you were being extremely careless, letting
+thieves steal it from you in midgaard...
+so...  I got rid of the problem...
+
+Rip
+~
+
+Sender  Rip~
+Date    Thu Jun 16 22:13:51 1994~
+To      rip~
+Subject weapons restrictions~
+Text
+~
+
+Sender  Rip~
+Date    Fri Jun 24 01:37:35 1994~
+To      all~
+Subject area~
+Text
+All areas but Ys and Jawan will be removed eventually,
+so...  plan for stuff you might want to write  >:)
+
+Rip
+~
+
+Sender  Pug~
+Date    Tue Jun 28 15:07:27 1994~
+To      All~
+Subject More things ... :)~
+Text
+Ok here goes again :)
+An assist command should be implemented.  They are nice for groups.
+Ummm the group command... when I type group on other muds we used to see 
+all the stats of the group hit,move,mana and sometimes xp needed.  Dunno
+if you want it but it was nice.
+The slap social.  I'll have to think about it.  Anyone have any ideas of
+what it should say?  I kind of like Pug slaps you leaving a handprint on your face.... but that's just me. :)
+And BTW when I get level 12 I can enchant weapons... I will be accepting 
+donations for this service. :)
+Pug, the small businessman.
+~
+
+Sender  Pug~
+Date    Tue Jun 28 21:24:41 1994~
+To      All~
+Subject Wimpy ...~
+Text
+Hmm I just died.  Not much else is knew.  But I had my wimpy set to 16.
+The giant hit me once.  I went to 32.  I knew then I was in trouble :)
+He hit me twice and I went to 6.  There was no message of a failed escape
+or anything.  Is wimpy working??  Come to think of it that's the second
+time I've been killed because I didn't flee.... :(
+Pug, thinks dying is unfair 
+~
+
+Sender  Syron~
+Date    Thu Jun 30 23:46:05 1994~
+To      Rip~
+Subject Multiclass~
+Text
+Fix the fact that you can't gain in other classes if
+you are above level 20 in your primary class.
+~
+
+Sender  Jarlaxle~
+Date    Thu Jun 30 23:49:06 1994~
+To      Rip~
+Subject Drow/Assassins~
+Text
+Will the drow abilities be installed anytime soon? Also,
+I realize giving the assassins their mega-backstab is supposed to
+make up for his lack of other skills, but is it
+possible to come up with some weaker skills or allow continuing
+practice in backstab.  Some other ideas are giving
+them a way to increase their to hit bonuses when
+attempting a backstab, or something.  Or, allowing increasing
+of abilities (str, etc) by spending practices, as assassins
+seem to have nothing to spend practices on besides bs, sneak, 
+and hide.  Just some ideas.
+
+Jarlaxle
+~
+
+Sender  Rip~
+Date    Sat Jul  2 02:31:37 1994~
+To      rip~
+Subject remove all but chat and shout~
+Text
+~
+
+Sender  Pug~
+Date    Sun Jul  3 04:25:10 1994~
+To      Rip~
+Subject No drop ....~
+Text
+Are you doing to get rid of no drop?  It kind of a pain to pick up no drop 
+items with there being no way to drop them .... 
+Pug, always complaining :)
+~
+
+Sender  Howler~
+Date    Mon Jul  4 23:20:15 1994~
+To      immortal~
+Subject mob levels..~
+Text
+lots o' mobs are waay to low level..grand mistress of tower
+is/was only 15th level (my 2 kris's sure are nice).  bunch of
+other mobs are too low..im 13th level (granted i gave myself good
+stats) but there is nothing i cant solo at moment (not counting
+aod or tintin or stuff not supposed to be killable).  mm..i think ill
+go take tiamat...
+~
+
+Sender  Howler~
+Date    Mon Jul  4 23:41:32 1994~
+To      immortal~
+Subject heh..then again..~
+Text
+i just killed tintin smasher..i used 5 blue potions to do it
+so a 15th level cleric and warrior could probably do it if eq was
+good enough...(my ac is -164 i think, and i have 2 pieces of random
+load crud)
+err..its -171, and i got chaimmail skirt on legs, and field plate
+boots on feet, which aint the best armor for those parts... 
+maybe its just cuz i have good ac...shrug..
+level of other mobs are low in any case
+~
+
+Sender  Howler~
+Date    Sat Jul  9 00:07:30 1994~
+To      rip~
+Subject (insert subject here)~
+Text
+mm..popped on to sanctuary mud (i played there for about a week
+before i found the pkill mud)..might want to take a looksee at it.
+--i think it would be THE place to play (for me anyways) cept it
+has a few cheesy immorts, and more then a few cheesy laws.
+--its got the 4 basic classes, 4 races, you can customize your
+char (via skills) same way you could on Rivers of Mud, its merc
+mud, and allows pkilling,,,problem is there is no level limit
+on pkilling,,,so some 30th level asshole can kill all the newbies he
+wants..and lots of guilds like order and such who think its their
+right to tell people what to do..shrug...if i played there i think
+i would quickly rub people raw and get gangbanged by 30th+ level
+people,,so probably not worth it.
+heh, so other then the fact that i dont want to play there, its not
+not a bad mud.;)
+~
+
+Sender  Slash~
+Date    Mon Jul 11 13:20:59 1994~
+To      all~
+Subject Rip?  You there?~
+Text
+RIP, sorry to but in on you like this without taking the time
+to level, but I forgot the name of my old char.
+I've ported Merc2.2 to Windows and written a bunch
+of code, now I would like to add the random objects.
+if you could talk to me (ecs@indirect.com) (Slash@TFC) that would
+help me a lot.  I check my mail every day.
+I will try to check out Rip's Quest again this
+week.
+~
+
+Sender  Dyrnwyn~
+Date    Mon Jul 11 16:07:01 1994~
+To      rip~
+Subject add as time permits~
+Text
+Add in a monk guildmaster
+Ahh also, yeah mail me uhh zone creation docs...
+or something like that... i'll work on a zone if ya want.
+~
+
+Sender  Rip~
+Date    Tue Jul 12 12:25:23 1994~
+To      jarlaxle hyndbruin~
+Subject re: armag~
+Text
+it's a bitch, abt all i can say
+oh yeah, and don't play a defiler as your first char >:)
+~
+
+Sender  Rip~
+Date    Tue Jul 12 12:26:06 1994~
+To      jarlaxle hyndbruin~
+Subject dwarven area~
+Text
+um, how big you want?
+decent hometowns are usually along the lines of 150-300
+give me some idea what yer asking  >:)
+~
+
+Sender  Rip~
+Date    Tue Jul 12 12:26:54 1994~
+To      all~
+Subject re: Dino: Infravision~
+Text
+Infra is automatic, and senses _life forms_
+You will not see the room.
+
+Rip
+~
+
+Sender  Rip~
+Date    Tue Jul 12 12:29:09 1994~
+To      all~
+Subject re: viviane~
+Text
+um, the idea is: except for stuff where you can _see_ the
+affect, spells do not show up, ie: you wouldn't necessarily
+know if you were affected by armor or bless, but would
+know abt fireshield
+
+um, sure, I guess I can update spell/skill lists, but...
+after I add several hundred skills  >:)
+
+hm, assist, maybe...
+
+Um, pizza parlour? hm, does that fit the genre?
+When was pizza invented?
+
+Rip
+~
+
+Sender  Rip~
+Date    Tue Jul 12 15:34:32 1994~
+To      syron~
+Subject You can now gain in secondary classes... (i think)~
+Text
+~
+
+Sender  Jarlaxle~
+Date    Wed Jul 13 18:02:27 1994~
+To      Rip~
+Subject Dwarven Area, again~
+Text
+Sheesh, this is getting a lot bigger than I thought.
+Is there a way to build an area online?  Or any other
+way to construct it more like a little at a time?  I'm
+confusing myself between how it actually would look
+spatially (3-dimensional), as opposed to here.  I know
+that the exits and locations of rooms here don't have to make complete
+sense, so I'm crossing myself up on paper.  As far as
+the number of rooms goes, it will at least be near your
+upper limit that you gave me earlier (300+).  This is
+including all my dwarven defense ideas that I had
+implemented in my own stronghold (some of which could
+be stripped out to save space if need be).  Anyway,
+I was just wondering if there were other ways to build
+other than the program you've pointed out to me.  Thanks.
+
+Jarlaxle/Hyndbruin
+
+PS-I do have a character on Armageddon now, he (Hyndbruin)
+is quite the stud, of course.  :)  Fun game, I wish
+I had more time to play it and build an area for you.
+(I will be leaving in less than2 weeks for basic training) :(
+~
+
+Sender  Rip~
+Date    Wed Jul 13 20:19:40 1994~
+To      jarlaxle hyndbruin~
+Subject re: area/armageddon~
+Text
+hm, well, I'm actually working on some building
+docs now, so I'll forward those in a few days,
+um, I don't think there will be any space problem,
+I'm probably going to get rid of PK (give it away,
+not delete), so I'll have like 5 meg extra...
+
+re: armageddon:  Don't give away yer name silly,
+I guess you havent read the help files on wind_cleric spells...
+
+Rip
+~
+
+Sender  Rip~
+Date    Wed Jul 13 21:35:05 1994~
+To      rip~
+Subject whois command~
+Text
+~
+
+Sender  Jarlaxle~
+Date    Wed Jul 13 22:06:13 1994~
+To      rip~
+Subject Skill Ideas~
+Text
+I was looking through some old articles last night and
+I saw a couple of articles with stuff that could be used for
+new skills, mostly for warrior types....
+
+Instant Stand:  to counter bashing/tripping
+Feint:  if successful, +2 tohit in the following round, if not, like kick
+Parting Blow:  Free attack(+ tohit, +dmg) to those trying to flee
+Drive:  Forcing foe in a certain direction(out exits)
+Speed:  2x attacks for # of rounds (cost mega move?)
+Stun:  Like a warrior bs, instant stunning (low % of success)
+Weapon Breaking:  Self-explanitory, involves item saves or something, though
+Feign Death:  Trick foe into stopping attacks
+
+I'm not sure if any of these are usable or not, just some ideas.
+
+Jarlaxle/Hyndbruin
+~
+
+Sender  Rip~
+Date    Wed Jul 13 22:57:41 1994~
+To      rip~
+Subject fix fleeing with too much weight~
+Text
+~
+
+Sender  Rip~
+Date    Wed Jul 13 23:22:02 1994~
+To      rip~
+Subject load mobs following...~
+Text
+~
+
+Sender  Rip~
+Date    Thu Jul 14 01:27:30 1994~
+To      rip~
+Subject add belt/shoulder bitvecs and functionality~
+Text
+~
+
+Sender  Rip~
+Date    Wed Jul 20 00:33:28 1994~
+To      jarlaxle~
+Subject dragon mag w/tsr emply instructions~
+Text
+Hm, not to be a pest, but find it yet?
+(sorry, thats like, my dream job  >:)
+
+Rip
+~
+
+Sender  Viviane~
+Date    Fri Jul 22 18:30:30 1994~
+To      all~
+Subject classes and guilds~
+Text
+hey rip,
+how can you list all the possible classes to choose from
+and get info on them? also, note 3 i think lists directions
+to various guilds but doesn't indicate what classes they
+are for. i'm thinking of monks in particular... i get asked
+sometimes by people starting out and am at a loss for what to tell
+them when they can't find anything :)
+thanks, v.
+~
+
+Sender  Rip~
+Date    Fri Jul 29 22:56:31 1994~
+To      all~
+Subject re: viviane~
+Text
+m, when i finially get time to edit,
+there are abt 125 skills im adding, and ill
+fix up guilds a bit, they will be changing a lot...
+Rip
+~
+
+Sender  Rip~
+Date    Tue Aug  2 00:58:56 1994~
+To      all~
+Subject Skill system~
+Text
+m, semi-new skill system being implemented soon
+, including spell components for overly powerful shit,
+and unlimited practice sesssion (sorta)
+post ideas...
+Rip
+~
+
+Sender  Zaknafein~
+Date    Wed Aug 31 15:18:46 1994~
+To      all~
+Subject ~
+Text
+well i'm just starting out here.  And it seems cool.
+But, i'd like to know if many people ever play this mud?
+or if the amount of players is expected to pick up?
+kind of boring being the only one here.
+well i better get back to trying to get to level 2.
+
+Zaknafein
+~
+
+Sender  Zaknafein~
+Date    Wed Aug 31 18:12:53 1994~
+To      gods~
+Subject moves~
+Text
+it seems like i am using alot of moves.  each time
+i move it is using 8 of my move points.  it's impossible to get any where.
+and where can i get some cheap food?  i'm hungry!
+
+Zak
+~
+
+Sender  Vankruh~
+Date    Wed Aug 31 19:45:08 1994~
+To      rip~
+Subject um...~
+Text
+hey rip, just wondering if this mud's being advertised yet
+i think it would rock with tons of players...
+oh well, is it still in development or what? also, a wee bit hard
+without ANY starting eq...see you on pk mud...
+later,
+van
+~
+
+Sender  Vankruh~
+Date    Thu Sep  8 06:10:20 1994~
+To      rip~
+Subject wow...~
+Text
+well rip, after exploring here most of the night, i can
+honestly say that the realm of possibility for this mud
+is endless. clans, guilds, everything.... still a little hard to get cash
+but as you kill more and more stuff, it's not so much of a problem...
+but, there is one weirded out aspect of the game right now, and
+that is what happens when you sac your own corpse...
+being the indiscriminate killer i am, i attempted to kill the
+beastmaster...not a good idea...killed me several times, but every time
+i could go back and sac my corpse for a full heal...
+then, when i finally beat him, he has jack shit! laugh
+i thought it was pretty funny, course, now i'm at -1 mil xp...
+also couldn't find jack...but that's not a biggie...
+heh, jack as in dual class jack, not jack shit...chuckle
+basically, what i envision when this is finished is total fucking chaos
+and i'm gonna be lovin' every second of it...grin
+see you around here or on pk...
+
+van
+~
+
+Sender  Vankruh~
+Date    Thu Sep  8 06:13:21 1994~
+To      rip~
+Subject oh yeah...~
+Text
+forgot something...
+about the dying thing, it's cool cuz i'm already max level...
+but if some newbie dies a couple times it'll be fuckin hell getting back
+to where he/she was...
+tho, maybe that's what you want..dunno
+might be better to have it go down to just zero or something...shrug
+
+later,
+
+van
+~
+
+Sender  Rip~
+Date    Thu Sep  8 22:50:03 1994~
+To      all~
+Subject re: vankruh~
+Text
+m, xp penalty much lessd harsh for low levs
+m, well, mebbe i'll remove the sac pc corpse fer heal..
+anyways, heh, of course beastmaster was zilch, this
+still has semi-merc xp system, don't worry, itl be fixed
+
+Rip
+~
+
+Sender  Pug~
+Date    Mon Sep 12 20:42:25 1994~
+To      Rip~
+Subject Eating ...~
+Text
+Where can I buy food?
+~
+
+Sender  Rip~
+Date    Thu Sep 15 01:00:06 1994~
+To      rip~
+Subject fix skill_improve...~
+Text
+~
+
+Sender  Pug~
+Date    Thu Sep 22 20:16:42 1994~
+To      Ripster :)~
+Subject New areas ..?~
+Text
+So when will there be new areas and new stuff to explore, eh?  I'm a bit
+familiar with Y's and the sewers and am ready for some new adventures and
+stuff.  So leave a note here to let me know that you are working on 
+areas and that there will be some stuff to do soon.  Thanx :)
+~
+
+Sender  Rip~
+Date    Fri Sep 23 00:00:54 1994~
+To      pug~
+Subject re: new areas~
+Text
+nope, not working on areas
+have to finish up game mechanics/p[layer files first
+won't do no good to have new areas and have to delete players  >:)
+
+Rip
+~
+
+Sender  Rip~
+Date    Mon Sep 26 19:19:45 1994~
+To      bassman~
+Subject ACK, PTHFFT! THE GAME DELETED BASSMAN..  READ THIS~
+Text
+yer char file got blasted, ill reimb u when see ua
+~
+
+Sender  Henry~
+Date    Thu Sep 29 09:41:54 1994~
+To      rip~
+Subject ~
+Text
+Tell me when you have things completed here Rip
+I would like to get Henry reimbs too.. level 2
+Send Bassman a finish note so I can complete my Conquering quest
+~
+
+Sender  Rip~
+Date    Thu Sep 29 19:41:26 1994~
+To      rip~
+Subject casting spellz of higher lev with abil~
+Text
+~
+
+Sender  Rip~
+Date    Fri Sep 30 00:41:30 1994~
+To      zaknafein~
+Subject re: detect invis~
+Text
+you didn't have prerequisite spell, detect magic.  I would
+suggest going and practicing it, assuming
+the mud has rebooted since this message was posted...
+
+Rip
+~
+

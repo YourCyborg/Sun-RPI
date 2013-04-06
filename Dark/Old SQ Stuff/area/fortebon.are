@@ -1,0 +1,33 @@
+#AREA Fort Ebon~
+fortebon~
+Delerak~
+10101 10200
+15 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#10101
+The Void~
+You are floating in nothing.
+~
+~
+'inside'
+16396 0 0
+0 0 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

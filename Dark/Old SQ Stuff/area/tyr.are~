@@ -1,0 +1,2012 @@
+#AREA Delerak    Tyr~
+tyr~
+delerak~
+20000 20999
+15 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#20000
+Inside the Stadium Gate~
+Begin.
+~
+~
+'city'
+4 0 0
+0 0 0
+D1
+~
+~
+0 0 20001 0
+S
+#20453
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20454
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20455
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20456
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20457
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20458
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20459
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20460
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20461
+Buggy room~
+Don't collapse, just use if need be.
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20452
+Buggy room~
+Don't collapse, just use if need be.
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20451
+Buggy room~
+Don't collapse, just use if need be.
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20450
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20449
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20434
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20435
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20464
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20436
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20437
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20438
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20439
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20440
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20441
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20442
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20443
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20444
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20445
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20446
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20448
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20463
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20462
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20447
+Bleh~
+Bleh
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#20001
+Just East of the Stadium Gate~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20002 0
+D3
+~
+~
+0 0 20000 0
+S
+#20002
+Approaching the Stadium Gate Along the Wall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20003 0
+D3
+~
+~
+0 0 20001 0
+S
+#20003
+Along the Great Wall of Tyr~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20004 0
+D2
+~
+~
+0 0 20002 0
+S
+#20004
+Wall Road, Nearing the Tradesmen's District~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20005 0
+D3
+~
+~
+0 0 20003 0
+S
+#20005
+Wall Road, Nearing the Tradesmen's District~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20006 0
+D3
+~
+~
+0 0 20004 0
+S
+#20006
+A Bend in the Road, Along the Great Wall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20007 0
+D2
+~
+~
+0 0 20005 0
+S
+#20007
+A Bend in the Road, Along the Great Wall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20008 0
+D3
+~
+~
+0 0 20006 0
+S
+#20008
+A Lazy Bend in the Road, Along the Great Wall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20009 0
+D2
+~
+~
+0 0 20007 0
+S
+#20009
+A Lazy Bend in the Road, Along the Great Wall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20010 0
+D3
+~
+~
+0 0 20008 0
+S
+#20010
+Wall Road, Within the Tradesmen's District~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20011 0
+D2
+~
+~
+0 0 20009 0
+S
+#20011
+Wall Road, Within the Tradesmen's District~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20012 0
+D2
+~
+~
+0 0 20010 0
+S
+#20012
+Wall Road, Within the Tradesmen's District~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20013 1752462703
+D2
+~
+~
+0 0 20011 0
+S
+#20013
+Wall Road, Within the Tradesmen's District~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20014 0
+D2
+~
+~
+0 0 20012 0
+S
+#20014
+Along the Wall Within the Tradesmen's District~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20015 0
+D2
+~
+~
+0 0 20013 0
+S
+#20015
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20016 0
+D2
+~
+~
+0 0 20014 0
+S
+#20016
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20017 0
+D2
+~
+~
+0 0 20015 0
+S
+#20017
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20018 0
+D3
+~
+~
+0 0 20016 0
+S
+#20018
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20019 0
+D2
+~
+~
+0 0 20017 0
+S
+#20019
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20020 0
+D2
+~
+~
+0 0 20018 0
+S
+#20020
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20021 0
+D3
+~
+~
+0 0 20019 0
+S
+#20021
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20022 0
+D2
+~
+~
+0 0 20020 0
+S
+#20022
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20023 0
+D2
+~
+~
+0 0 20021 0
+S
+#20023
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20024 0
+D3
+~
+~
+0 0 20022 0
+S
+#20024
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20025 0
+D2
+~
+~
+0 0 20023 0
+S
+#20025
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20026 0
+D2
+~
+~
+0 0 20024 0
+S
+#20026
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20027 0
+D2
+~
+~
+0 0 20025 0
+S
+#20027
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20028 0
+D3
+~
+~
+0 0 20026 0
+S
+#20028
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20029 0
+D2
+~
+~
+0 0 20027 0
+S
+#20029
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20030 0
+D3
+~
+~
+0 0 20028 0
+S
+#20030
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20031 0
+D2
+~
+~
+0 0 20029 0
+S
+#20031
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20032 0
+D3
+~
+~
+0 0 20030 0
+S
+#20032
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20033 0
+D2
+~
+~
+0 0 20031 0
+S
+#20033
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20034 0
+D3
+~
+~
+0 0 20032 0
+S
+#20034
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20035 0
+D2
+~
+~
+0 0 20033 0
+S
+#20035
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20036 0
+D3
+~
+~
+0 0 20034 0
+S
+#20036
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20037 0
+D3
+~
+~
+0 0 20035 0
+S
+#20037
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20038 0
+D2
+~
+~
+0 0 20036 0
+S
+#20038
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20039 0
+D3
+~
+~
+0 0 20037 0
+S
+#20039
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20040 0
+D2
+~
+~
+0 0 20038 0
+S
+#20040
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20041 0
+D3
+~
+~
+0 0 20039 0
+S
+#20041
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20042 0
+D2
+~
+~
+0 0 20040 0
+S
+#20042
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20043 0
+D3
+~
+~
+0 0 20041 0
+S
+#20043
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20044 0
+D3
+~
+~
+0 0 20042 0
+S
+#20044
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20045 0
+D2
+~
+~
+0 0 20043 0
+S
+#20045
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20046 0
+D3
+~
+~
+0 0 20044 0
+S
+#20046
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20047 0
+D2
+~
+~
+0 0 20045 0
+S
+#20047
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20048 0
+D2
+~
+~
+0 0 20046 0
+S
+#20048
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20049 0
+D3
+~
+~
+0 0 20047 0
+S
+#20049
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20050 0
+D3
+~
+~
+0 0 20048 0
+S
+#20050
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20051 0
+D2
+~
+~
+0 0 20049 0
+S
+#20051
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20052 0
+D3
+~
+~
+0 0 20050 0
+S
+#20052
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20053 0
+D3
+~
+~
+0 0 20051 0
+S
+#20053
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20054 0
+D2
+~
+~
+0 0 20052 0
+S
+#20054
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20055 0
+D3
+~
+~
+0 0 20053 0
+S
+#20055
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20056 0
+D3
+~
+~
+0 0 20054 0
+S
+#20056
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20057 0
+D3
+~
+~
+0 0 20055 0
+S
+#20057
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20058 0
+D3
+~
+~
+0 0 20056 0
+S
+#20058
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20059 0
+D3
+~
+~
+0 0 20057 0
+S
+#20059
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20060 0
+D2
+~
+~
+0 0 20058 0
+S
+#20060
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20061 0
+D3
+~
+~
+0 0 20059 0
+S
+#20061
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20062 0
+D3
+~
+~
+0 0 20060 0
+S
+#20062
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20063 0
+D3
+~
+~
+0 0 20061 0
+S
+#20063
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20064 0
+D3
+~
+~
+0 0 20062 0
+S
+#20064
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20065 0
+D3
+~
+~
+0 0 20063 0
+S
+#20065
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20066 0
+D3
+~
+~
+0 0 20064 0
+S
+#20066
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20067 0
+D3
+~
+~
+0 0 20065 0
+S
+#20067
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20068 0
+D3
+~
+~
+0 0 20066 0
+S
+#20068
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20069 0
+D3
+~
+~
+0 0 20067 0
+S
+#20069
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20070 0
+D3
+~
+~
+0 0 20068 0
+S
+#20070
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20069 0
+D1
+~
+~
+0 0 20071 0
+S
+#20071
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20072 0
+D3
+~
+~
+0 0 20070 0
+S
+#20072
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20073 0
+D3
+~
+~
+0 0 20071 0
+S
+#20073
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20074 0
+D3
+~
+~
+0 0 20072 0
+S
+#20074
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20075 0
+D3
+~
+~
+0 0 20073 0
+S
+#20075
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20074 0
+D1
+~
+~
+0 0 20076 0
+S
+#20076
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20077 0
+D3
+~
+~
+0 0 20075 0
+S
+#20077
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20078 0
+D3
+~
+~
+0 0 20076 0
+S
+#20078
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20079 0
+D3
+~
+~
+0 0 20077 0
+S
+#20079
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20078 0
+D1
+~
+~
+0 0 20080 0
+S
+#20080
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20081 0
+D3
+~
+~
+0 0 20079 0
+S
+#20081
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20080 0
+D2
+~
+~
+0 0 20082 0
+S
+#20082
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20081 0
+D1
+~
+~
+0 0 20083 0
+S
+#20083
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20084 0
+D3
+~
+~
+0 0 20082 0
+S
+#20084
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 20085 0
+D3
+~
+~
+0 0 20083 0
+S
+#20085
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20086 0
+D3
+~
+~
+0 0 20084 0
+S
+#20086
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20085 0
+D1
+~
+~
+0 0 20087 0
+S
+#20087
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20088 0
+D3
+~
+~
+0 0 20086 0
+S
+#20088
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20087 0
+D1
+~
+~
+0 0 20089 0
+S
+#20089
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20090 0
+D3
+~
+~
+0 0 20088 0
+S
+#20090
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20089 0
+D1
+~
+~
+0 0 20091 0
+S
+#20091
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20092 0
+D3
+~
+~
+0 0 20090 0
+S
+#20092
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20091 0
+D2
+~
+~
+0 0 20093 0
+S
+#20093
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20092 0
+D1
+~
+~
+0 0 20094 0
+S
+#20094
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20095 0
+D3
+~
+~
+0 0 20093 0
+S
+#20095
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20094 0
+D1
+~
+~
+0 0 20096 0
+S
+#20096
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20097 0
+D3
+~
+~
+0 0 20095 0
+S
+#20097
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20096 0
+D2
+~
+~
+0 0 20098 0
+S
+#20098
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20097 0
+D1
+~
+~
+0 0 20099 0
+S
+#20099
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 20100 0
+D3
+~
+~
+0 0 20098 0
+S
+#20100
+Inside the Caravan Gate~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 20099 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

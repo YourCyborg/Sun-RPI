@@ -1,0 +1,216 @@
+#AREA Delerak     CrescentForest~
+crescent~
+Xione Delerak Mopo~
+5000 5999
+0 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#5000
+Crescent Forest~
+     This section of forest stretches south and east, protected by a mountain
+range in the distance to the west.  Verdant shrubbery dotted with tiny
+colorful berries crouch along the forest floor and creep between the
+shrubs and trees.  Towering overhead, spindly glinflur trees shade the
+terrain below, their red flowers set sparsely on random branches.  Soft
+trills of birdsong call out from atop the lower portion of the mountains
+nearby, while footsteps of small animals crackle against the glinflur
+needles carpeting the ground.  A looming cliff rises high up against the
+northern edge of the forest, its smooth stony surface impassable.
+~
+~
+'forest'
+4 0 0
+0 0 0
+D1
+~
+~
+0 0 5001 0
+D2
+~
+~
+0 0 5005 854574
+S
+#5001
+Crescent Forest - North End~
+     This section of forest stretches south and east, protected by a
+mountain range in the distance to the west.  Verdant shrubbery dotted
+with tiny colorful berries crouch along the forest floor.  Towering
+overhead, spindly glinflur trees shade the terrain below, their red
+flowers set sparsely on random branches.  Soft trills of birdsong call
+out from atop the lower portion of the mountains nearby, while footsteps
+of small animals crackle against the glinflur needles carpeting the
+ground.  A looming cliff rises high up against the northern edge of the
+forest, its smooth stony surface impassable.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 5002 0
+D3
+~
+~
+0 0 5000 0
+S
+#5002
+Crescent Forest - Before a High Cliff~
+     This section of forest stretches south and east, protected by a mountain
+range in the distance to the west. Verdant shrubbery dotted with tiny 
+colorful berries crouch along the forest floor. Towering overhead, spindly
+glinflur trees shade the terrain below, their red flowers set sparsely on
+random branches. Soft trills of birdsong call out from atop the lower 
+portion of the mountains nearby, while footsteps of small animals crackle 
+against the glinflur needles carpeting the ground. A high cliff-face looms 
+above to the north, its smooth stone surface impassible.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 5003 0
+D2
+~
+~
+0 0 5004 852069
+D3
+~
+~
+0 0 5001 0
+S
+#5003
+Crescent Forest - Northeastern Corner~
+     This section of forest stretches south and east, protected by a mountain
+range in the distance to the west. Verdant shrubbery dotted with tiny 
+colorful berries crouch along the forest floor. Towering overhead, spindly
+glinflur trees shade the terrain below, their red flowers set sparsely on
+random branches. Soft trills of birdsong call out from atop the lower 
+portion of the mountains nearby, while footsteps of small animals crackle 
+against the glinflur needles carpeting the ground. A smooth stone cliff-face
+looms overhead, its concave surface impassable.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 5006 29811
+D3
+~
+~
+0 0 5002 0
+S
+#5004
+Crescent Forest - Near a High Cliff~
+     This section of forest stretches south and east, protected by a
+mountain range in the distance to the west.  Verdant shrubbery dotted
+with tiny colorful berries crouch along the forest floor.  Towering
+overhead, spindly glinflur trees shade the terrain below, their red
+flowers set sparsely on random branches.  Soft trills of birdsong call
+out from atop the lower portion of the mountains nearby, while footsteps
+of small animals crackle against the glinflur needles carpeting the
+ground.  A high cliff-face looms in the distance to the north, its smooth
+stone surface stretching the horizon from east to west.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 5002 0
+D1
+~
+~
+0 0 5006 0
+S
+#5005
+Crescent Forest - At an Old Lean-To~
+     The forest stretches south and east, protected by an expansive
+mountain range in the distance to the west.  Verdant shrubbery dotted
+with tiny colorful berries crouch along the forest floor.  Towering
+overhead, spindly glinflur trees shade the terrain below, their red
+flowers set sparsely on random branches.  Soft trills of birdsong call
+out from atop the lower portion of the mountains nearby, while footsteps
+of small animals crackle against the glinflur needles carpeting the
+ground.  A looming cliff rises high up the northern horizon, its smooth
+stony surface impassable.  Dried sinew and old vine flap around the
+support beams of an oddly-shaped lean-to, tucked beneath a pair of
+saplings with thick grey trunks.  The shelter appears sturdy and wide
+enough to protect several people from the elements.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 5000 0
+S
+#5006
+Crescent Forest - Eastern Edge~
+     Greyish-brown vines dangle from the branches of various saplings near
+the forest's edge to the east, carpeting the ground with sinewy tendrils.
+Lichens of ruddy hues spread among glinflur trees along the forest floor.
+Sticky sap oozes from the lichen like congealed crimson blood, creating a
+glue that attaches it to each tree root.  As the forest thins to the
+east, it yields to sandy soil with splotches of sage that poke up and
+teeter in the breeze.  Glinflurs thicken, intermingled with Groundberry
+hovering close to the denser soil of the forest to the west.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 5003 0
+D2
+~
+~
+0 0 5007 30837
+D3
+~
+~
+0 0 5004 0
+S
+#5007
+Crescent Forest - Eastern Edge~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 5006 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

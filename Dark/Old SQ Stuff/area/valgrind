@@ -1,0 +1,3 @@
+echo 'Running Valgrind with options --gdb-attach=yes'
+valgrind -q ../src/executable 5040 --gdb-attach=yes
+

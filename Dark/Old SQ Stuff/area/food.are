@@ -1,0 +1,1149 @@
+#AREA Delerak    Food Zone~
+food~
+Delerak Xione~
+9400 9499
+0 1
+
+
+#MOBILES
+#9464
+norse~
+new newmob~
+The new mob~
+The new mob stands here reminding you to change it's description.
+~
+New mob is waiting for a real description.
+~
+~
+3 0 0 0 0 0 S
+1 5d5+50 2d4+0
+50 50 50 50 50 0 0
+0 0 0 0
+8 0
+'std_humanoid'
+0
+#0
+
+
+#OBJECTS
+#9400
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+48 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9401
+nuts few~
+a few nuts~
+A few nuts have been dropped here.~
+~
+~
+'leather'
+19 0 1 0
+1 0 0 0
+10 0 100 0 100
+1 1 0 2
+#9402
+berry~
+a small red berry~
+A reddish berry has been dropped here.~
+~
+~
+'leather'
+19 0 1 0
+1 0 0 0
+10 0 100 0 100
+1 1 0 2
+#9403
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+2 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9404
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+2 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9405
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+3 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9406
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+3 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9407
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+4 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9408
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+4 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9409
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+5 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9410
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+5 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9411
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+6 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9412
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+6 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9413
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+7 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9414
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+7 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9415
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+8 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9416
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+8 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9417
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+9 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9418
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+9 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9419
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+10 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9420
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+10 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9421
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+11 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9422
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+11 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9423
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+12 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9424
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+12 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9425
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+13 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9426
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+13 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9427
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+14 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9428
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+14 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9429
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+15 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9430
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+15 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9431
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+16 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9432
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+16 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9433
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+17 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9434
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+17 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9435
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+18 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9436
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+18 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9437
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+19 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9438
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+19 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9439
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+20 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9440
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+20 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9441
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+21 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9442
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+21 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9443
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+22 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9444
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+22 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9445
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+23 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9446
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+23 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9447
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+24 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9448
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+24 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9449
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+25 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9450
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+25 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9451
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+26 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9452
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+26 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9453
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+27 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9454
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+27 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9455
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+28 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9456
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+28 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9457
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+29 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9458
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+29 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9459
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+30 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9460
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+30 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9461
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+31 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9462
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+31 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9463
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+32 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9464
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+32 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9465
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+33 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9466
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+33 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9467
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+34 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9468
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+34 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9469
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+35 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9470
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+35 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9471
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+36 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9472
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+36 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9473
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+37 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9474
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+37 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9475
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+38 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9476
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+38 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9477
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+39 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9478
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+39 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9479
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+40 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9480
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+40 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9481
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+41 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9482
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+41 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9483
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+42 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9484
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+42 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9485
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+43 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9486
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+43 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9487
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+44 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9488
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+44 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9489
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+45 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9490
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+45 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9491
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+46 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9492
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+46 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9493
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+47 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9494
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+47 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9495
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+48 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9496
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+48 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9497
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+48 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9498
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+48 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9499
+food~
+some generic food~
+Some generic food lies here.~
+~
+~
+'leather'
+19 0 1 0
+48 0 0 0
+10 0 100 0 0
+1 1 0 2
+#0
+
+
+#ROOMS
+#9400
+The Food Room~
+This room is so that the food zone can be saved manually.
+~
+~
+'inside window'
+4 0 0
+0 0 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

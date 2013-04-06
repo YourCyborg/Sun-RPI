@@ -1,0 +1,209 @@
+#AREA Desert Region 1~
+desertregion1~
+Delerak Xione~
+28000 28999
+10 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#28000
+Lip of a Large Valley~
+The huge walls of large, stony crags are broken here, allowing a small
+road to snake down into what appears to be the mouth of a wide valley.
+Stony, windswept crags jut into the air on either side of the trail,
+shadowing the narrow defile that the trail leads through.  A massive gate
+looms to the east, closing off access into the valley floor.  A few
+clumps of dry, withered plantlife cling to the crevices and cracks that
+run along the walls of the defile, their life protected from the blazing
+sun by the shadow.
+~
+~
+'city'
+16396 0 0
+0 0 0
+D1
+~
+~
+0 0 28001 0
+S
+#28001
+Descending into the Valley~
+The shadowed trail descends from the lip of the valley, fading in
+places, distinct in others.  The crags press close from north and south,
+their cracked, crumbling surface seemingly unscalable.  To the east, a
+great wall seals the mouth of the valley beyond.  Squat and ugly, the
+great stone wall is centered by huge wooden gates, and a number of
+smaller ones, scattered along its half-mile length.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 28002 0
+D3
+~
+~
+0 0 28000 0
+S
+#28002
+Approaching the Holdfast Gate~
+The trail emerges from it's narrow defile here, the stony crags leading
+away to north and south to continue their circling of the valley.  A
+broad, grassy field stretches from the foot of the crags to the base of
+the towering wall, just to the east.  Visible on the wall, once one
+approaches, are a large number of cracks and scorch marks, evidence of
+violence.  Scraps of chitin and odd bits of broken bone litter the field,
+some of the bones apparently humanoid.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 28003 0
+D3
+~
+~
+0 0 28001 0
+S
+#28003
+Before the Holdfast Gate~
+The trail changes here, from the stony earth of the descent, into the
+rich, sandy soil of the valley floor.  Across the field and through the
+great gates it runs, disappearing beyond.  Large murder-holes mark the
+gate to both sides and above.  Further evidence of battle is upon the
+gates themselves, the ancient wood scarred by axe and fire, but for all
+appearances sturdy enough.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 28004 0
+D3
+~
+~
+0 0 28002 0
+S
+#28004
+Inside the Holdfast Gate~
+Inside the gate, the valley stretches out to the eastern horizon. 
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 28005 0
+D3
+~
+~
+0 0 28003 0
+S
+#28005
+Steeply Sloping Trail into the Valley~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 28004 0
+D5
+~
+~
+0 0 28006 121
+S
+#28006
+The Valley Floor~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 28007 0
+D4
+~
+~
+0 0 28005 0
+S
+#28007
+The Valley Floor, Amid Dry Fields~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 28009 0
+D3
+~
+~
+0 0 28006 0
+S
+#28009
+A Rise in the Valley Floor~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 28010 0
+D3
+~
+~
+0 0 28007 0
+S
+#28010
+Approaching a Small Cluster of Buildings~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 28009 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

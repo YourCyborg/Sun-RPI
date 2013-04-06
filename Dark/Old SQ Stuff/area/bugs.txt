@@ -1,0 +1,123 @@
+[*****] BUG: Act: bad code 49.
+[*****] BUG: Damage: 20546: more than 1000 points!
+[*****] BUG: Damage: 19364: more than 1000 points!
+[*****] BUG: Damage: 21534: more than 1000 points!
+[*****] BUG: Damage: 5079: more than 1000 points!
+[*****] BUG: Damage: 9506: more than 1000 points!
+[*****] BUG: Damage: 10336: more than 1000 points!
+[*****] BUG: Damage: 9966: more than 1000 points!
+[*****] BUG: Damage: 11098: more than 1000 points!
+[*****] BUG: Damage: 10110: more than 1000 points!
+[*****] BUG: Damage: 9174: more than 1000 points!
+[*****] BUG: Damage: 8004: more than 1000 points!
+[*****] BUG: Damage: 29130: more than 1000 points!
+[*****] BUG: Free_mem: Attempting to free memory without MEM_MAGIC set.
+[*****] BUG: Damage: 5770: more than 1000 points!
+[*****] BUG: Damage: 1158: more than 1000 points!
+[*****] BUG: Damage: 1173: more than 1000 points!
+[*****] BUG: Damage: 1224: more than 1000 points!
+[*****] BUG: Damage: 2802: more than 1000 points!
+[*****] BUG: Damage: 2684: more than 1000 points!
+[*****] BUG: Damage: 2660: more than 1000 points!
+[*****] BUG: Damage: 2315: more than 1000 points!
+[*****] BUG: Damage: 2564: more than 1000 points!
+[*****] BUG: Damage: 1191: more than 1000 points!
+[*****] BUG: Damage: 2456: more than 1000 points!
+[*****] BUG: Damage: 2316: more than 1000 points!
+[*****] BUG: Damage: 2715: more than 1000 points!
+[*****] BUG: Damage: 2906: more than 1000 points!
+[*****] BUG: Damage: 1084: more than 1000 points!
+[*****] BUG: Damage: 6972: more than 1000 points!
+[*****] BUG: Damage: 2058: more than 1000 points!
+[*****] BUG: Damage: 2704: more than 1000 points!
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'M': bad vnum 9464.
+[*****] BUG: Reset_area: 'R': bad vnum 9464.
+[*****] BUG: Reset_area: 'R': bad vnum 9464.
+[*****] BUG: Reset_area: 'R': bad vnum 9464.
+[*****] BUG: Act: bad code 49.
+[*****] BUG: Load_mobiles: vnum 9464 duplicated.
+[*****] BUG: Load_mobiles: vnum 9464 duplicated.
+[*****] BUG: Load_mobiles: vnum 9464 duplicated.
+[*****] BUG: Load_mobiles: vnum 9464 duplicated.
+[*****] BUG: Load_mobiles: vnum 9464 duplicated.
+[*****] BUG: Load_mobiles: vnum 9464 duplicated.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Load_mobiles: vnum 9464 duplicated.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Reset_area: 'M': bad vnum 75000.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.

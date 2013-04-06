@@ -1,0 +1,8 @@
+echo ' ------------------- '
+echo ' To make a new area '
+echo ''
+echo ' cp new.are <yourfilename> '
+echo ''
+echo ' Then edit the data inside. '
+echo ' append area.lst and reboot.'
+#EOF

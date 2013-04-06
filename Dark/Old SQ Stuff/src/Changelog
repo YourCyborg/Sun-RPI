@@ -1,0 +1,12 @@
+01.11.03 Added additional 'holy' bits:
+	 * holywalk   - No movement loss, lag, barriers.  Can 'get' any object.
+	 * holylight  - tweaked in several spots.  Room vnum appears.
+	 * holyvnum   - prepends [vnum] to obj/mobs.
+	 * holyname   - swaps/prepends name for sdesc on PCs.
+	 * holyspeech - <unimplemented>	 
+	 Tweaked sensory stuff.  Will no longer receive echo if action
+	 requires SENSE_SIGHT and cannot see.
+	 Introduced AFK mode.  Removed PLR_SILENCE.
+	 Introduced bitflags, on-going file structure clean-up.
+02.11.03 Emote system reworked to emulate Armageddon's.	 	 	 
+03.11.03 Semote added.

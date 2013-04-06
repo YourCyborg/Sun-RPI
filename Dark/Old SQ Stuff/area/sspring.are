@@ -1,0 +1,1037 @@
+#AREA Desaris     Silver Spring~
+sspring~
+Desaris Flux Xione Delerak~
+10000 10100
+0 0
+
+
+#MOBILES
+#10000
+elven scout tan tanned~
+new newmob~
+A tan, elven scout~
+A tan, elven scout peers out over the dunes here.
+~
+New mob is waiting for a real description.
+~
+~
+3 0 0 0 0 0 S
+1 5d5+50 2d4+0
+50 50 50 50 50 0 0
+0 0 0 0
+8 0
+'std_humanoid'
+0
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#10000
+Nearing a Village.~
+     A small, well-used path is dug out into the desert here, traveling
+eastwards to a few high mud-brick walls.  A few elves travel up and
+down the path's length, watching the road with lazy gazes as they
+nock an arrow to their bows and peer out over the surrounding dunes. 
+     The path moves eastward, while back to the west a stone road cuts
+through the Sandy Wastes.  
+~
+~
+'city'
+4 0 0
+0 0 0
+D1
+You see the entrance to the Silver Spring village, crowded with elves.
+~
+~
+0 0 10001 0
+D3
+~
+~
+0 0 25182 0
+S
+#10001
+A Reinforced Earthern Gate.~
+     Within the vast expanse of the surrounding desert, a large walled
+village protrudes out from the shimmering sands.  Two huge gates
+comprised of an amalgamation of bone, mud and sand, sit squarely within
+the expertly crafted frame that serves as the entrance to the village.
+Carpeting the mud-brick walls of the village are hordes of broad-winged,
+bulbous flies, each one frantically trying to escape the stinging
+sandstorms that regularly envelop the village in thick clouds of reddish
+grit.  A path has been worn into the space leading up to the gates, no
+doubt from the countless decades of travel into the village.  In addition
+to a small crowd of armed elves congregated towards the side of the gate,
+garbed in various degrees of armor, a handful of younger elves either
+armed with bows or wearing medallions in the form of a silver hand, sit
+atop the walls of the village, peering out into the sands with fierce
+eyes.
+     A worn pathway leads into the village to the east.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+To the east a worn pathway leads through the village.
+~
+gate~
+1 0 10002 0
+D3
+To the west you can see the exit from the village.
+~
+~
+0 0 10000 0
+S
+#10002
+A Worn Pathway.~
+     Scattered groups of elves hold loud conversations at the doorways to
+mudbrick houses lining this narrow path.  Nothing more than a trail worn
+into the sand, it seperates buildings and housing on either side, holding
+more importance than it's appearance shows.  A handful of decrepit, old
+elven ladies crouch in front of a crate, weaving crude baskets from wiry
+peices of flimsy bone.  Several narrow alleys snake between houses, a
+comfortable place for thugs and shady dealers.  Graffiti marks the walls
+of a collapsed hut, nestled away in between a clump of larger buildings,
+now playing home to some of the less wealthy denizens of the village.
+     To the west is a large gate leading out of the village, the path 
+continues east and west.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+To the east a worn pathway leads through the village.
+~
+~
+0 0 10003 0
+D3
+To the west you can see the gate leading outside of the village.
+~
+gate~
+1 0 10001 0
+S
+#10003
+A Worn Pathway.~
+     Scattered groups of elves hold loud conversations at the doorways
+to mudbrick houses lining this narrow path.  Nothing more than a trail
+worn into the sand, it seperates buildings and housing on either side,
+holding more importance than it's appearance shows.  A handful of
+decrepit, old elven ladies crouch in front of a crate, weaving crude
+baskets from wiry peices of flimsy bone.  Several narrow alleys snake
+between houses, a comfortable place for thugs and shady dealers.
+     A trail of sand leads off the path, heading north, the path 
+continues east and west.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+To the north the trail broadens onto a large path of red sand.
+~
+~
+0 0 10004 0
+D1
+The worn pathway continues to the east.
+~
+~
+0 0 10016 0
+D3
+To the west the gates are visible.
+~
+~
+0 0 10002 0
+S
+#10004
+A Path Of Reddish Sand.~
+     Nothing more than a trail of well-used, gritty red sand.  Bearing
+chunks of rock and dried heaps of faeces, not distinguishable as either
+human or animal, the path, once heated by the rays of the sun, gives off
+a perculiar smell.  The trail follows the curvature of the village wall,
+trailing along beside it, watched sternly by the guards sitting atop
+watchtowers above.  Very few houses line this road, though each one is of
+fairly good quality, cracks in the walls of each minimal.  Only the
+occasional person walks the path, though they do it quickly and warily,
+with their hand on their weapon.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+To the north the sand trail continues.
+~
+~
+0 0 10005 0
+D2
+To the south the sand path emerges onto a worn pathway.
+~
+~
+0 0 10003 0
+S
+#10005
+A Path Of Reddish Sand.~
+     Nothing more than a trail of well-used, gritty red sand.  Bearing
+chunks of rock and dried heaps of faeces, not distinguishable as either
+human or animal, the path, once heated by the rays of the sun, gives off
+a perculiar smell.  The trail follows the curvature of the village wall,
+trailing along beside it, watched sternly by the guards sitting atop
+watchtowers above.  Very few houses line this road, though each one is of
+fairly good quality, cracks in the walls of each minimal.  Only the
+occasional person walks the path, though they do it quickly and warily,
+with their hand on their weapon.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+To the east the sand trail continues
+~
+~
+0 0 10006 0
+D2
+To the south the sand trail continues
+~
+~
+0 0 10004 0
+S
+#10006
+A Path Of Reddish Sand.~
+     Nothing more than a trail of well-used, gritty red sand.  Bearing
+chunks of rock and dried heaps of faeces, not distinguishable as either
+human or animal, the path, once heated by the rays of the sun, gives off
+a perculiar smell.  The trail follows the curvature of the village wall,
+trailing along beside it, watched sternly by the guards sitting atop
+watchtowers above.  Very few houses line this road, though each one is of
+fairly good quality, cracks in the walls of each minimal.  Only the
+occasional person walks the path, though they do it quickly and warily,
+with their hand on their weapon.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10007 0
+D3
+To the west a bend in the trail is visible.
+~
+~
+0 0 10005 0
+S
+#10007
+A Path Of Reddish Sand.~
+     Nothing more than a trail of well-used, gritty red sand, bearing
+chunks of rock and dried heaps of feces, not distinguishable as human or
+animal.  The path, once heated by the rays of the sun, gives off a
+perculiar smell.  The trail follows the curvature of the village wall,
+trailing along beside it, watched sternly by the guards sitting atop
+watchtowers above.  Very few houses line this road, though each one is of
+fairly good quality, cracks in the walls of each minimal.  Only the
+occasional human walks the path, though they do it quickly and warily,
+with their hand on their weapon.
+     To the north, a large tavern stands above the village upon
+stilts, a ramp leading up to it.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 10008 0
+D1
+~
+~
+0 0 10012 0
+D3
+~
+~
+0 0 10006 0
+S
+#10008
+Entrance to the 'Silver Spring' Tavern~
+     Named after the oasis of the village.  The Silver Spring
+tavern sits atop several thick agafari stilts, which keep the silver 
+stones it is constructed of to keep cool. Below the stilts lies a
+channel of sandy water that comes from the oasis on the eastern side
+of the village, passing beneath the tavern. It seems to serve as a
+stopping point for some elven woman, who appear to wash clothes and
+other various cloth in the mucky water. An thick board of agafari
+rises as a ramp to allow travelers to walk up and into the "floating"
+tavern.
+     The ramp leads upward, to the south the reddish sand of a path is visible.      
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 10007 0
+D4
+An thick agafari ramp heads up into the tavern.
+~
+~
+0 0 10009 0
+S
+#10009
+The 'Silver Spring' Tavern - Main Room~
+     The silvery hue of the tavern's walls gleam strangely in the
+torch-light; held by matching silver sconces, the fiery luminescence
+given off by the torches sputters wildly, as if straining to destroy the
+blackened stone which it burns against.  A bar of long grey stone is set
+on the northern wall, and behind it hangs a massive portrait of a
+particularly large elf, with silver eyes.  Along the eastern wall the
+stone opens to a smoky dwelling.  Westwards, another opening branches off
+down a corridor, lined by agafari doors painted silver.  Elves of all
+shapes, sizes, colors, and demeanors lean languidly up against the walls,
+some sit at the bar, talking in their native tongue, and others sit at
+stone tables.  Here and there a silk-clad human can be seen, accompanied
+by a guard of half-giants whom wear the same patterns of their superior.
+     The air of the tavern is very lazy, and the indolence of the
+elves spreads like a contagious disease over the other customers, making
+one want to simply sit back and enjoy the cool air that comes in from the
+windows that seem to always be open.  On the stone floor their are small
+slits cut open for some odd reason, perhaps to allow more cool air in
+from the small creek below.
+     West a dormitory opens up for public rest.  To the east a room
+of smoking occupants can be seen.          
+~
+~
+'inside'
+0 0 0
+0 0 0
+D1
+Acrid smoke flows in from a smoking room to the east.
+~
+~
+0 0 10010 0
+D3
+To the west is a filthy dormitory.
+~
+~
+0 0 10011 0
+D5
+A ramp leads back down to the sand.
+~
+~
+0 0 10008 0
+S
+#10010
+Smoking Room~
+     Worn leather couches, over-stuffed and riddled with cuts and small
+burns, line the walls of this ovular room.  Several elves sit around the
+room, sitting spaced apart along the line of couches, smoke billowing
+from their mouths while they puff on bone pipes.  More elves stand in the
+centre of the room grasping rolled tubes of some material which emits a
+thick, reddish smoke.  There is a small bar in the southeastern
+corner of the room, placed specifically near the large open window. 
+Each elf eyes the room warily, though not trusting the company that
+they converse with.  A curtain of bleached fingerbones dangles down from the
+top of the doorway to the west, jingling whenever someone steps into
+the room.  A large, elaborate carving of an oasis sprawls across the 
+ceiling, showing the almost exact details of the oasis this village
+is based around.
+     To the west lies the main room of the tavern.
+~
+~
+'inside'
+0 0 0
+0 0 0
+D3
+Noise spills in from the main room to the west.
+~
+~
+0 0 10009 0
+S
+#10011
+The 'Silver Spring' Tavern - Crowded Dormitory~
+     Thin sheets of white cloth, now almost black with filth, completely
+cover the earthern floor of this dormitory.  Piles of ragged hide litter
+the base of each wall, serving as bedding for travellers in the village.
+The ceiling and walls are blank and uncovered, leaving only the bare
+earthern material to be seen.  A curtain of black-dyed cotton drapes down
+over the doorway to the east, dimming the noise and light pouring in from
+the main room.
+     To the east is the main room of the tavern.
+~
+~
+'inside'
+16384 0 0
+0 0 0
+D1
+Noise spills in from the main room to the east.
+~
+~
+0 0 10009 0
+S
+#10012
+A Path Of Reddish Sand.~
+     Nothing more than a trail of well-used, gritty red sand.  Bearing
+chunks of rock and dried heaps of faeces, not distinguishable as either
+as either human or animal, the path, once heated by the rays of the sun,
+gives off a perculiar smell.  The trail follows the curvature of the
+village wall, trailing along beside it, watched sternly by the guards
+sitting atop watchtowers above.  Very few houses line this road, though
+each one is of fairly good quality, cracks in the walls of each minimal.
+Only the occasional person walks the path, though they do it quickly and
+warily, with their hand on their weapon.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+To the north the inside of a public dwelling can be seen.
+~
+~
+0 0 10020 0
+D2
+To the west the Sand path continues.
+~
+~
+0 0 10014 0
+D3
+To the west the Sand path continues.
+~
+~
+0 0 10007 0
+S
+#10014
+A Path Of Reddish Sand.~
+     Nothing more than a trail of well-used, gritty red sand.  Bearing
+chunks of rock and dried heaps of faeces, not distinguishable as either
+as either human or animal, the path, once heated by the rays of the sun,
+gives off a perculiar smell.  The trail follows the curvature of the
+village wall, trailing along beside it, watched sternly by the guards
+sitting atop watchtowers above.  Very few houses line this road, though
+each one is of fairly good quality, cracks in the walls of each minimal.
+Only the occasional person walks the path, though they do it quickly and
+warily, with their hand on their weapon.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+To the north the path continues.
+~
+~
+0 0 10012 0
+D1
+To the east a serene oasis can be glimpsed through a clump of cacti.
+~
+~
+0 0 10024 0
+D2
+To the south the sand converts into a worn pathway.
+~
+~
+0 0 10019 0
+D3
+To the west a busy marketplace is visible.
+~
+~
+0 0 10022 0
+S
+#10016
+A Worn Pathway.~
+     Scattered groups of elves hold loud conversations at the doorways
+to mudbrick houses lining this narrow path.  Nothing more than a trail
+worn into the sand, it seperates buildings and housing on either side,
+holding more importance than it's appearance shows.  A handful of
+decrepit, old elven ladies crouch in front of a crate, weaving crude
+baskets from wiry peices of flimsy bone.  Several narrow alleys snake
+between houses, a comfortable place for thugs and shady dealers.
+     To the south a small shop is hidden within an alley.
+     The path continues east and west.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10017 0
+D2
+To the south a shop is nestled away in an alley.
+~
+~
+0 0 10023 2036430624
+D3
+~
+~
+0 0 10003 0
+S
+#10017
+A Worn Pathway.~
+     Scattered groups of elves hold loud conversations at the doorways
+to mudbrick houses lining this narrow path.  Nothing more than a trail
+worn into the sand, it seperates buildings and housing on either side,
+holding more importance than it's appearance shows.  A handful of
+decrepit, old elven ladies crouch in front of a crate, weaving crude
+baskets from wiry peices of flimsy bone.  Several narrow alleys snake
+between houses, a comfortable place for thugs and shady dealers.
+     The path continues east and west.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+To the east the pathway comes to a junction.
+~
+~
+0 0 10018 0
+D3
+To the west the worn pathway continues.
+~
+~
+0 0 10016 0
+S
+#10018
+A Crowded Junction~
+     Several pathways meet in the centre of this small square, each
+one worn by repeated use over many years.  The mud-brick village wall to
+the south bares many cracks and small crevices that have been patched
+together using a black coloured putty.  Several stalls have been set up
+against it, poor elven children hawking crudely made wares, most likely
+stolen.  The junction seems busy, with lots of elves and travellers
+hurrying through it towards the heat and noise of the market to the
+north.  Small crowds linger at it's entrance, conversing loudly in the
+elven tongue.  The sounds and smells of the market waft in from the
+north.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+To the north is a busy marketplace.
+~
+~
+0 0 10022 0
+D1
+~
+~
+0 0 10019 0
+D3
+To the west a worn pathway is visible.
+~
+~
+0 0 10017 0
+S
+#10019
+A Worn Pathway.~
+     Scattered groups of elves hold loud conversations at the doorways
+to mudbrick houses lining this narrow path.  Nothing more than a trail
+worn into the sand, it seperates buildings and housing on either side,
+holding more importance than it's appearance shows.  A handful of
+decrepit, old elven ladies crouch in front of a crate, weaving crude
+baskets from wiry peices of flimsy bone.  Several narrow alleys snake
+between houses, a comfortable place for thugs and shady dealers.
+     To the east a tall house stands, the doorway flanked by a dozen
+elves.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 10014 0
+D1
+To the east the inside of a tall house is visible.
+~
+~
+0 0 10013 0
+D3
+~
+~
+0 0 10018 0
+S
+#10013
+A Lavish Dwelling~
+     The walls of this expansive room are heavily decorated by dried floral
+arrangements, charcoal sketches and a few other grisly items.  The heat
+in this room seems considerably less than outside, a gentle, cool breeze
+circulating slowly around the room.  From the tall roof hangs a
+multi-pronged peice of bone, at each end an oil lamp hangs, providing
+more than enough light during the night.  Chests litter the base of one
+of the walls, locked shut, but no doubt carrying various expensive goods.
+A Worn carpet woven from giant hair is sprawled over the sandy floor,
+each step taken across it produces a crunching sounds.
+~
+~
+'city'
+8 0 0
+0 0 0
+D3
+~
+~
+0 0 10019 0
+D4
+~
+~
+0 0 10015 0
+S
+#10015
+A Lavish Dwelling - Upstairs~
+     The walls of this expansive room are heavily decorated by dried floral
+arrangements, charcoal sketches and a few other grisly items.  The heat
+in this room seems considerably less than outside, a gentle, cool breeze
+circulating slowly around the room.  From the tall roof hangs a
+multi-pronged peice of bone, at each end an oil lamp hangs, providing
+more than enough light during the night.  Chests litter the base of one
+of the walls, locked shut, but no doubt carrying various expensive goods.
+A Worn carpet woven from giant hair is sprawled over the sandy floor,
+each step taken across it produces a crunching sounds.  A single window
+looks out over the village, bone bars strung across it.
+     A crude bone ladder leads downwards through a hole cut in the floor.
+~
+~
+'city'
+8 0 0
+0 0 0
+D5
+~
+~
+0 0 10013 0
+S
+#10020
+A Public Dwelling~
+     Dirty and covered in sand, this massive room serves as home to
+many of the very poor denizens of the village.  Rows of unwashes bodies
+litter the floor, sending an overpowering stench through the room.  Each
+one clad in rags and torn clothing, clinging to the few things of little
+value they own.  Several bedrolls are layed out over the floor where the
+sand littering it is thickest, serving as beds for the more dominant of
+the poor.  Although a cool breeze flows in through several slits at the
+top of each wall, the heat is almost unbearable, made worse by the clump
+of sleeping bodies littering the floor.  A solitary elven guard stands
+tirelessly to the side of the doorway, eyes scanning the room with
+intent.
+     To the east the room spans out into another.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10021 0
+D2
+To the south a sandy path is visible.
+~
+~
+0 0 10012 0
+S
+#10021
+A Public Dwelling~
+     Dirty and covered in sand, this massive room serves as home to
+many of the very poor denizens of the village.  Rows of unwashes bodies
+litter the floor, sending an overpowering stench through the room.  Each
+one clad in rags and torn clothing, clinging to the few things of little
+value they own.  Several bedrolls are layed out over the floor where the
+sand littering it is thickest, serving as beds for the more dominant of
+the poor.  Although a cool breeze flows in through several slits at the
+top of each wall, the heat is almost unbearable, made worse by the clump
+of elves littering the floor.
+     To the west the room continues.
+~
+~
+'city'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 10020 0
+S
+#10022
+A Small Marketplace~
+     Various stalls line this wide alleyway, converting it into a
+makeshift market.  Elves and cloaked travellers barter loudly over
+assorted goods, from weaponry to spices.  A rank smell bellows forth from
+a large pavillion at the end of the alley, being marked out as a joint
+hidework and stable.  The buildings on either side open into houses,
+though doubling as shops from which the shopkeepers can promote their
+goods from their doorstep.  Whisps of sands fly overheard, belting down
+onto the tops of the buildings, slowly wearing away at the mud which
+comprises them.  Countless flies plague the alley, causing great
+annoyance to those who walk the marketplace, and more so those not used
+to their presence.
+     To the east is a path of reddish sand, to the south is a junction 
+crowded with people.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+To the east A path of sand is visible, and beyond that and Oasis.
+~
+~
+0 0 10014 0
+D2
+To the south a junction is visible.
+~
+~
+0 0 10018 0
+S
+#10023
+A Dusty Shop Selling Weapons And Armor.~
+     This small room is cramped by a dusty collection of exotic and
+common weaponry strung up on every wall, and even the roof.  The sand
+beneath is covered with a dirty blanket, it's embroidered pattern worn
+over years of use and exposure to the sun.  The heat inside is
+sweltering, a hot breeze blows in from the outside street and never seems
+to escape.  The limited space leaves only enough room for several people
+at a time, and even then there is no space to move or examine the wares
+the shop sells.
+     To the north is a worn pathway.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 10016 0
+S
+#10024
+A Cleared Path~
+     A small path has been cleared through a large clump of cacti,
+although it leaves barely enough room for an elf to move through without
+moving sideways.  The village walls close in considerable on this path,
+also changing from their normal maroon colour, to a sooty black.  Small
+snakes lurk in the midst of the cacti, ensuring anyone who moves through
+here does so quickly.
+     To the east A large oasis can be seen.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10025 0
+D3
+~
+~
+0 0 10014 0
+S
+#10025
+A Large Oasis.~
+     Succulent brown barked trees sprout from the moist earth, a
+mixture of sand and a gritty soil.  The area is flooded by at least
+several inches of water, keeping contained by the deeply implanted city
+walls.  Several narrow streams snake through across the ground, at least
+a foot deep at it's deepest point, carrying crystal clear water at a slow
+speed.  dotting the area.  Though the shade is comforting, the enclosure
+the tarpaulin creates turns the oasis into a greenhouse of sorts,
+trapping the heat inside.  A large well sits in the middle of the area,
+almost overflowing with water.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 10027 0
+D1
+~
+~
+0 0 10026 0
+D2
+~
+~
+0 0 10028 0
+D3
+~
+~
+0 0 10024 0
+S
+#10026
+A Large Oasis~
+     Succulent brown barked trees sprout from the moist earth, a
+mixture of sand and a gritty soil.  The area is flooded by at least
+several inches of water, keeping contained by the deeply implanted city
+walls.  Several narrow streams snake through across the ground, at least
+a foot deep at it's deepest point, carrying crystal clear water at a slow
+speed.  dotting the area.  Though the shade is comforting, the enclosure
+the tarpaulin creates turns the oasis into a greenhouse of sorts,
+trapping the heat inside.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 10030 0
+D2
+~
+~
+0 0 10029 0
+D3
+~
+~
+0 0 10025 0
+S
+#10027
+A Large Oasis~
+     Succulent brown barked trees sprout from the moist earth, a
+mixture of sand and a gritty soil.  The area is flooded by at least
+several inches of water, keeping contained by the deeply implanted city
+walls.  Several narrow streams snake through across the ground, at least
+a foot deep at it's deepest point, carrying crystal clear water at a slow
+speed.  dotting the area.  Though the shade is comforting, the enclosure
+the tarpaulin creates turns the oasis into a greenhouse of sorts,
+trapping the heat inside.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10030 0
+D2
+~
+~
+0 0 10025 0
+D4
+~
+~
+0 0 10034 854574
+S
+#10028
+A Large Oasis~
+     Succulent brown barked trees sprout from the moist earth, a
+mixture of sand and a gritty soil.  The area is flooded by at least
+several inches of water, keeping contained by the deeply implanted city
+walls.  Several narrow streams snake through across the ground, at least
+a foot deep at it's deepest point, carrying crystal clear water at a slow
+speed.  dotting the area.  Though the shade is comforting, the enclosure
+the tarpaulin creates turns the oasis into a greenhouse of sorts,
+trapping the heat inside.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 10025 0
+D1
+~
+~
+0 0 10029 0
+S
+#10029
+A Large Oasis~
+     Succulent brown barked trees sprout from the moist earth, a
+mixture of sand and a gritty soil.  The area is flooded by at least
+several inches of water, keeping contained by the deeply implanted city
+walls.  Several narrow streams snake through across the ground, at least
+a foot deep at it's deepest point, carrying crystal clear water at a slow
+speed.  dotting the area.  Though the shade is comforting, the enclosure
+the tarpaulin creates turns the oasis into a greenhouse of sorts,
+trapping the heat inside.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 10026 0
+D3
+~
+~
+0 0 10028 0
+S
+#10030
+A Large Oasis~
+     Succulent brown barked trees sprout from the moist earth, a
+mixture of sand and a gritty soil.  The area is flooded by at least
+several inches of water, keeping contained by the deeply implanted city
+walls.  Several narrow streams snake through across the ground, at least
+a foot deep at it's deepest point, carrying crystal clear water at a slow
+speed.  dotting the area.  Though the shade is comforting, the enclosure
+the tarpaulin creates turns the oasis into a greenhouse of sorts,
+trapping the heat inside.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 10026 0
+D3
+~
+~
+0 0 10027 0
+D4
+Above the oasis, in the air.
+~
+~
+64 0 10031 0
+S
+#10031
+In the air~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 10034 0
+D4
+Farther upwards, the sky opens up to a broad expanse of clouds.
+~
+~
+0 0 10032 0
+D5
+An oasis can be seen below.
+~
+~
+64 0 10030 0
+S
+#10032
+The Sky~
+Empty description.
+~
+~
+'air'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 10035 0
+D4
+Higher up the sky seems endless.
+~
+~
+0 0 10033 0
+D5
+The little dots of structures and land can be seen.
+~
+~
+0 0 10031 0
+S
+#10033
+The Sky~
+Aarakocra and shit will fly around up here
+~
+~
+'air'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 10036 0
+D5
+Through the clouds, you can barely make out land.
+~
+~
+0 0 10032 0
+S
+#10034
+In the air~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10031 0
+D4
+~
+~
+0 0 10035 0
+D5
+~
+~
+0 0 10027 0
+S
+#10035
+The Sky~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10032 0
+D4
+~
+~
+0 0 10036 0
+D5
+~
+~
+0 0 10034 0
+S
+#10036
+The Sky~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 10033 0
+D5
+~
+~
+0 0 10035 0
+S
+#0
+
+
+#RESETS
+M 0 10000 0 10000
+S
+
+
+#$

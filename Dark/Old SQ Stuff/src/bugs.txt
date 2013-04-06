@@ -1,0 +1,9 @@
+
+[*****] BUG: Error opening sector file.
+
+[*****] BUG: Error opening sector file.
+
+[*****] BUG: Error opening sector file.
+
+[*****] BUG: Error opening sector file.
+

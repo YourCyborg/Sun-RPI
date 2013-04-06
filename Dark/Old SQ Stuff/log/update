@@ -1,0 +1,6 @@
+echo "Updating logs..."
+gunzip *.gz
+grep -h "Xione" >xione.txt
+mv /usr/users/mud/darksun/Darksun/log/xione.txt ~/pub*/staff/ov/xione.txt
+echo ' Xione log moved to web dir. '
+echo "Done."

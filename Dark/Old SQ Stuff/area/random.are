@@ -1,0 +1,109 @@
+#AREA Delerak     Random Treasure Zone~
+random~
+Delerak Xione Jakahri Anira~
+9500 9999
+0 1
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#9500
+new newobj~
+the new object~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#9501
+silver silk gown flowing~
+a flowing gown of silver silk~
+A gown of silver silk lies crumpled here, shimmering delicately~
+This gown shimmers and glows slightly, its fabric seeming to emit its
+own light.  The silver silk is smooth and soft, and flows in a breeze
+that seems to radiate from its wearer.  Its bodice is form-fitting, the
+neck coming down into a V shape, and off of it drape two long, loose, and
+freely-moving sleeves.  The skirt of this gown tumbles to cover the
+wearer's feet, the shimmering fabric resembling a waterfall.
+~
+~
+'silk'
+9 1 1024 256
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#9502
+ring entwined silver glint~
+a ring of entwined silver~
+A glint of silver on the ground catches your eye.~
+This ring is comprised of five thin strands of silver, woven together to
+create an elegant, slender band.
+~
+~
+'silver'
+9 0 2 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#9503
+floating canopy bed silver white satin~
+a floating canopy bed of silver and white satin~
+A canopy bed draped in white and silver satin floats here, surrounded by a sheer white curtain.~
+This bed is hovering above the ground.  It is draped in silver and white
+satin, and a pile of decorative pillows adorn one end.  A sheer white
+curtain has been hung from its canopy.
+~
+~
+'wood'
+12 0 0 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#9504
+floating disc silver chair~
+a floating silver disc~
+A disc of silver floats here, large enough to sit upon.~
+This disc of silver has a slight indent in its surface as though it were
+meant to be a chair.  It floats above the ground, its surface glinting
+gently in the light
+~
+~
+'silver'
+12 0 0 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#0
+
+
+#ROOMS
+#9500
+The Treasure Room~
+This room is so that the random treasure zone can be saved manually.
+~
+~
+'inside window'
+4 0 0
+0 0 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

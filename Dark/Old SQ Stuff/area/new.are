@@ -1,0 +1,34 @@
+#AREA Author   areaname~
+filename~
+builders~
+lowvnum highvnum
+15 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#VNUM OF ROOM (EDIT THIS, MAKE LOW VNUM)
+The Void~
+You are floating in nothing.
+~
+~
+'inside'
+16396 0 0
+0 0 0
+S
+#0
+
+
+
+#RESETS
+S
+
+
+#$

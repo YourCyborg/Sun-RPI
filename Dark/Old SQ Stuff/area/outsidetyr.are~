@@ -1,0 +1,34 @@
+#AREA Delerak     Outside Tyr~
+outsidetyr~
+delerak~
+21000 25000
+15 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#21000
+Desert, Barrens, Scrublands~
+Outside of Tyr.  Need builder(s)?
+Going to be pretty huge
+~
+~
+'city'
+0 0 0
+0 0 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

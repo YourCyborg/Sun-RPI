@@ -1,0 +1,935 @@
+#AREA Delerak     Standard Equipment~
+stdeq~
+Arlan~
+100 999
+0 1
+
+
+#MOBILES
+#100
+brown kank~
+new newmob~
+a mottled, brown-shelled kank~
+A mottled, brown-shelled kank is here
+~
+New mob is waiting for a real description.
+~
+~
+11 0 0 0 0 0 S
+1 50d2+4 2d4+0
+50 50 100 50 50 0 0
+0 0 0 0
+8 0
+'std_humanoid'
+0
+#0
+
+
+#OBJECTS
+#100
+dagger jagged obsidian~
+a dagger of jagged obsidian~
+A dagger crafted from a shard of jagged obsidian lies here.~
+The single edge of this crudely shaped dagger has had small chunks cut
+out of it, leaving it with a wickedly sharp and jagged edge.  A length of
+grimy leather is wrapped around the base of the shard using a thin strip
+of twine to keep it in place.  The tip of the dagger is broken, leaving
+it usuable only for slashing motions.
+~
+~
+'obsidian'
+5 0 1 0
+0 0 0 0
+10 0 100 1 10
+2 3 10 3
+L 1
+#101
+obsidian headed mace~
+an obsidian-headed mace~
+A large mace with a head of obsidian lays here.~
+Attached to the end of a length of bleached bone is a large chunk of
+unworked obsidian, a hole has been drilled in it's base to allow the bone
+shaft to hold the chunk firmly upon it.  A length of hide has been
+wrapped around the base of the handle and glued on with some sort of
+plant-based glue, giving it a crude grip.  Copious amounts of a
+translucent substance has been shoved up into the remaining space in the
+hole at the base of the obsidian, ensuring a firm hold on the chunk.
+~
+~
+'wood'
+13 0 1 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#102
+torn cloth vest~
+a vest of torn cloth~
+A vest lays here, it's material torn in several places.~
+This vest is crafted from a poor-quality cloth, it's stitching crude and
+hastily done.  A myriad of small holes and tears mark the material, the
+threads at every edge splayed apart.
+~
+~
+'wood'
+13 0 8 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#103
+sleek obsidian scimitar~
+a sleek obsidian scimitar~
+A narrow-bladed obsidian scimitar lies here.~
+This narrow scimitar was crafted from a curving, narrow shard of
+obsidian, a hilt having been carved into the lower reaches of the shard.
+A length of leather has been wrapped around the hilt and stuck in place
+with a sticky substance.  The blade of the scimitar seems as though it
+would chip if it was struck against anything harder than flesh.
+~
+~
+'wood'
+13 0 1 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#104
+broad bladed obsidian sword~
+a broad-bladed obsidian sword~
+An obsidian sword with a broad blade lies here.~
+The blade of this sword of average length is quite thick, carrying a
+razor sharp edge on both sides.  A bone crosshilt is tied to the top of
+the hilt, bound with a leather thong.  The hilt is smooth and uncovered,
+though small cuts have been made into it to provide a small amount of
+grip.  The blade of the sword forms into a sharp point at it's tip, thin
+veins of yellow coursing through the surface of the stone.
+~
+~
+'wood'
+13 0 1 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 3
+L 1
+#105
+small obsidian dagger~
+a small obsidian dagger~
+A small dagger of obsidian lays here.~
+This dagger is nothing more than a sharpened shard of obsidian, carrying
+no edges, just a single sharp point.  It's hilt has several grooves
+carved into the lower part of the shard, allowing for a substantial
+amount of grip.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#106
+pair pants muslin bleached~
+a pair of bleached muslin pants~
+A pair of muslin pants lays here, bleached white.~
+This pair of muslin pants has been sowed together with a skilled hand.
+All stitches are intact and the garment shows little sign of wear.  The
+material has been bleached to a an almost bright white in colour, it's
+brightness taken away by a thin coat of grime and dust.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#107
+pair sleeves obsidian studded leather~
+a pair of obsidian-studded leather sleeves~
+A pair of worn sleeves, covered in small obsidian studs, lays here.~
+Small polished studs of poor quality obsidian jut at odd angles from the
+surface of this pair of sleeves.  The studs are pushed all the way
+through the leather and held in place by the stiffness of the leather.
+The studs give added protection, but makes them fairly uncomfortable to
+wear.  Leather thongs are strung through holes at the end of each sleeve,
+allowing them to be tied on.
+~
+~
+'wood'
+13 0 256 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#108
+plain obsidian ring~
+a plain obsidian ring~
+An undecorated ring of obsidian lies here.~
+A hole large enough for most humanoid fingers has been cut through the
+centre of this small, polished oval peice of obsidian.  It lacks
+ornamentation, bearing only tiny veins of yellow coursing over it's
+surface.
+~
+~
+'wood'
+13 0 2 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#109
+single spiked punch dagger~
+a single-spiked punch dagger~
+An exotic-looking punch dagger with an exceptionally long blade lies here.~
+An ovular circlet of bone, most likely a peice sliced from the bone of
+some large creature and hollowed out, has had an extremely long sliver of
+bone tied to it with leather straps, providing a handhold for a crude
+punch-dagger.  The sliver of bone is thick and bears two sharp edges,
+along with a wickedly-sharp tip.  Copious amount of yellow-tinged glue
+aids in the firm connection of the spike to the handhold.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#110
+sandals leather pair~
+a pair of leather sandals~
+A leather pair of sandals lay here.~
+Two ovular slabs of multi-layered leather form the basis for a pair of
+simple sandals.  Several leather thongs poked through a hole in each
+sandal and tied to form loops that allow them to be worn upon an average
+sized foot.
+~
+~
+'leather'
+13 0 64 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#111
+obsidian studded leather cap~
+an obsidian-studded leather cap~
+A leather cap lays here, studded with peice of obsidian.~
+A single, thick, heavily tanned square of leather forms the basis for
+this simple form of protection against the rays of the harsh sun.  A
+folded peice of cloth is attached using glue to the un-tanned inside of
+the leather, providing comfort.  Small obsidian studs are pushed into the
+surface of the leather to provide a small amount of protection against
+blows as well.
+~
+~
+'wood'
+13 0 16 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#112
+belt leather tanned~
+a belt of tanned leather~
+A strip of tanned leather lays here, fashioned into a belt.~
+The long strip of heavily tanned leather that comprises this belt has
+around a dozen holes punches through it, allowing it to be adjusted
+according to the size of the wearer.  A simple bone buckle is connected
+to the end of the strip.
+~
+~
+'wood'
+13 0 2048 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#113
+pair worn leather leggings~
+a worn pair of leather leggings~
+A pair of well-worn leather leggings lay here.~
+Two peices of worn, thin leather are soweed together neatly to form this
+pair of leggings.  Small perforations along the side of each leg provide
+airflow through them.  The leggings seem would provide a small amount of
+protection against small slashing weapons.
+~
+~
+'wood'
+13 0 32 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#114
+shirt bleached cotton~
+a bleached cotton shirt~
+A shirt of bleached cotton lays here.~
+Made from a single large sheet of bleached cotton, this shirt is
+stitched together with black thread, giving it a sturdy construction
+against wear and tear.  The loosely woven cotton allows air to flow into
+it with ease to keep the wearer cool, and is quite light.
+~
+~
+'wood'
+13 0 8 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#115
+simple blue shirt muslin~
+a simple blue shirt~
+A blue shirt of simple make lays here.~
+Dyed a bright blue in color, this garment is of fairly good
+construction.  The stitching seems strong enough to withstand most wear
+and tear, though the dye is cheap and rubs off on anything it touches.
+The muslin fabric of the shirt is light, and seems fairly comfortable.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#116
+pair rough canvas pants~
+a pair of rough canvas pants~
+A rough pair of canvas pants lay here.~
+This simply constructed pair of pants use canvas as a material.  Heavy,
+uncomfortable, but allows a good amount of air to flow through it, while
+also protecting against the blows from small slashing weapons.  The
+stitches used to sow the pants are of thick giants hair, durable and
+unlikely to break no matter what strain is put upon them.
+~
+~
+'wood'
+13 0 32 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#117
+pair erdlu clawed gloves hide~
+a pair of erdlu-clawed gloves~
+A pair of gloves sporting a pair of hook-like claws lays here.~
+This pair of gloves is constructed from two peices of well-tanned, scaly
+erdlu hide, stitched together with strands of giant hair.  Attached to
+the back of each glove, at the top of each wrist, a sharpened erdlu claw
+protrudes through the leather.  Held in place by a mound of black, foul
+smelling glue, the hook-like claw extends more than several inches out of
+the glove.  These wickedly sharp appendages could be used in combat, more
+than able to rend the flesh of an opponent.
+~
+~
+'wood'
+13 0 128 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#118
+simple green shirt muslin~
+a simple green shirt~
+A green shirt of simple make lays here.~
+Dyed a bright green in color, this garment is of fairly good
+construction.  The stitching seems strong enough to withstand most wear
+and tear, though the dye is cheap and rubs off on anything it touches.
+The muslin fabric of the shirt is light, and seems fairly comfortable.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#119
+simple white shirt muslin~
+a simple white shirt~
+A white shirt of simple make lays here.~
+Dyed a dull chalky white in color, this garment is of fairly good
+construction.  The stitching seems strong enough to withstand most wear
+and tear, though the dye is cheap and rubs off at the slightest touch.
+The muslin fabric of the shirt is light, and seems fairly comfortable.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#120
+vest bone plates yellowed~
+a vest of yellowed bone plates~
+Several large bone plates form a vest that lays here.~
+The bone plates that comprise this vest are yellowed by age and exposure
+to the sun, their once fire-blackened surface worn away, leaving only the
+yellow surface visible.  The bone is thick, and still able to endure most
+blows.  Many strands of giants hair twisted into a thin rope connect the
+plates to each other also double as a means to keep the vest slung around
+the shoulders of the wearer and keep it inplace around their neck.
+~
+~
+'wood'
+13 0 8 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#121
+forearm axe leather tanned bracer~
+a forearm axe~
+A leather bracer lays here, a bone axe blade protruding from either side of it.~
+A bracer of tanned leather bears two slits in either side of it's stiff
+surface, allowing room for an axe blade to be inserted and aided in
+placement by a small amount of glue.  The axe blades are of fire-hardened
+bone, their edges as sharp as that of obsidian.  Small shards of
+razor-sharp obsidian have been plunged into the surface of the leather on
+top of the bracer, making the sight of the bracer quite fearsome.
+~
+~
+'wood'
+13 0 4096 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#122
+obsidian shortsword sword~
+an obsidian shortsword~
+A shortsword made of obsidian lays here.~
+Crafted from a peice of poor quality obsidian, the blade of this
+shortsword has been whittled down to bear a razor sharp edge on either
+side.  Thin veins of yellow snake up and down the surface of the blade,
+engulfing the round pommel at the end of the hilt.  The blade culminates
+in a sharp tip, and the hilt is wrapped in a thin length of leather to
+provide grip.
+~
+~
+'obsidian'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+5 10 1000 3
+L 1
+#123
+striped linen shirt~
+a striped linen shirt~
+A striped shirt made of linen lays here.~
+The linen material of this well constructed shirt has been dyed two
+colors.  Arranged in a striped pattern, the blue and yellow dyes are of
+good quality, but can still be scratched off the material with enough
+effort.  The crimson stitches are strong, ensuring that this shirt is
+durable.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#124
+makeshift bone club~
+a makeshift bone club~
+A long bone lays here.~
+A single sun-bleached length of bone, over three feet in length bears a
+strip of frayed leather around it's base.  The large knob at the top of
+the bone is covered in dried blood and filth, small chips taken out of
+it's surface.
+~
+~
+'wood'
+5 0 1 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#125
+shard sharp bone dagger~
+a sharp shard of bone~
+A long shard of bone lays here, one end wrapped in leather.~
+A thin strip of untanned leather encompasses the blunt end of this shard
+of bone, leaving the wickedly sharp tip to protrude.  The shard is about
+a foot and a half long and yellowed from age and the heat of the sun, but
+it seems fairly strong.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#126
+pair silk purple slippers~
+a pair of purple silk slippers~
+A pair of slippers lays here, made from fine purple silk.~
+This pair of finely constructed slippers are made from exquisite silk,
+dyed a vibrant purple.  Their soles are of soft, treated leather which is
+quite comfortable against the skin.  The toe of each slipper has been
+dyed a slightly darker shade of purple with a small circle sowed into the
+silk with white stitches.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#127
+lengthy greatcloak white silk cloak~
+a hooded, white silk greatcloak~
+A flowing greatcloak of white silk lays here.~
+This finely made greatcloak completely hides the feet and ankles of an
+average sized human.  The fine silk it is crafted of has been dyed a
+bright white, it's surface glossy and smooth.  At the side of the cloak
+at around waist height, a pocket has been sewn into either side.
+~
+~
+'wood'
+9 0 1024 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#128
+dagger splintered bone~
+a splintered bone dagger~
+A bone daggers lays here, it's surface jagged.~
+A small bone has been thoroughly cleaned and bleached, one end sharpened
+into a sharp tip, the other smoothed into a hilt.  In the midsection of
+the dagger, diagonal cuts have been made fairly deep into the surface of
+the bone, creating sharp spikes that protrude downwards.  Each spike has
+been sharpened and blackened by fire to enhance their strength and
+durability.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#129
+belt black wool~
+a belt of black wool~
+A strip of black wool lays here, a bone buckle connected to one end.~
+A strip of poor quality wool has been dyed black to form this belt, it's
+edges covered in wax to prolong it's wear.  Along one end, several holes
+allow for it's length to be changed in accordance to the wearer's needs.
+A simple bone buckle is connected at the other.
+~
+~
+'wood'
+13 0 2048 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#130
+pair baggy brown pants~
+a pair of baggy brown pants~
+A pair of brown pants lays here.~
+The legs of this pair of pants have been made with extra width,
+providing comfortability and increased airflow.  Dyed a dull brown, the
+pants are made from a cheap fabric, the stitching keeping it together
+poorly done.
+~
+~
+'wood'
+13 0 32 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#131
+dagger dull iron~
+a dull iron dagger~
+A dagger of tarnished iron lays here.~
+Forged from a lump of poor quality iron, this dagger is tarnished and
+bears many small dents along it's blade.  Bearing a single, fairly sharp
+edge and a dull point, the dagger extends to a little over a foot long.  A
+polished pommel sits at the bottom of the hilt, which is wrapped in a
+frayed strip of leather.
+~
+~
+'iron'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#132
+threadbare ragged shirt dirty~
+a dirty, threadbare shirt~
+A torn and ragged shirt lays here.~
+The once neatly sewed fibres of this shirt have been torn and have
+become ragged through use and mistreatment.  Rips in the fabric are
+visible all over the garment, some peices connected together only by
+several threads.
+~
+~
+'wood'
+13 0 8 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#134
+crude pendant grey stone~
+a crude pendant of grey stone~
+A rough hunk of stone lies here, strung upon a length of string.~
+A hurriedly worked peice of grey stone, which responds playfully in the
+sunlight with a slight sparkle at several angles when observed, has been
+strung upon a shredded length of linen, twisted several times around and
+soaked in a glue of some sort.  Having been left to set, the glue has
+formed the linen into an immovable circlet, which would still fit most
+that wish to wear it.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#135
+pair spiked, chitin banded armguards mekillot~
+a pair of spiked, chitin-banded armguards~
+Two lengths of stitched mekillot hide lay here, bearing an array of spines.~
+This pair of sleeves fashioned from mekillot hide, have been soaked in a
+dark oil, leaving its surface with a slightly glossy look.  Arranged to
+overlap each other, plates of chitin have been pinned to the hide using
+small bone studs.  Dyed crimson, the chitin is covered in many tiny sharp
+bone spikes, each one blackened to ensure that they do not break through
+rough treatment.
+~
+~
+'wood'
+9 0 256 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#136
+fire hardened dagger blackened bone barbed barbs~
+a fire-hardened, barbed dagger~
+Laying here is a blackened dagger, barbs protruding from it's surface.~
+The tough bone of this dagger has been blackened by exposure to an
+intense heat, giving it a durability many times more than its original
+state.  This dagger is devoid of edges, the bone has been sharpened down
+to a needle sharp, tapered point.  Jutting out from the sides of the
+dagger are small, razor sharp barbs, formed of the same bone as the
+dagger and wide enough as to resist breakage.  These maximise the
+weapon's potential to cause horrendous wounds.
+~
+~
+'bone'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 1
+L 1
+#137
+tri bladed throwing knife bone tri-bladed~
+a tri-bladed throwing knife~
+Laying here in the dust is a wicked looking knife with three blades.~
+This savage looking knife has been carved out of a thick piece of bone,
+smothered in a thin sheen of laquer, giving a small amount of protection
+against wear and tear.  The bone is thickest in the centre of the weapon,
+three sharp blades extending from it.  Each crudely carved blade is
+sharpened to a fine edge, the weapon utilising its weighted centre to
+revolve around once it is thrown.
+~
+~
+'bone'
+5 0 1 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 4
+L 1
+#138
+sickle bladed staff sickle-bladed ~
+a sickle-bladed staff~
+A long wooden staff lies here, a sickle attached to one end.~
+A curved, wickedly sharp blade of fire-hardened bone has been set into
+the end of a slender, though sturdy length of wood.  At the non-bladed
+end of the staff, a ball of obsidian has been affixed, it's surface
+smooth, glossy.  Deep inside the orb inanimate whisps, remeniscent of
+tendrils of smoke, linger within.  Unmoving, yet glimmering at the touch
+of light, these ethereal trails give evidence to another type of rock
+trapped within the obsidian, possibly a crystal of some sort.  The wood
+that makes up the staff is of hardwood, treated with a mixture of
+tree-sap and blood from a young braxat to ensure the strength of the
+wood.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#139
+bone thrusting sword~
+a bone thrusting sword~
+A long, but dull-bladed sword lies here, tapering to a fine point.~
+The long blade of this sword is dulled, though it tapers to a fine,
+needle-like point.  Its chitin crossguard has an octagonal cross-section
+and widens slightly towards either end.  Its large obsidian pommel is
+oval, shorter than it is wide.  A tiny etching has been made into the
+base of the pommel, depicting a crudely detailed mekillot.  The point of
+the sword has been blackened by fire, hardening it considerably.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#140
+bone razor edged scimitar razor-edged~
+a bone, razor-edged scimitar~
+A slender scimitar of bone lies here, it's edge wickedly sharp.~
+The slender curving blade of this lengthy weapon has been worked until
+the edge is razor-sharp, the durable bone that makes up the weapon is
+slightly greyish in colour, a faint yellow tint marks the bone towards
+the tip.  The same length of bone forms the hilt, having been wrapped in
+a piece of soft brown hide to provide a fair amount of grip.  A pommel of
+agate has been glued onto the base of the hilt, chiselled down into a
+roughball.  It's heavy composure renders it fairly unwieldly in combat,
+though its weight lends it extra force when swung.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+5 15 1000 3
+L 1
+#141
+sturdy stone headed mace stone-headed~
+a sturdy, stone-headed mace~
+A short, stone-headed mace lies here.~
+Attached to the end of a length of fire-hardened wood is a polished ball
+of white stone, a hole drilled in its centre as to be slotted onto the
+wooden handle.  A small but sturdy piece of bone has been inserted
+through the wood just above and below the ball, holding it firmly onto
+the handle along with the aid of a black substance which has set hard.  A
+length of hide has been wrapped around the base of the handle and glued
+on with some sort of plant-based glue, giving it a crude grip.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#142
+hide backpack~
+a hide backpack~
+A hide backpack lies here, covered in dirt~
+The new has no description.
+~
+~
+'wood'
+15 0 0 0
+5 200 0 0
+10 200 100 1 10
+1 1 1000 2
+L 1
+#143
+wooden shard studded club~
+a wooden, shard-studded club~
+Laying here is a wooden club, wicked obsidian shards driven into it's surface.~
+The wood of this club is fairly narrow at it's base, the length of wood
+widening before culminating in a large, ovular knot.  Lengthy shards of
+razor-sharp obsidian have been thrust deeply into the wood, a black,
+sticky substance holding them firmly into the club.  Cuts have been made
+into the wood at the base of the club to give it a slight amount of grip
+when wielded.  Each fragment of obsidian protruding from the knotted wood
+exhibits a primal wickedness, the obsidian chipped and jagged to maximise
+injury from the weapon.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#144
+bone folding knife~
+a bone folding knife~
+A small peice of bone lies here, a small blade set inconspicuously inside.~
+Using a thin bone pin, a sharp sliver of yellowed bone has been bolted
+between two sturdy looking pieces of black chitin.  When retracted, the
+knife looks like an ordinary piece of bone, though when the blade is
+exposed, the base of the sliver is thick enough to create a handle, the
+same width as the pieces of chitin beside it.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#145
+weighted leather bound glove~
+a weighted, leather-bound glove~
+A stiff peice of hide lays here, warped into a pocket-like shape and bound to form a glove.~
+A thick, rounded piece of hide has been curved into a pocket and set to
+be able to fit onto a hand.  The hide has been bound by straps of
+leather, keeping it firmly in shape.  Within the glove, a smooth, though
+heavy piece off bone has been placed at its top, a layer of hide being
+placed beneath it to allow cushioning when used.  This glove has been
+designed for combat, but as not to appear an obvious weapon.  Oddities
+such as this glove are often used in gladiatorial arenas, where exotic
+combat styles are enjoyed by onlookers.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#146
+tri-fanged punch dagger tri fanged~
+a tri-fanged punch dagger~
+A crude triple-fanged punch dagger lays here.~
+Several hollow fangs are bound tightly together, each one directed out
+at a different angle, creating gaps for fingers to be placed.  A peice of
+wood lies connected across the base of the fangs via thick twine and a
+black glue-like substance.  The wood provides a solid grip for use in
+combat, allowing it stability when used in a forward-thrust motion.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#147
+glass studded knuckle duster~
+a glass-studded knuckleduster~
+Laying here is a knuckleduster, sharp shards of glass protruding from the wooden hand-hold.~
+Carved from fire hardened wood, this piece of wood carries holes shaped
+for humanoid fingers, a thin layer of leather glued inside each space to
+provide cushioning and comfort.  Shards of warped, yellow glass emerge
+from the front of the wood, kept in place by the sheer depth of their
+placement.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#148
+bone longsword~
+a bone longsword~
+A dusty bone longsword lays on the ground here~
+The new has no description.
+~
+~
+'bone'
+5 0 8192 0
+8 8 8 8
+10 0 100 1 10
+3 12 200 3
+L 1
+#149
+small water gourd~
+a small gourd~
+A small gourd lies discarded on the ground here~
+The new has no description.
+~
+~
+'wood'
+17 0 4 0
+50 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#150
+rune etched rune-etched steel scimitar~
+a rune-etched, steel scimitar~
+A rune-etched, steel scimitar lies here~
+The new has no description.
+~
+~
+'steel'
+5 1 8192 0
+0 0 0 0
+50 0 100 2147483647 10
+5 15 100000 3
+L 1
+#151
+worn sandy boots boot thigh length~
+a worn pair of thigh-length boots~
+A worn, sandy pair of thigh-length boots lie here, discarded.~
+Crusted with gritty sand, this pair of boots is made of some sort of
+thick, cured hide.  Hairline creases spider across them, indicating some
+degree of use.  Frayed hemp lacings work their way up the side, and
+judging from the looks of the boots, they are made to stop just short of
+the thigh.  On the inside, a thin lining of soft fabric facilitates wear,
+though it is spattered with small tears and holes.
+~
+~
+'leather'
+9 0 64 1024
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#0
+
+
+#ROOMS
+#100
+Equipment Room~
+This room exists to save the standard equipment zone manually.
+~
+~
+'city'
+8 0 0
+0 0 0
+D5
+D5
+D5
+~
+~
+1 0 6 0
+S
+#101
+Desaris's dungeon.~
+The granite walls of this small dungeon are splattered with a mixture of
+blood and black ooze, seeping slowly downwards to collect in puddles on
+the floor.  A large oasken desk sits in a cell, accompanied by a bookcase
+stacked with dusty tomes.
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

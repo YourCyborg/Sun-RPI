@@ -1,0 +1,11078 @@
+#AREA Vicks  City-state of Balic~
+balic~
+Vicks Delerak~
+75000 76999
+0 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#75000
+deeply-dished deeply dished wooden aspis shield~
+a deeply-dished, wooden aspis shield~
+A round, concaved shield made of wood lies discarded on the ground.~
+The new has no description.
+~
+~
+'wood'
+9 0 16896 0
+0 0 0 0
+150 0 100 1 101
+1 1 1000 2
+L 1
+#75001
+long-shafted long shafted thrusting spear~
+a long-shafted thrusting spear~
+A long, sturdy spear with a squarish butt-pike lies discarded on the ground.~
+The new has no description.
+~
+~
+'wood'
+5 0 24576 0
+0 0 0 1
+90 0 100 1 101
+1 1 1000 1
+L 1
+#75002
+obsidian leaf-shaped leaf shaped shortsword sword~
+an obsidian, leaf-shaped shortsword~
+A short obsidian sword carved into a leaf shape lies discarded on the ground.~
+The new has no description.
+~
+~
+'obsidian'
+5 0 24576 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 3
+L 1
+#75003
+richly-crested richly crested chitin greathelm helm ~
+a richly-crested, chitin greathelm~
+A chitin greathelm with a lush hair crest lies discarded on the ground.~
+The new has no description.
+~
+~
+'wood'
+9 0 16400 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#75004
+polished chitin muscle cuirass~
+a polished, chitin muscle cuirass~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+9 0 8 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#75005
+furrowed chitin greaves~
+a pair of furrowed, chitin greaves~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+9 0 32 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#75006
+leather-flapped leather flapped pteruges~
+a set of leather-flapped pteruges~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+9 0 2048 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#75007
+bleach-white bleach white linen cape~
+a bleach-white, linen cape~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+9 0 1038 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#75008
+hard-soled hard soled leather sandals~
+a pair of hard-soled, leather sandals~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+9 0 64 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#75009
+new newobj~
+the new object~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#75010
+new newobj~
+the new object~
+The new object lies here reminding you to change it's description.
+~
+The new has no description.
+~
+~
+'wood'
+13 0 0 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#0
+
+
+#ROOMS
+#75000
+"Olive Gate"~
+     Rising upwards many arms here is the central gateway into Balic,
+its high walls constructed from massive blocks of white granite with a
+single opening large enough to discourage traffic congestion.  A
+complicated series of pulleys and levers make up the gate mechanism, the
+rope-bound bone bars worked by teams of half-giants.  Units of hoplites
+and archers in heavy armor patrol the ramparts atop the gate and take
+turns switching guard.  Growing straight from the ground on either side
+of the gate are a pair of stubby-trunked olive trees, their stunted
+height attesting to its struggle to stay alive in the dry soil.  Through
+the open gateway stretches the vast expanse of rocky wastelands, cut
+across by an endless road.
+       From the gate, Avenue of the Dictator runs eastward towards the
+stony, fortified hill at the heart of the city, its sheer size in plain
+view.  Olive Road proceeds north and south, plunging into the depths of
+the city's quarters.
+~
+~
+'city'
+16396 0 0
+0 0 0
+D0
+~
+~
+0 0 75290 4092756
+D1
+~
+~
+0 0 75001 0
+D2
+~
+~
+0 0 75333 0
+D3
+~
+~
+0 0 25413 5
+S
+#75001
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75002 2570
+D3
+~
+~
+0 0 75000 0
+S
+#75002
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75003 0
+D3
+~
+~
+0 0 75001 0
+S
+#75003
+Avenue of the Dictator - Beneath the Triumphal Arch~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75004 0
+D3
+~
+~
+0 0 75002 0
+S
+#75004
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75005 0
+D3
+~
+~
+0 0 75003 0
+S
+#75005
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75006 0
+D3
+~
+~
+0 0 75004 0
+S
+#75006
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75425 0
+D1
+~
+~
+0 0 75007 0
+D3
+~
+~
+0 0 75005 0
+S
+#75007
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75008 0
+D3
+~
+~
+0 0 75006 0
+S
+#75008
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75009 0
+D3
+~
+~
+0 0 75007 0
+S
+#75009
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75010 0
+D3
+~
+~
+0 0 75008 0
+S
+#75010
+Electors' Square~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75011 0
+D1
+~
+~
+0 0 75092 854574
+D2
+~
+~
+0 0 75091 0
+D3
+~
+~
+0 0 75009 0
+S
+#75011
+Electors' Square~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75012 0
+D1
+~
+~
+0 0 75093 0
+D2
+~
+~
+0 0 75010 0
+S
+#75012
+Citizen Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75013 0
+D2
+~
+~
+0 0 75011 0
+S
+#75013
+Citizen Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75014 4092756
+D2
+~
+~
+0 0 75012 0
+S
+#75014
+Citizen Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75015 0
+D2
+~
+~
+0 0 75013 0
+D3
+~
+~
+0 0 75428 0
+S
+#75015
+Citizen Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75016 0
+D2
+~
+~
+0 0 75014 0
+S
+#75016
+Citizen Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75017 0
+D1
+~
+~
+0 0 75098 0
+D2
+~
+~
+0 0 75015 0
+S
+#75017
+Citizen Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75018 0
+D2
+~
+~
+0 0 75016 0
+S
+#75018
+Citizen Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75019 0
+D2
+~
+~
+0 0 75017 0
+S
+#75019
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75020 0
+D2
+~
+~
+0 0 75018 0
+D3
+~
+~
+0 0 75449 0
+S
+#75020
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75021 0
+D3
+~
+~
+0 0 75019 0
+S
+#75021
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75022 0
+D3
+~
+~
+0 0 75020 0
+S
+#75022
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75023 0
+D3
+~
+~
+0 0 75021 0
+S
+#75023
+Road of Valiance~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75024 0
+D3
+~
+~
+0 0 75022 0
+S
+#75024
+Road of Valiance~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75025 0
+D2
+~
+~
+0 0 75023 0
+S
+#75025
+Road of Valiance~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75463 0
+D1
+~
+~
+0 0 75026 0
+D2
+~
+~
+0 0 75024 0
+S
+#75026
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75027 0
+D3
+~
+~
+0 0 75025 0
+S
+#75027
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75028 0
+D3
+~
+~
+0 0 75026 0
+S
+#75028
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75029 0
+D3
+~
+~
+0 0 75027 0
+S
+#75029
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75030 0
+D3
+~
+~
+0 0 75028 0
+S
+#75030
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75031 0
+D3
+~
+~
+0 0 75029 0
+S
+#75031
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75032 0
+D2
+~
+~
+0 0 75176 0
+D3
+~
+~
+0 0 75030 0
+S
+#75032
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75472 0
+D1
+~
+~
+0 0 75033 0
+D3
+~
+~
+0 0 75031 0
+S
+#75033
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75034 0
+D3
+~
+~
+0 0 75032 0
+S
+#75034
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75035 0
+D3
+~
+~
+0 0 75033 0
+S
+#75035
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75036 0
+D3
+~
+~
+0 0 75034 0
+S
+#75036
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75037 0
+D3
+~
+~
+0 0 75035 0
+S
+#75037
+Grand View Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75038 0
+D3
+~
+~
+0 0 75036 0
+S
+#75038
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75475 0
+D2
+~
+~
+0 0 75039 0
+D3
+~
+~
+0 0 75037 0
+S
+#75039
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75038 0
+D2
+~
+~
+0 0 75040 0
+S
+#75040
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75039 0
+D2
+~
+~
+0 0 75041 0
+S
+#75041
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75040 0
+D1
+~
+~
+0 0 75042 0
+S
+#75042
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75043 0
+D3
+~
+~
+0 0 75041 0
+S
+#75043
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75489 0
+D2
+~
+~
+0 0 75044 0
+D3
+~
+~
+0 0 75042 0
+S
+#75044
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75043 0
+D2
+~
+~
+0 0 75045 0
+S
+#75045
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75044 0
+D2
+~
+~
+0 0 75046 0
+S
+#75046
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75045 0
+D2
+~
+~
+0 0 75047 0
+S
+#75047
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75046 0
+D2
+~
+~
+0 0 75048 0
+S
+#75048
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75047 0
+D2
+~
+~
+0 0 75049 0
+S
+#75049
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75048 0
+D2
+~
+~
+0 0 75050 0
+S
+#75050
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75049 0
+D2
+~
+~
+0 0 75051 0
+S
+#75051
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75050 0
+D1
+~
+~
+0 0 75498 0
+D2
+~
+~
+0 0 75052 0
+S
+#75052
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75051 0
+D2
+~
+~
+0 0 75053 0
+S
+#75053
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75052 0
+D2
+~
+~
+0 0 75054 0
+S
+#75054
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75053 0
+D2
+~
+~
+0 0 75055 0
+S
+#75055
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75054 0
+D2
+~
+~
+0 0 75056 0
+S
+#75056
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75055 0
+D2
+~
+~
+0 0 75057 0
+S
+#75057
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75056 0
+D2
+~
+~
+0 0 75058 0
+S
+#75058
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75057 0
+D2
+~
+~
+0 0 75059 0
+S
+#75059
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75058 0
+D2
+~
+~
+0 0 75060 0
+S
+#75060
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75059 0
+D2
+~
+~
+0 0 75061 0
+S
+#75061
+Marble Rock Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75060 0
+D2
+~
+~
+0 0 75422 0
+S
+#75062
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75206 0
+D3
+~
+~
+0 0 75222 0
+S
+#75063
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75422 0
+D3
+~
+~
+0 0 75064 0
+S
+#75064
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75063 0
+D3
+~
+~
+0 0 75065 0
+S
+#75065
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75064 0
+D3
+~
+~
+0 0 75066 0
+S
+#75066
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75065 0
+D3
+~
+~
+0 0 75067 0
+S
+#75067
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75066 0
+D3
+~
+~
+0 0 75068 0
+S
+#75068
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75067 0
+D3
+~
+~
+0 0 75069 0
+S
+#75069
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75068 0
+D3
+~
+~
+0 0 75070 0
+S
+#75070
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75069 0
+D3
+~
+~
+0 0 75071 0
+S
+#75071
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75070 0
+D3
+~
+~
+0 0 75072 0
+S
+#75072
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75071 0
+D3
+~
+~
+0 0 75073 0
+S
+#75073
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75072 0
+D2
+~
+~
+0 0 75384 0
+D3
+~
+~
+0 0 75074 0
+S
+#75074
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75073 0
+D3
+~
+~
+0 0 75075 0
+S
+#75075
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75074 0
+D3
+~
+~
+0 0 75076 0
+S
+#75076
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75075 0
+D3
+~
+~
+0 0 75077 0
+S
+#75077
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75076 0
+D3
+~
+~
+0 0 75078 0
+S
+#75078
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75077 0
+D3
+~
+~
+0 0 75079 0
+S
+#75079
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75080 0
+D1
+~
+~
+0 0 75078 0
+D2
+~
+~
+0 0 75370 0
+S
+#75080
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75081 0
+D2
+~
+~
+0 0 75079 0
+S
+#75081
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75080 0
+D3
+~
+~
+0 0 75082 0
+S
+#75082
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75081 0
+D3
+~
+~
+0 0 75083 0
+S
+#75083
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75084 0
+D1
+~
+~
+0 0 75082 0
+D3
+~
+~
+0 0 75350 0
+S
+#75084
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75085 0
+D2
+~
+~
+0 0 75083 0
+S
+#75085
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75086 0
+D2
+~
+~
+0 0 75084 0
+S
+#75086
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75087 0
+D2
+~
+~
+0 0 75085 0
+S
+#75087
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75088 0
+D2
+~
+~
+0 0 75086 0
+S
+#75088
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75089 0
+D1
+~
+~
+0 0 75113 0
+D2
+~
+~
+0 0 75087 0
+S
+#75089
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75090 0
+D2
+~
+~
+0 0 75088 0
+S
+#75090
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75091 0
+D2
+~
+~
+0 0 75089 0
+S
+#75091
+A Chalky Limestone Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75010 0
+D2
+~
+~
+0 0 75090 0
+S
+#75092
+Electors' Square~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75093 0
+D3
+~
+~
+0 0 75010 0
+S
+#75093
+Electors' Square~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75108 0
+D2
+~
+~
+0 0 75092 0
+D3
+~
+~
+0 0 75011 0
+S
+#75094
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75095 0
+D1
+~
+~
+0 0 75107 0
+S
+#75095
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75096 0
+D1
+~
+~
+0 0 75106 0
+D2
+~
+~
+0 0 75094 0
+S
+#75096
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75097 0
+D1
+~
+~
+0 0 75105 0
+D2
+~
+~
+0 0 75095 0
+S
+#75097
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75098 0
+D1
+~
+~
+0 0 75104 0
+D2
+~
+~
+0 0 75096 0
+S
+#75098
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75099 0
+D1
+~
+~
+0 0 75103 0
+D2
+~
+~
+0 0 75097 0
+D3
+~
+~
+0 0 75016 0
+S
+#75099
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75100 0
+D1
+~
+~
+0 0 75102 0
+D2
+~
+~
+0 0 75098 0
+S
+#75100
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75101 0
+D2
+~
+~
+0 0 75099 0
+S
+#75101
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75126 0
+D2
+~
+~
+0 0 75102 0
+D3
+~
+~
+0 0 75100 0
+S
+#75102
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75101 0
+D1
+~
+~
+0 0 75127 0
+D2
+~
+~
+0 0 75103 0
+D3
+~
+~
+0 0 75099 0
+S
+#75103
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75102 0
+D1
+~
+~
+0 0 75128 0
+D2
+~
+~
+0 0 75104 0
+D3
+~
+~
+0 0 75098 0
+S
+#75104
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75103 0
+D1
+~
+~
+0 0 75129 0
+D2
+~
+~
+0 0 75105 0
+D3
+~
+~
+0 0 75097 0
+S
+#75105
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75104 0
+D1
+~
+~
+0 0 75130 0
+D2
+~
+~
+0 0 75106 0
+D3
+~
+~
+0 0 75096 0
+S
+#75106
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75105 0
+D1
+~
+~
+0 0 75131 0
+D2
+~
+~
+0 0 75107 0
+D3
+~
+~
+0 0 75095 0
+S
+#75107
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75106 0
+D1
+~
+~
+0 0 75132 0
+D2
+~
+~
+0 0 75108 0
+D3
+~
+~
+0 0 75094 0
+S
+#75108
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75107 0
+D1
+~
+~
+0 0 75133 0
+D2
+~
+~
+0 0 75109 0
+D3
+~
+~
+0 0 75093 0
+S
+#75109
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75108 0
+D1
+~
+~
+0 0 75134 0
+D2
+~
+~
+0 0 75125 0
+S
+#75110
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75125 0
+D2
+~
+~
+0 0 75111 0
+S
+#75111
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75110 0
+D1
+~
+~
+0 0 75124 0
+D2
+~
+~
+0 0 75112 0
+S
+#75112
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75111 0
+D1
+~
+~
+0 0 75123 0
+D2
+~
+~
+0 0 75113 0
+S
+#75113
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75112 0
+D1
+~
+~
+0 0 75122 0
+D2
+~
+~
+0 0 75114 0
+D3
+~
+~
+0 0 75088 0
+S
+#75114
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75113 0
+D1
+~
+~
+0 0 75121 0
+D2
+~
+~
+0 0 75115 0
+S
+#75115
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75114 0
+D1
+~
+~
+0 0 75120 0
+D2
+~
+~
+0 0 75116 0
+S
+#75116
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75115 0
+D1
+~
+~
+0 0 75119 0
+D2
+~
+~
+0 0 75117 0
+S
+#75117
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75116 0
+D1
+~
+~
+0 0 75118 0
+S
+#75118
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75119 0
+D1
+~
+~
+0 0 75142 0
+D3
+~
+~
+0 0 75117 0
+S
+#75119
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75120 0
+D1
+~
+~
+0 0 75141 0
+D2
+~
+~
+0 0 75118 0
+D3
+~
+~
+0 0 75116 0
+S
+#75120
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75121 0
+D1
+~
+~
+0 0 75140 0
+D2
+~
+~
+0 0 75119 0
+D3
+~
+~
+0 0 75115 0
+S
+#75121
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75122 0
+D1
+~
+~
+0 0 75139 0
+D2
+~
+~
+0 0 75120 0
+D3
+~
+~
+0 0 75114 0
+S
+#75122
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75123 0
+D1
+~
+~
+0 0 75138 0
+D2
+~
+~
+0 0 75121 0
+D3
+~
+~
+0 0 75113 0
+S
+#75123
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75124 0
+D2
+~
+~
+0 0 75122 0
+D3
+~
+~
+0 0 75112 0
+S
+#75124
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75125 0
+D1
+~
+~
+0 0 75136 0
+D2
+~
+~
+0 0 75123 0
+D3
+~
+~
+0 0 75111 0
+S
+#75125
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75109 0
+D1
+~
+~
+0 0 75135 0
+D2
+~
+~
+0 0 75124 0
+D3
+~
+~
+0 0 75110 0
+S
+#75126
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75145 0
+D2
+~
+~
+0 0 75127 0
+D3
+~
+~
+0 0 75101 0
+S
+#75127
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75126 0
+D1
+~
+~
+0 0 75146 0
+D2
+~
+~
+0 0 75128 0
+D3
+~
+~
+0 0 75102 0
+S
+#75128
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75127 0
+D1
+~
+~
+0 0 75147 0
+D2
+~
+~
+0 0 75129 0
+D3
+~
+~
+0 0 75103 0
+S
+#75129
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75128 0
+D2
+~
+~
+0 0 75130 0
+D3
+~
+~
+0 0 75104 0
+S
+#75130
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75129 0
+D2
+~
+~
+0 0 75131 0
+D3
+~
+~
+0 0 75105 0
+S
+#75131
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75130 0
+D2
+~
+~
+0 0 75132 0
+D3
+~
+~
+0 0 75106 0
+S
+#75132
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75131 0
+D2
+~
+~
+0 0 75133 0
+D3
+~
+~
+0 0 75107 0
+S
+#75133
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75132 0
+D2
+~
+~
+0 0 75134 0
+D3
+~
+~
+0 0 75108 0
+S
+#75134
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75133 0
+D2
+~
+~
+0 0 75135 0
+D3
+~
+~
+0 0 75109 0
+S
+#75135
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75134 0
+D2
+~
+~
+0 0 75136 0
+D3
+~
+~
+0 0 75125 0
+S
+#75136
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75135 0
+D2
+~
+~
+0 0 75137 0
+D3
+~
+~
+0 0 75124 0
+S
+#75137
+Avenue of the Dictator~
+     This heavily used thoroughfare serves as the main artery into the
+heart of the city-state of Balic.  The general public, citizens in
+draping linen cloaks up to naked slaves trudging under heavy burdens,
+provides a steady flow of traffic up and down the bustling road.  Chalky
+flagstones evenly pave the road, its surface swept clean of any blowing
+dust or sand.  The expansive road is wide enough to comfortably
+accomodate four wagons moving abreast.  Various statues of humanoids
+carved from solid marble flank either side of the road, their postures
+stately and dignified.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75136 0
+D4
+~
+~
+0 0 75281 0
+S
+#75138
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75139 0
+D3
+~
+~
+0 0 75122 0
+S
+#75139
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75138 0
+D2
+~
+~
+0 0 75140 0
+D3
+~
+~
+0 0 75121 0
+S
+#75140
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75139 0
+D1
+~
+~
+0 0 75279 0
+D2
+~
+~
+0 0 75141 0
+D3
+~
+~
+0 0 75120 0
+S
+#75141
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75140 0
+D1
+~
+~
+0 0 75278 0
+D2
+~
+~
+0 0 75142 0
+D3
+~
+~
+0 0 75119 0
+S
+#75142
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75141 0
+D1
+~
+~
+0 0 75277 0
+D2
+~
+~
+0 0 75143 0
+D3
+~
+~
+0 0 75118 0
+S
+#75143
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75142 0
+D1
+~
+~
+0 0 75258 0
+D2
+~
+~
+0 0 75144 0
+S
+#75144
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75143 0
+D1
+~
+~
+0 0 75257 0
+S
+#75145
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75148 0
+D2
+~
+~
+0 0 75146 0
+D3
+~
+~
+0 0 75126 0
+S
+#75146
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75145 0
+D1
+~
+~
+0 0 75149 0
+D2
+~
+~
+0 0 75147 0
+D3
+~
+~
+0 0 75127 0
+S
+#75147
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75146 0
+D3
+~
+~
+0 0 75128 0
+S
+#75148
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75288 0
+D1
+~
+~
+0 0 75150 0
+D2
+~
+~
+0 0 75149 0
+D3
+~
+~
+0 0 75145 0
+S
+#75149
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75148 0
+D3
+~
+~
+0 0 75146 0
+S
+#75150
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75289 0
+D1
+~
+~
+0 0 75151 0
+D3
+~
+~
+0 0 75148 0
+S
+#75151
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75170 0
+D1
+~
+~
+0 0 75152 0
+D3
+~
+~
+0 0 75150 0
+S
+#75152
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75169 0
+D1
+~
+~
+0 0 75153 0
+D3
+~
+~
+0 0 75151 0
+S
+#75153
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75168 0
+D1
+~
+~
+0 0 75154 0
+D3
+~
+~
+0 0 75152 0
+S
+#75154
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75167 0
+D1
+~
+~
+0 0 75155 0
+D3
+~
+~
+0 0 75153 0
+S
+#75155
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75166 0
+D1
+~
+~
+0 0 75156 0
+D3
+~
+~
+0 0 75154 0
+S
+#75156
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75165 0
+D1
+~
+~
+0 0 75157 0
+D3
+~
+~
+0 0 75155 0
+S
+#75157
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75164 0
+D1
+~
+~
+0 0 75158 0
+D3
+~
+~
+0 0 75156 0
+S
+#75158
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75163 0
+D1
+~
+~
+0 0 75159 0
+D2
+~
+~
+0 0 75183 0
+D3
+~
+~
+0 0 75157 0
+S
+#75159
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75162 0
+D1
+~
+~
+0 0 75160 0
+D2
+~
+~
+0 0 75184 0
+D3
+~
+~
+0 0 75158 0
+S
+#75160
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75161 0
+D2
+~
+~
+0 0 75185 0
+D3
+~
+~
+0 0 75159 0
+S
+#75161
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75182 0
+D2
+~
+~
+0 0 75160 0
+D3
+~
+~
+0 0 75162 0
+S
+#75162
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75181 0
+D1
+~
+~
+0 0 75161 0
+D2
+~
+~
+0 0 75159 0
+D3
+~
+~
+0 0 75163 0
+S
+#75163
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75180 0
+D1
+~
+~
+0 0 75162 0
+D2
+~
+~
+0 0 75158 0
+D3
+~
+~
+0 0 75164 0
+S
+#75164
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75179 0
+D1
+~
+~
+0 0 75163 0
+D2
+~
+~
+0 0 75157 0
+D3
+~
+~
+0 0 75165 0
+S
+#75165
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75178 0
+D1
+~
+~
+0 0 75164 0
+D2
+~
+~
+0 0 75156 0
+D3
+~
+~
+0 0 75166 0
+S
+#75166
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75177 0
+D1
+~
+~
+0 0 75165 0
+D2
+~
+~
+0 0 75155 0
+D3
+~
+~
+0 0 75167 0
+S
+#75167
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75176 0
+D1
+~
+~
+0 0 75166 0
+D2
+~
+~
+0 0 75154 0
+D3
+~
+~
+0 0 75168 0
+S
+#75168
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75175 0
+D1
+~
+~
+0 0 75167 0
+D2
+~
+~
+0 0 75153 0
+D3
+~
+~
+0 0 75169 0
+S
+#75169
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75174 0
+D1
+~
+~
+0 0 75168 0
+D2
+~
+~
+0 0 75152 0
+D3
+~
+~
+0 0 75170 0
+S
+#75170
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75173 0
+D1
+~
+~
+0 0 75169 0
+D2
+~
+~
+0 0 75151 0
+D3
+~
+~
+0 0 75289 0
+S
+#75171
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75172 0
+D2
+~
+~
+0 0 75288 13
+S
+#75172
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75173 0
+D2
+~
+~
+0 0 75289 0
+D3
+~
+~
+0 0 75171 0
+S
+#75173
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75174 0
+D2
+~
+~
+0 0 75170 0
+D3
+~
+~
+0 0 75172 0
+S
+#75174
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75175 0
+D2
+~
+~
+0 0 75169 0
+D3
+~
+~
+0 0 75173 0
+S
+#75175
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75176 0
+D2
+~
+~
+0 0 75168 0
+D3
+~
+~
+0 0 75174 0
+S
+#75176
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75031 0
+D1
+~
+~
+0 0 75177 0
+D2
+~
+~
+0 0 75167 0
+D3
+~
+~
+0 0 75175 0
+S
+#75177
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75178 0
+D2
+~
+~
+0 0 75166 0
+D3
+~
+~
+0 0 75176 0
+S
+#75178
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75179 0
+D2
+~
+~
+0 0 75165 0
+D3
+~
+~
+0 0 75177 0
+S
+#75179
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75180 0
+D2
+~
+~
+0 0 75164 0
+D3
+~
+~
+0 0 75178 0
+S
+#75180
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75181 0
+D2
+~
+~
+0 0 75163 0
+D3
+~
+~
+0 0 75179 0
+S
+#75181
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75182 0
+D2
+~
+~
+0 0 75162 0
+D3
+~
+~
+0 0 75180 0
+S
+#75182
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75161 0
+D3
+~
+~
+0 0 75181 0
+S
+#75183
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75158 0
+D1
+~
+~
+0 0 75184 0
+S
+#75184
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75159 0
+D1
+~
+~
+0 0 75185 0
+D2
+~
+~
+0 0 75188 0
+D3
+~
+~
+0 0 75183 0
+S
+#75185
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75160 0
+D1
+~
+~
+0 0 75186 0
+D2
+~
+~
+0 0 75189 0
+D3
+~
+~
+0 0 75184 0
+S
+#75186
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75187 0
+D2
+~
+~
+0 0 75190 0
+D3
+~
+~
+0 0 75185 0
+S
+#75187
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75191 0
+D3
+~
+~
+0 0 75186 0
+S
+#75188
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75184 0
+D1
+~
+~
+0 0 75189 0
+S
+#75189
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75185 0
+D1
+~
+~
+0 0 75190 0
+D2
+~
+~
+0 0 75223 0
+D3
+~
+~
+0 0 75188 0
+S
+#75190
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75186 0
+D1
+~
+~
+0 0 75191 0
+D2
+~
+~
+0 0 75207 0
+D3
+~
+~
+0 0 75189 0
+S
+#75191
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75187 0
+D2
+~
+~
+0 0 75192 0
+D3
+~
+~
+0 0 75190 0
+S
+#75192
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75191 0
+D2
+~
+~
+0 0 75193 0
+D3
+~
+~
+0 0 75207 0
+S
+#75193
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75192 0
+D2
+~
+~
+0 0 75194 0
+D3
+~
+~
+0 0 75208 0
+S
+#75194
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75193 0
+D2
+~
+~
+0 0 75195 0
+D3
+~
+~
+0 0 75209 0
+S
+#75195
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75194 0
+D2
+~
+~
+0 0 75196 0
+D3
+~
+~
+0 0 75210 0
+S
+#75196
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75195 0
+D2
+~
+~
+0 0 75197 0
+D3
+~
+~
+0 0 75211 0
+S
+#75197
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75196 0
+D2
+~
+~
+0 0 75198 0
+D3
+~
+~
+0 0 75212 0
+S
+#75198
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75197 0
+D2
+~
+~
+0 0 75199 0
+D3
+~
+~
+0 0 75213 0
+S
+#75199
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75198 0
+D2
+~
+~
+0 0 75200 0
+D3
+~
+~
+0 0 75214 0
+S
+#75200
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75199 0
+D2
+~
+~
+0 0 75201 0
+D3
+~
+~
+0 0 75215 0
+S
+#75201
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75200 0
+D2
+~
+~
+0 0 75202 0
+D3
+~
+~
+0 0 75216 0
+S
+#75202
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75201 0
+D2
+~
+~
+0 0 75203 0
+D3
+~
+~
+0 0 75217 0
+S
+#75203
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75202 0
+D2
+~
+~
+0 0 75204 0
+D3
+~
+~
+0 0 75218 0
+S
+#75204
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75203 0
+D2
+~
+~
+0 0 75205 0
+D3
+~
+~
+0 0 75219 0
+S
+#75205
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75204 0
+D2
+~
+~
+0 0 75206 0
+D3
+~
+~
+0 0 75220 0
+S
+#75206
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75205 0
+D2
+~
+~
+0 0 75062 0
+D3
+~
+~
+0 0 75221 0
+S
+#75207
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75190 0
+D1
+~
+~
+0 0 75192 0
+D2
+~
+~
+0 0 75208 0
+D3
+~
+~
+0 0 75223 0
+S
+#75208
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75207 0
+D1
+~
+~
+0 0 75193 0
+D2
+~
+~
+0 0 75209 0
+D3
+~
+~
+0 0 75224 0
+S
+#75209
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75208 0
+D1
+~
+~
+0 0 75194 0
+D2
+~
+~
+0 0 75210 0
+D3
+~
+~
+0 0 75225 0
+S
+#75210
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75209 0
+D1
+~
+~
+0 0 75195 0
+D2
+~
+~
+0 0 75211 0
+D3
+~
+~
+0 0 75226 0
+S
+#75211
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75210 0
+D1
+~
+~
+0 0 75196 0
+D2
+~
+~
+0 0 75212 0
+D3
+~
+~
+0 0 75227 0
+S
+#75212
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75211 0
+D1
+~
+~
+0 0 75197 0
+D2
+~
+~
+0 0 75213 0
+D3
+~
+~
+0 0 75228 0
+S
+#75213
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75212 0
+D1
+~
+~
+0 0 75198 0
+D2
+~
+~
+0 0 75214 0
+D3
+~
+~
+0 0 75229 0
+S
+#75214
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75213 0
+D1
+~
+~
+0 0 75199 0
+D2
+~
+~
+0 0 75215 0
+D3
+~
+~
+0 0 75230 0
+S
+#75215
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75214 0
+D1
+~
+~
+0 0 75200 0
+D2
+~
+~
+0 0 75216 0
+D3
+~
+~
+0 0 75231 0
+S
+#75216
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75215 0
+D1
+~
+~
+0 0 75201 0
+D2
+~
+~
+0 0 75217 0
+D3
+~
+~
+0 0 75232 0
+S
+#75217
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75216 0
+D1
+~
+~
+0 0 75202 0
+D2
+~
+~
+0 0 75218 0
+D3
+~
+~
+0 0 75233 0
+S
+#75218
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75217 0
+D1
+~
+~
+0 0 75203 0
+D2
+~
+~
+0 0 75219 0
+D3
+~
+~
+0 0 75234 0
+S
+#75219
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75218 0
+D1
+~
+~
+0 0 75204 0
+D2
+~
+~
+0 0 75220 0
+D3
+~
+~
+0 0 75235 0
+S
+#75220
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75219 0
+D1
+~
+~
+0 0 75205 0
+D2
+~
+~
+0 0 75221 0
+D3
+~
+~
+0 0 75236 0
+S
+#75221
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75220 0
+D1
+~
+~
+0 0 75206 0
+D2
+~
+~
+0 0 75222 0
+D3
+~
+~
+0 0 75237 0
+S
+#75222
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75221 0
+D1
+~
+~
+0 0 75062 0
+D3
+~
+~
+0 0 75238 0
+S
+#75223
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75189 0
+D1
+~
+~
+0 0 75207 0
+D2
+~
+~
+0 0 75224 0
+S
+#75224
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75223 0
+D1
+~
+~
+0 0 75208 0
+D2
+~
+~
+0 0 75225 0
+S
+#75225
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75224 0
+D1
+~
+~
+0 0 75209 0
+D2
+~
+~
+0 0 75226 0
+S
+#75226
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75225 0
+D1
+~
+~
+0 0 75210 0
+D2
+~
+~
+0 0 75227 0
+S
+#75227
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75226 0
+D1
+~
+~
+0 0 75211 0
+D2
+~
+~
+0 0 75228 0
+S
+#75228
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75227 0
+D1
+~
+~
+0 0 75212 0
+D2
+~
+~
+0 0 75229 0
+S
+#75229
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75228 0
+D1
+~
+~
+0 0 75213 0
+D2
+~
+~
+0 0 75230 0
+S
+#75230
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75229 0
+D1
+~
+~
+0 0 75214 0
+D2
+~
+~
+0 0 75231 0
+S
+#75231
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75230 0
+D1
+~
+~
+0 0 75215 0
+D2
+~
+~
+0 0 75232 0
+S
+#75232
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75231 0
+D1
+~
+~
+0 0 75216 0
+D2
+~
+~
+0 0 75233 0
+S
+#75233
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75232 0
+D1
+~
+~
+0 0 75217 0
+D2
+~
+~
+0 0 75234 0
+S
+#75234
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75233 0
+D1
+~
+~
+0 0 75218 0
+D2
+~
+~
+0 0 75235 0
+D3
+~
+~
+0 0 75239 0
+S
+#75235
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75234 0
+D1
+~
+~
+0 0 75219 0
+D2
+~
+~
+0 0 75236 0
+D3
+~
+~
+0 0 75240 0
+S
+#75236
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75235 0
+D1
+~
+~
+0 0 75220 0
+D2
+~
+~
+0 0 75237 0
+D3
+~
+~
+0 0 75241 0
+S
+#75237
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75236 0
+D1
+~
+~
+0 0 75221 0
+D2
+~
+~
+0 0 75238 0
+D3
+~
+~
+0 0 75242 0
+S
+#75238
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75237 0
+D1
+~
+~
+0 0 75222 0
+D3
+~
+~
+0 0 75243 0
+S
+#75239
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75234 0
+D2
+~
+~
+0 0 75240 0
+S
+#75240
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75239 0
+D1
+~
+~
+0 0 75235 0
+D2
+~
+~
+0 0 75241 0
+D3
+~
+~
+0 0 75244 0
+S
+#75241
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75240 0
+D1
+~
+~
+0 0 75236 0
+D2
+~
+~
+0 0 75242 0
+D3
+~
+~
+0 0 75245 0
+S
+#75242
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75241 0
+D1
+~
+~
+0 0 75237 0
+D2
+~
+~
+0 0 75243 0
+D3
+~
+~
+0 0 75246 0
+S
+#75243
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75242 0
+D1
+~
+~
+0 0 75238 0
+D3
+~
+~
+0 0 75247 0
+S
+#75244
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75240 0
+D2
+~
+~
+0 0 75245 0
+S
+#75245
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75244 0
+D1
+~
+~
+0 0 75241 0
+D2
+~
+~
+0 0 75246 0
+D3
+~
+~
+0 0 75268 0
+S
+#75246
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75245 0
+D1
+~
+~
+0 0 75242 0
+D2
+~
+~
+0 0 75247 0
+D3
+~
+~
+0 0 75267 0
+S
+#75247
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75246 0
+D1
+~
+~
+0 0 75243 0
+D3
+~
+~
+0 0 75248 0
+S
+#75248
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75267 0
+D1
+~
+~
+0 0 75247 0
+D3
+~
+~
+0 0 75249 0
+S
+#75249
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75266 0
+D1
+~
+~
+0 0 75248 0
+D3
+~
+~
+0 0 75250 0
+S
+#75250
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75265 0
+D1
+~
+~
+0 0 75249 0
+D3
+~
+~
+0 0 75251 0
+S
+#75251
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75264 0
+D1
+~
+~
+0 0 75250 0
+D3
+~
+~
+0 0 75252 0
+S
+#75252
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75263 0
+D1
+~
+~
+0 0 75251 0
+D3
+~
+~
+0 0 75253 0
+S
+#75253
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75262 0
+D1
+~
+~
+0 0 75252 0
+D3
+~
+~
+0 0 75254 0
+S
+#75254
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75261 0
+D1
+~
+~
+0 0 75253 0
+D3
+~
+~
+0 0 75255 0
+S
+#75255
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75260 0
+D1
+~
+~
+0 0 75254 0
+D3
+~
+~
+0 0 75256 0
+S
+#75256
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75259 0
+D1
+~
+~
+0 0 75255 0
+D3
+~
+~
+0 0 75257 0
+S
+#75257
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75258 0
+D1
+~
+~
+0 0 75256 0
+D3
+~
+~
+0 0 75144 0
+S
+#75258
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75277 0
+D1
+~
+~
+0 0 75259 0
+D2
+~
+~
+0 0 75257 0
+D3
+~
+~
+0 0 75143 0
+S
+#75259
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75276 0
+D1
+~
+~
+0 0 75260 0
+D2
+~
+~
+0 0 75256 0
+D3
+~
+~
+0 0 75258 0
+S
+#75260
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75275 0
+D1
+~
+~
+0 0 75261 0
+D2
+~
+~
+0 0 75255 0
+D3
+~
+~
+0 0 75259 0
+S
+#75261
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75274 0
+D1
+~
+~
+0 0 75262 0
+D2
+~
+~
+0 0 75254 0
+D3
+~
+~
+0 0 75260 0
+S
+#75262
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75273 0
+D1
+~
+~
+0 0 75263 0
+D2
+~
+~
+0 0 75253 0
+D3
+~
+~
+0 0 75261 0
+S
+#75263
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75272 0
+D1
+~
+~
+0 0 75264 0
+D2
+~
+~
+0 0 75252 0
+D3
+~
+~
+0 0 75262 0
+S
+#75264
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75271 0
+D1
+~
+~
+0 0 75265 0
+D2
+~
+~
+0 0 75251 0
+D3
+~
+~
+0 0 75263 0
+S
+#75265
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75270 0
+D1
+~
+~
+0 0 75266 0
+D2
+~
+~
+0 0 75250 0
+D3
+~
+~
+0 0 75264 0
+S
+#75266
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75269 0
+D1
+~
+~
+0 0 75267 0
+D2
+~
+~
+0 0 75249 0
+D3
+~
+~
+0 0 75265 0
+S
+#75267
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75268 0
+D1
+~
+~
+0 0 75246 0
+D2
+~
+~
+0 0 75248 0
+D3
+~
+~
+0 0 75266 0
+S
+#75268
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75245 0
+D2
+~
+~
+0 0 75267 0
+D3
+~
+~
+0 0 75269 0
+S
+#75269
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75268 0
+D2
+~
+~
+0 0 75266 0
+D3
+~
+~
+0 0 75270 0
+S
+#75270
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75269 0
+D2
+~
+~
+0 0 75265 0
+D3
+~
+~
+0 0 75271 0
+S
+#75271
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75270 0
+D2
+~
+~
+0 0 75264 0
+D3
+~
+~
+0 0 75272 0
+S
+#75272
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75271 0
+D2
+~
+~
+0 0 75263 0
+D3
+~
+~
+0 0 75273 0
+S
+#75273
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75272 0
+D2
+~
+~
+0 0 75262 0
+D3
+~
+~
+0 0 75274 0
+S
+#75274
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75273 0
+D2
+~
+~
+0 0 75261 0
+D3
+~
+~
+0 0 75275 0
+S
+#75275
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75274 0
+D2
+~
+~
+0 0 75260 0
+D3
+~
+~
+0 0 75276 0
+S
+#75276
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75280 0
+D1
+~
+~
+0 0 75275 0
+D2
+~
+~
+0 0 75259 0
+D3
+~
+~
+0 0 75277 0
+S
+#75277
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75278 0
+D1
+~
+~
+0 0 75276 0
+D2
+~
+~
+0 0 75258 0
+D3
+~
+~
+0 0 75142 0
+S
+#75278
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75279 0
+D1
+~
+~
+0 0 75280 0
+D2
+~
+~
+0 0 75277 0
+D3
+~
+~
+0 0 75141 0
+S
+#75279
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75278 0
+D3
+~
+~
+0 0 75140 0
+S
+#75280
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75276 0
+D3
+~
+~
+0 0 75278 0
+S
+#75281
+Ascending the Acropolis~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 75282 0
+D5
+~
+~
+0 0 75137 0
+S
+#75282
+Ascending the Acropolis~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 75283 0
+D5
+~
+~
+0 0 75281 0
+S
+#75283
+Ascending the Acropolis~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 75284 0
+D5
+~
+~
+0 0 75282 0
+S
+#75284
+Ascending the Acropolis~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D4
+~
+~
+0 0 75285 0
+D5
+~
+~
+0 0 75283 0
+S
+#75285
+Monumental Gateway~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75286 0
+D5
+~
+~
+0 0 75284 0
+S
+#75286
+Paved Brick Walkway~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75287 0
+D3
+~
+~
+0 0 75285 0
+S
+#75287
+Paved Brick Walkway~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 75286 0
+S
+#75288
+The Elven Market~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75171 0
+D1
+~
+~
+0 0 75289 0
+D2
+~
+~
+0 0 75148 0
+S
+#75289
+The Central Agora~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75172 0
+D1
+~
+~
+0 0 75170 0
+D2
+~
+~
+0 0 75150 0
+D3
+~
+~
+0 0 75288 0
+S
+#75290
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75291 4092756
+D2
+~
+~
+0 0 75000 0
+S
+#75291
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75292 0
+D2
+~
+~
+0 0 75290 0
+S
+#75292
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75293 13
+D2
+~
+~
+0 0 75291 0
+S
+#75293
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75294 0
+D1
+~
+~
+0 0 75436 0
+D2
+~
+~
+0 0 75292 0
+S
+#75294
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75295 0
+D2
+~
+~
+0 0 75293 0
+S
+#75295
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75296 0
+D2
+~
+~
+0 0 75294 0
+S
+#75296
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75297 0
+D2
+~
+~
+0 0 75295 0
+S
+#75297
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75298 0
+D2
+~
+~
+0 0 75296 0
+S
+#75298
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75299 0
+D1
+~
+~
+0 0 75441 0
+D2
+~
+~
+0 0 75297 0
+S
+#75299
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75300 0
+D2
+~
+~
+0 0 75298 0
+S
+#75300
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75301 0
+D2
+~
+~
+0 0 75299 0
+S
+#75301
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75302 0
+D2
+~
+~
+0 0 75300 0
+S
+#75302
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75303 0
+D2
+~
+~
+0 0 75301 0
+S
+#75303
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75304 0
+D2
+~
+~
+0 0 75302 0
+S
+#75304
+Colonnade Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75305 0
+D2
+~
+~
+0 0 75303 0
+S
+#75305
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75306 0
+D3
+~
+~
+0 0 75304 0
+S
+#75306
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75307 0
+D3
+~
+~
+0 0 75305 0
+S
+#75307
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75308 0
+D3
+~
+~
+0 0 75306 0
+S
+#75308
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75309 0
+D3
+~
+~
+0 0 75307 0
+S
+#75309
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75310 0
+D3
+~
+~
+0 0 75308 0
+S
+#75310
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75311 0
+D2
+~
+~
+0 0 75467 0
+D3
+~
+~
+0 0 75309 0
+S
+#75311
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75312 0
+D3
+~
+~
+0 0 75310 0
+S
+#75312
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75313 0
+D3
+~
+~
+0 0 75311 0
+S
+#75313
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75314 0
+D3
+~
+~
+0 0 75312 0
+S
+#75314
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75315 0
+D3
+~
+~
+0 0 75313 0
+S
+#75315
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75316 0
+D3
+~
+~
+0 0 75314 0
+S
+#75316
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75317 0
+D3
+~
+~
+0 0 75315 0
+S
+#75317
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75318 0
+D3
+~
+~
+0 0 75316 0
+S
+#75318
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75319 0
+D2
+~
+~
+0 0 75468 0
+D3
+~
+~
+0 0 75317 0
+S
+#75319
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75320 0
+D3
+~
+~
+0 0 75318 0
+S
+#75320
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75321 0
+D3
+~
+~
+0 0 75319 0
+S
+#75321
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75322 0
+D3
+~
+~
+0 0 75320 0
+S
+#75322
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75323 0
+D3
+~
+~
+0 0 75321 0
+S
+#75323
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75324 0
+D3
+~
+~
+0 0 75322 0
+S
+#75324
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75325 0
+D3
+~
+~
+0 0 75323 0
+S
+#75325
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75326 0
+D2
+~
+~
+0 0 75470 0
+D3
+~
+~
+0 0 75324 0
+S
+#75326
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75327 0
+D3
+~
+~
+0 0 75325 0
+S
+#75327
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75328 0
+D3
+~
+~
+0 0 75326 0
+S
+#75328
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75329 0
+D3
+~
+~
+0 0 75327 0
+S
+#75329
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75330 0
+D3
+~
+~
+0 0 75328 0
+S
+#75330
+Thousand Year Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75331 0
+D3
+~
+~
+0 0 75329 0
+S
+#75331
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75332 0
+D2
+~
+~
+0 0 75473 0
+D3
+~
+~
+0 0 75330 0
+S
+#75332
+Northern Gate~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75331 0
+S
+#75333
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75000 0
+D2
+~
+~
+0 0 75334 0
+S
+#75334
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75333 0
+D2
+~
+~
+0 0 75335 0
+S
+#75335
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75334 0
+D2
+~
+~
+0 0 75336 0
+S
+#75336
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75335 0
+D2
+~
+~
+0 0 75337 0
+S
+#75337
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75336 0
+D2
+~
+~
+0 0 75338 0
+S
+#75338
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75337 0
+D2
+~
+~
+0 0 75339 0
+S
+#75339
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75338 0
+D2
+~
+~
+0 0 75340 0
+S
+#75340
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75339 0
+D2
+~
+~
+0 0 75341 0
+S
+#75341
+Olive Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75340 0
+D1
+~
+~
+0 0 75342 0
+S
+#75342
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75343 0
+D2
+~
+~
+0 0 75351 0
+D3
+~
+~
+0 0 75341 0
+S
+#75343
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75344 0
+D3
+~
+~
+0 0 75342 0
+S
+#75344
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75345 0
+D3
+~
+~
+0 0 75343 0
+S
+#75345
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75346 0
+D3
+~
+~
+0 0 75344 0
+S
+#75346
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75347 0
+D3
+~
+~
+0 0 75345 0
+S
+#75347
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75348 0
+D3
+~
+~
+0 0 75346 0
+S
+#75348
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75349 0
+D3
+~
+~
+0 0 75347 0
+S
+#75349
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75350 0
+D3
+~
+~
+0 0 75348 0
+S
+#75350
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75083 0
+D3
+~
+~
+0 0 75349 0
+S
+#75351
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75342 0
+D2
+~
+~
+0 0 75352 0
+S
+#75352
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75351 0
+D2
+~
+~
+0 0 75353 0
+S
+#75353
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75352 0
+D2
+~
+~
+0 0 75354 0
+S
+#75354
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75353 0
+D2
+~
+~
+0 0 75355 0
+S
+#75355
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75354 0
+D2
+~
+~
+0 0 75356 0
+S
+#75356
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75355 0
+D2
+~
+~
+0 0 75357 0
+S
+#75357
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75356 0
+D2
+~
+~
+0 0 75358 0
+S
+#75358
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75357 0
+D2
+~
+~
+0 0 75359 0
+S
+#75359
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75358 0
+D1
+~
+~
+0 0 75360 0
+S
+#75360
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75361 0
+D3
+~
+~
+0 0 75359 0
+S
+#75361
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75362 0
+D3
+~
+~
+0 0 75360 0
+S
+#75362
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75363 0
+D3
+~
+~
+0 0 75361 0
+S
+#75363
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75364 0
+D3
+~
+~
+0 0 75362 0
+S
+#75364
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75365 0
+D3
+~
+~
+0 0 75363 0
+S
+#75365
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75366 0
+D3
+~
+~
+0 0 75364 0
+S
+#75366
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75367 0
+D3
+~
+~
+0 0 75365 0
+S
+#75367
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75368 0
+D3
+~
+~
+0 0 75366 0
+S
+#75368
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75369 0
+D3
+~
+~
+0 0 75367 0
+S
+#75369
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75376 0
+D3
+~
+~
+0 0 75368 0
+S
+#75370
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75079 0
+D2
+~
+~
+0 0 75371 0
+S
+#75371
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75370 0
+D2
+~
+~
+0 0 75372 0
+S
+#75372
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75371 0
+D2
+~
+~
+0 0 75373 0
+S
+#75373
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75372 0
+D2
+~
+~
+0 0 75374 0
+S
+#75374
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75373 0
+D2
+~
+~
+0 0 75375 0
+S
+#75375
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75374 0
+D2
+~
+~
+0 0 75376 0
+S
+#75376
+Festival Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75375 0
+D2
+~
+~
+0 0 75377 0
+D3
+~
+~
+0 0 75369 0
+S
+#75377
+Southern Gate~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75376 0
+D1
+~
+~
+0 0 75378 0
+S
+#75378
+Salve Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75379 0
+D3
+~
+~
+0 0 75377 0
+S
+#75379
+Salve Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75380 0
+D3
+~
+~
+0 0 75378 0
+S
+#75380
+Salve Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75381 0
+D3
+~
+~
+0 0 75379 0
+S
+#75381
+Salve Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75382 0
+D3
+~
+~
+0 0 75380 0
+S
+#75382
+Salve Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75383 0
+D3
+~
+~
+0 0 75381 0
+S
+#75383
+Salve Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75390 0
+D3
+~
+~
+0 0 75382 0
+S
+#75384
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75073 0
+D2
+~
+~
+0 0 75385 0
+S
+#75385
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75384 0
+D2
+~
+~
+0 0 75386 0
+S
+#75386
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75385 0
+D2
+~
+~
+0 0 75387 0
+S
+#75387
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75386 0
+D2
+~
+~
+0 0 75388 0
+S
+#75388
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75387 0
+D2
+~
+~
+0 0 75389 0
+S
+#75389
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75388 0
+D2
+~
+~
+0 0 75390 0
+S
+#75390
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75389 0
+D1
+~
+~
+0 0 75391 0
+D2
+~
+~
+0 0 75383 0
+S
+#75391
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75392 0
+D3
+~
+~
+0 0 75390 0
+S
+#75392
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75393 0
+D3
+~
+~
+0 0 75391 0
+S
+#75393
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75394 0
+D3
+~
+~
+0 0 75392 0
+S
+#75394
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75395 0
+D3
+~
+~
+0 0 75393 0
+S
+#75395
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75396 0
+D3
+~
+~
+0 0 75394 0
+S
+#75396
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75397 0
+D3
+~
+~
+0 0 75395 0
+S
+#75397
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75398 0
+D3
+~
+~
+0 0 75396 0
+S
+#75398
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75399 0
+D3
+~
+~
+0 0 75397 0
+S
+#75399
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75400 0
+D3
+~
+~
+0 0 75398 0
+S
+#75400
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75401 0
+D3
+~
+~
+0 0 75399 0
+S
+#75401
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75402 0
+D3
+~
+~
+0 0 75400 0
+S
+#75402
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75403 0
+D1
+~
+~
+0 0 75561 0
+D3
+~
+~
+0 0 75401 0
+S
+#75403
+Orchard Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75404 0
+D2
+~
+~
+0 0 75402 0
+S
+#75404
+Orchard Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75405 0
+D2
+~
+~
+0 0 75403 0
+S
+#75405
+Orchard Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75406 0
+D2
+~
+~
+0 0 75404 0
+S
+#75406
+Orchard Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75424 0
+D1
+~
+~
+0 0 75407 0
+D2
+~
+~
+0 0 75405 0
+S
+#75407
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75408 0
+D3
+~
+~
+0 0 75406 0
+S
+#75408
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75409 0
+D3
+~
+~
+0 0 75407 0
+S
+#75409
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75410 0
+D3
+~
+~
+0 0 75408 0
+S
+#75410
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75411 0
+D3
+~
+~
+0 0 75409 0
+S
+#75411
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75412 0
+D3
+~
+~
+0 0 75410 0
+S
+#75412
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75413 0
+D1
+~
+~
+0 0 75553 0
+D3
+~
+~
+0 0 75411 0
+S
+#75413
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75414 0
+D2
+~
+~
+0 0 75412 0
+S
+#75414
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75415 0
+D2
+~
+~
+0 0 75413 0
+S
+#75415
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75516 0
+D2
+~
+~
+0 0 75414 0
+D3
+~
+~
+0 0 75416 0
+S
+#75416
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75415 0
+D3
+~
+~
+0 0 75417 0
+S
+#75417
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75416 0
+D3
+~
+~
+0 0 75418 0
+S
+#75418
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75417 0
+D3
+~
+~
+0 0 75419 0
+S
+#75419
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75418 0
+D3
+~
+~
+0 0 75420 0
+S
+#75420
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75419 0
+D3
+~
+~
+0 0 75421 0
+S
+#75421
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75420 0
+D2
+~
+~
+0 0 75423 0
+D3
+~
+~
+0 0 75422 0
+S
+#75422
+Skimmer's Horizon Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75061 0
+D1
+~
+~
+0 0 75421 0
+D3
+~
+~
+0 0 75063 0
+S
+#75423
+Orchard Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75421 0
+D2
+~
+~
+0 0 75424 0
+S
+#75424
+Orchard Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75423 0
+D2
+~
+~
+0 0 75406 0
+S
+#75425
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75426 0
+D2
+~
+~
+0 0 75006 0
+S
+#75426
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75427 0
+D2
+~
+~
+0 0 75425 0
+S
+#75427
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75431 0
+D2
+~
+~
+0 0 75426 0
+S
+#75428
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75014 0
+D3
+~
+~
+0 0 75429 0
+S
+#75429
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75428 0
+D3
+~
+~
+0 0 75430 0
+S
+#75430
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75429 0
+D3
+~
+~
+0 0 75431 0
+S
+#75431
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75430 0
+D2
+~
+~
+0 0 75427 0
+D3
+~
+~
+0 0 75432 0
+S
+#75432
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75431 0
+D3
+~
+~
+0 0 75433 0
+S
+#75433
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75432 0
+D3
+~
+~
+0 0 75434 0
+S
+#75434
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75437 0
+D1
+~
+~
+0 0 75433 0
+D3
+~
+~
+0 0 75435 0
+S
+#75435
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75434 0
+D3
+~
+~
+0 0 75436 0
+S
+#75436
+Riders' Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75435 0
+D3
+~
+~
+0 0 75293 0
+S
+#75437
+Hairdressers' Row~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75438 0
+D2
+~
+~
+0 0 75434 0
+S
+#75438
+Hairdressers' Row~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75439 0
+D2
+~
+~
+0 0 75437 0
+S
+#75439
+Hairdressers' Row~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75440 0
+D2
+~
+~
+0 0 75438 0
+S
+#75440
+Hairdressers' Row~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75443 0
+D2
+~
+~
+0 0 75439 0
+S
+#75441
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75442 0
+D3
+~
+~
+0 0 75298 0
+S
+#75442
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75443 0
+D3
+~
+~
+0 0 75441 0
+S
+#75443
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75444 0
+D2
+~
+~
+0 0 75440 0
+D3
+~
+~
+0 0 75442 0
+S
+#75444
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75445 0
+D3
+~
+~
+0 0 75443 0
+S
+#75445
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75446 0
+D3
+~
+~
+0 0 75444 0
+S
+#75446
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75464 0
+D1
+~
+~
+0 0 75447 0
+D3
+~
+~
+0 0 75445 0
+S
+#75447
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75448 0
+D3
+~
+~
+0 0 75446 0
+S
+#75448
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75449 0
+D3
+~
+~
+0 0 75447 0
+S
+#75449
+Pottery Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75019 0
+D3
+~
+~
+0 0 75448 0
+S
+#75455
+Stalwart Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75466 0
+D1
+~
+~
+0 0 75456 0
+D2
+~
+~
+0 0 75465 0
+S
+#75456
+Torvelen's Lane~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75457 0
+D3
+~
+~
+0 0 75455 0
+S
+#75457
+Torvelen's Lane~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75458 0
+D3
+~
+~
+0 0 75456 0
+S
+#75458
+Torvelen's Lane~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75459 0
+D3
+~
+~
+0 0 75457 0
+S
+#75459
+Torvelen's Lane~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75460 0
+D3
+~
+~
+0 0 75458 0
+S
+#75460
+Torvelen's Lane~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75461 0
+D3
+~
+~
+0 0 75459 0
+S
+#75461
+Torvelen's Lane~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75462 0
+D3
+~
+~
+0 0 75460 0
+S
+#75462
+Torvelen's Lane~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75463 0
+D3
+~
+~
+0 0 75461 0
+S
+#75463
+Road of Valiance~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75469 0
+D2
+~
+~
+0 0 75025 0
+D3
+~
+~
+0 0 75462 0
+S
+#75464
+Stalwart Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75465 0
+D2
+~
+~
+0 0 75446 0
+S
+#75465
+Stalwart Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75455 0
+D2
+~
+~
+0 0 75464 0
+S
+#75466
+Stalwart Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75467 0
+D2
+~
+~
+0 0 75455 0
+S
+#75467
+Stalwart Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75310 0
+D2
+~
+~
+0 0 75466 0
+S
+#75468
+Road of Valiance~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75318 0
+D2
+~
+~
+0 0 75469 0
+S
+#75469
+Road of Valiance~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75468 0
+D2
+~
+~
+0 0 75463 0
+S
+#75470
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75325 0
+D2
+~
+~
+0 0 75471 0
+S
+#75471
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75470 0
+D2
+~
+~
+0 0 75472 0
+S
+#75472
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75471 0
+D2
+~
+~
+0 0 75032 0
+S
+#75473
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75331 0
+D1
+~
+~
+0 0 75476 0
+D2
+~
+~
+0 0 75474 0
+S
+#75474
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75473 0
+D2
+~
+~
+0 0 75475 0
+S
+#75475
+Silt Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75474 0
+D2
+~
+~
+0 0 75038 0
+S
+#75476
+King Heights~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75477 0
+D3
+~
+~
+0 0 75473 0
+S
+#75477
+King Heights~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75478 0
+D3
+~
+~
+0 0 75476 0
+S
+#75478
+King Heights~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75479 0
+D3
+~
+~
+0 0 75477 0
+S
+#75479
+King Heights~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75480 0
+D3
+~
+~
+0 0 75478 0
+S
+#75480
+King Heights~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75481 0
+D3
+~
+~
+0 0 75479 0
+S
+#75481
+King Heights~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75482 0
+D3
+~
+~
+0 0 75480 0
+S
+#75482
+King Heights~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75483 0
+D3
+~
+~
+0 0 75481 0
+S
+#75483
+Purple Blossom Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75564 0
+D2
+~
+~
+0 0 75484 0
+D3
+~
+~
+0 0 75482 0
+S
+#75484
+Purple Blossom Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75483 0
+D2
+~
+~
+0 0 75485 0
+S
+#75485
+Purple Blossom Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75484 0
+D2
+~
+~
+0 0 75486 0
+S
+#75486
+Purple Blossom Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75485 0
+D2
+~
+~
+0 0 75487 0
+S
+#75487
+Purple Blossom Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75486 0
+D2
+~
+~
+0 0 75488 0
+S
+#75488
+Purple Blossom Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75487 0
+D2
+~
+~
+0 0 75494 0
+S
+#75489
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75490 0
+D3
+~
+~
+0 0 75043 0
+S
+#75490
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75491 0
+D3
+~
+~
+0 0 75489 0
+S
+#75491
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75492 0
+D3
+~
+~
+0 0 75490 0
+S
+#75492
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75493 0
+D3
+~
+~
+0 0 75491 0
+S
+#75493
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75494 0
+D3
+~
+~
+0 0 75492 0
+S
+#75494
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75488 0
+D1
+~
+~
+0 0 75495 0
+D3
+~
+~
+0 0 75493 0
+S
+#75495
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75496 0
+D3
+~
+~
+0 0 75494 0
+S
+#75496
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75497 0
+D3
+~
+~
+0 0 75495 0
+S
+#75497
+Canal Street~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75522 4092756
+D3
+~
+~
+0 0 75496 0
+S
+#75498
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75499 0
+D3
+~
+~
+0 0 75051 0
+S
+#75499
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75500 0
+D3
+~
+~
+0 0 75498 0
+S
+#75500
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75501 0
+D3
+~
+~
+0 0 75499 0
+S
+#75501
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75502 0
+D3
+~
+~
+0 0 75500 0
+S
+#75502
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75503 0
+D3
+~
+~
+0 0 75501 0
+S
+#75503
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75504 0
+D3
+~
+~
+0 0 75502 0
+S
+#75504
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75505 0
+D2
+~
+~
+0 0 75507 0
+D3
+~
+~
+0 0 75503 0
+S
+#75505
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75506 0
+D3
+~
+~
+0 0 75504 0
+S
+#75506
+Harborside Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75533 0
+D3
+~
+~
+0 0 75505 0
+S
+#75507
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75504 0
+D2
+~
+~
+0 0 75508 0
+S
+#75508
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75507 0
+D2
+~
+~
+0 0 75509 0
+S
+#75509
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75508 0
+D2
+~
+~
+0 0 75510 0
+S
+#75510
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75509 0
+D2
+~
+~
+0 0 75511 0
+S
+#75511
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75510 0
+D2
+~
+~
+0 0 75512 0
+D3
+~
+~
+0 0 75517 0
+S
+#75512
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75511 0
+D2
+~
+~
+0 0 75513 0
+S
+#75513
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75512 0
+D2
+~
+~
+0 0 75514 0
+S
+#75514
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75513 0
+D2
+~
+~
+0 0 75515 0
+S
+#75515
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75514 0
+D2
+~
+~
+0 0 75516 0
+S
+#75516
+Spearpoint Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75515 0
+D2
+~
+~
+0 0 75415 0
+S
+#75517
+A Dark Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75511 0
+D3
+~
+~
+0 0 75518 0
+S
+#75518
+A Dark Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75517 0
+D3
+~
+~
+0 0 75519 0
+S
+#75519
+A Dark Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75518 0
+D3
+~
+~
+0 0 75520 0
+S
+#75520
+A Dark Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75519 0
+D3
+~
+~
+0 0 75521 0
+S
+#75521
+A Dark Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75520 0
+S
+#75522
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75523 0
+D2
+~
+~
+0 0 75526 0
+D3
+~
+~
+0 0 75497 0
+S
+#75523
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75524 0
+D2
+~
+~
+0 0 75522 0
+S
+#75524
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75525 0
+D2
+~
+~
+0 0 75523 0
+S
+#75525
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75450 0
+D2
+~
+~
+0 0 75524 0
+S
+#75526
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75522 0
+D2
+~
+~
+0 0 75527 0
+S
+#75527
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75526 0
+D2
+~
+~
+0 0 75528 0
+S
+#75528
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75527 0
+D2
+~
+~
+0 0 75529 0
+S
+#75529
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75528 0
+D2
+~
+~
+0 0 75530 0
+S
+#75530
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75529 0
+D2
+~
+~
+0 0 75531 0
+S
+#75531
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75530 0
+D2
+~
+~
+0 0 75532 0
+S
+#75532
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75531 0
+D2
+~
+~
+0 0 75533 0
+S
+#75533
+Harbor Gate~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75532 0
+D2
+~
+~
+0 0 75534 0
+D3
+~
+~
+0 0 75506 0
+S
+#75534
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75533 0
+D2
+~
+~
+0 0 75535 0
+S
+#75535
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75534 0
+D2
+~
+~
+0 0 75536 0
+S
+#75536
+Promenade~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75535 0
+D2
+~
+~
+0 0 75537 0
+S
+#75537
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75536 0
+D2
+~
+~
+0 0 75538 0
+S
+#75538
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75537 0
+D2
+~
+~
+0 0 75539 0
+S
+#75539
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75538 0
+D2
+~
+~
+0 0 75540 0
+S
+#75540
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75539 0
+D2
+~
+~
+0 0 75541 0
+S
+#75541
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75540 0
+D2
+~
+~
+0 0 75542 0
+S
+#75542
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75541 0
+D2
+~
+~
+0 0 75543 0
+S
+#75543
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75542 0
+D2
+~
+~
+0 0 75544 0
+S
+#75544
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75543 0
+D2
+~
+~
+0 0 75545 0
+S
+#75545
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75544 0
+D2
+~
+~
+0 0 75546 0
+S
+#75546
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75545 0
+D2
+~
+~
+0 0 75547 0
+S
+#75547
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75546 0
+D2
+~
+~
+0 0 75548 0
+D3
+~
+~
+0 0 75552 0
+S
+#75548
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75547 0
+D2
+~
+~
+0 0 75549 0
+S
+#75549
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75548 0
+D2
+~
+~
+0 0 75550 0
+S
+#75550
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75549 0
+D2
+~
+~
+0 0 75551 0
+S
+#75551
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75550 0
+D3
+~
+~
+0 0 75554 0
+S
+#75552
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75547 0
+D3
+~
+~
+0 0 75553 0
+S
+#75553
+Repository Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75552 0
+D3
+~
+~
+0 0 75412 0
+S
+#75554
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75551 0
+D3
+~
+~
+0 0 75555 0
+S
+#75555
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75554 0
+D3
+~
+~
+0 0 75556 0
+S
+#75556
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75555 0
+D3
+~
+~
+0 0 75557 0
+S
+#75557
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75556 0
+D3
+~
+~
+0 0 75558 0
+S
+#75558
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75557 0
+D3
+~
+~
+0 0 75559 0
+S
+#75559
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75558 0
+D3
+~
+~
+0 0 75560 0
+S
+#75560
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75559 0
+D3
+~
+~
+0 0 75561 0
+S
+#75561
+Royal Grove Road~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75560 0
+D3
+~
+~
+0 0 75402 0
+S
+#75450
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75451 0
+D2
+~
+~
+0 0 75525 0
+S
+#75451
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75452 0
+D2
+~
+~
+0 0 75450 0
+S
+#75452
+New Room.~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 75453 0
+D2
+~
+~
+0 0 75451 0
+S
+#75453
+Perimeter Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 75452 0
+D3
+~
+~
+0 0 75454 0
+S
+#75454
+Perimeter Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75453 0
+D3
+~
+~
+0 0 75562 0
+S
+#75562
+Perimeter Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75454 0
+D3
+~
+~
+0 0 75563 0
+S
+#75563
+Perimeter Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75562 0
+D3
+~
+~
+0 0 75564 0
+S
+#75564
+Perimeter Way~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 75563 0
+D2
+~
+~
+0 0 75483 0
+S
+#0
+
+
+#RESETS
+M 0 75000 0 75000
+S
+
+
+#$

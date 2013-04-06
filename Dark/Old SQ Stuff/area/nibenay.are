@@ -1,0 +1,1045 @@
+#AREA Delerak     Nibenay~
+nibenay~
+Delerak~
+11000 12999
+0 0
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#11000
+Temple of the King's Will~
+Empty description.
+~
+~
+'forest'
+4 0 0
+0 0 0
+D0
+A torch-bearing wall blocks movement to the north.
+~
+~
+0 0 -1 5
+D1
+~
+~
+0 0 11001 3338
+D2
+~
+~
+0 0 11013 0
+S
+#11001
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+A torch-bearing wall blocks movement to the north.
+~
+Passage~
+67 0 11022 0
+D1
+~
+~
+0 0 11002 3338
+D2
+~
+~
+0 0 11012 0
+D3
+~
+~
+0 0 11000 0
+S
+#11002
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+A torch-bearing wall blocks movement to the north.
+~
+~
+256 0 11023 0
+D1
+~
+~
+0 0 11003 0
+D2
+~
+~
+0 0 11011 0
+D3
+~
+~
+0 0 11001 0
+S
+#11003
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+A torch-bearing wall blocks movement to the north.
+~
+~
+256 0 11024 0
+D1
+~
+~
+0 0 11004 0
+D2
+~
+~
+0 0 11010 0
+D3
+~
+~
+0 0 11002 0
+S
+#11004
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+A torch-bearing wall blocks movement to the north.
+~
+~
+256 0 11025 0
+D1
+~
+~
+0 0 11005 0
+D2
+~
+~
+0 0 11009 0
+D3
+~
+~
+0 0 11003 0
+S
+#11005
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+A torch-bearing wall blocks movement to the north.
+~
+~
+256 0 11026 0
+D1
+~
+~
+0 0 11006 0
+D2
+~
+~
+0 0 11008 0
+D3
+~
+~
+0 0 11004 0
+S
+#11006
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+A torch-bearing wall blocks movement to the north.
+~
+~
+0 0 -1 5
+D2
+~
+~
+0 0 11007 0
+D3
+~
+~
+0 0 11005 0
+S
+#11007
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11006 0
+D2
+~
+~
+0 0 11020 0
+D3
+~
+~
+0 0 11008 0
+S
+#11008
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11005 0
+D1
+~
+~
+0 0 11007 0
+D2
+~
+~
+0 0 11019 0
+D3
+~
+~
+0 0 11009 0
+S
+#11009
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11004 0
+D1
+~
+~
+0 0 11008 0
+D2
+~
+~
+0 0 11018 0
+D3
+~
+~
+0 0 11010 0
+S
+#11010
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11003 0
+D1
+~
+~
+0 0 11009 0
+D2
+~
+~
+0 0 11017 0
+D3
+~
+~
+0 0 11011 0
+S
+#11011
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11002 0
+D1
+~
+~
+0 0 11010 0
+D2
+~
+~
+0 0 11016 0
+D3
+~
+~
+0 0 11012 0
+S
+#11012
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11001 0
+D1
+~
+~
+0 0 11011 0
+D2
+~
+~
+0 0 11015 0
+D3
+~
+~
+0 0 11013 0
+S
+#11013
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11000 0
+D1
+~
+~
+0 0 11012 0
+D2
+~
+~
+0 0 11014 0
+S
+#11014
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11013 0
+D1
+~
+~
+0 0 11015 0
+S
+#11015
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11012 0
+D1
+~
+~
+0 0 11016 0
+D3
+~
+~
+0 0 11014 0
+S
+#11016
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11011 0
+D1
+~
+~
+0 0 11017 0
+D3
+~
+~
+0 0 11015 0
+S
+#11017
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11010 0
+D1
+~
+~
+0 0 11018 0
+D2
+~
+~
+0 0 11021 0
+D3
+~
+~
+0 0 11016 0
+S
+#11018
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11009 0
+D1
+~
+~
+0 0 11019 0
+D3
+~
+~
+0 0 11017 0
+S
+#11019
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11008 0
+D1
+~
+~
+0 0 11020 0
+D3
+~
+~
+0 0 11018 0
+S
+#11020
+Temple of the King's Will~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11007 0
+D3
+~
+~
+0 0 11019 0
+S
+#11021
+Path to the Temple~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11017 0
+D2
+~
+~
+0 0 11027 0
+S
+#11022
+Dusty Hall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 11023 0
+D2
+A worn dusty gray wall lies to the south.
+A crack is visible in the wall.
+~
+Passage~
+67 0 11001 0
+S
+#11023
+Dusty Hall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 11024 0
+D2
+~
+~
+256 0 11002 0
+D3
+~
+~
+0 0 11022 0
+S
+#11024
+Dusty Hall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 11025 0
+D2
+~
+~
+256 0 11003 0
+D3
+~
+~
+0 0 11023 0
+S
+#11025
+Dusty Hall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 11026 0
+D2
+~
+~
+256 0 11004 0
+D3
+~
+~
+0 0 11024 0
+S
+#11026
+Dusty Hall~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+256 0 11005 0
+D3
+~
+~
+0 0 11025 0
+S
+#11027
+Path to the Temple~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11021 0
+D2
+~
+~
+0 0 11028 0
+S
+#11028
+Path to the Temple~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11027 0
+D2
+~
+~
+0 0 11029 0
+S
+#11029
+Three-Way Intersection~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11028 0
+D3
+~
+~
+0 0 11030 0
+S
+#11030
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11031 0
+D1
+~
+~
+0 0 11029 0
+S
+#11031
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 11030 0
+D3
+~
+~
+0 0 11032 0
+S
+#11032
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 11031 0
+D3
+~
+~
+0 0 11033 0
+S
+#11033
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 11032 0
+D3
+~
+~
+0 0 11034 0
+S
+#11034
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11035 0
+D1
+~
+~
+0 0 11033 0
+S
+#11035
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11036 0
+D2
+~
+~
+0 0 11034 0
+S
+#11036
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 11035 0
+D3
+~
+~
+0 0 11037 0
+S
+#11037
+Unnamed Path~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D1
+~
+~
+0 0 11036 0
+D3
+~
+~
+0 0 11038 0
+S
+#11038
+Intersection~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11042 0
+D1
+~
+~
+0 0 11037 0
+D2
+~
+~
+0 0 11039 0
+S
+#11039
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11038 0
+D2
+~
+~
+0 0 11040 0
+S
+#11040
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11039 0
+D2
+~
+~
+0 0 11041 0
+S
+#11041
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11040 0
+S
+#11042
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11043 0
+D2
+~
+~
+0 0 11038 0
+S
+#11043
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11044 0
+D2
+~
+~
+0 0 11042 0
+S
+#11044
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11045 0
+D2
+~
+~
+0 0 11043 0
+S
+#11045
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11046 0
+D2
+~
+~
+0 0 11044 0
+S
+#11046
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11047 0
+D2
+~
+~
+0 0 11045 0
+S
+#11047
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11048 0
+D2
+~
+~
+0 0 11046 0
+S
+#11048
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11049 0
+D2
+~
+~
+0 0 11047 0
+S
+#11049
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11050 0
+D2
+~
+~
+0 0 11048 0
+S
+#11050
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D0
+~
+~
+0 0 11051 0
+D2
+~
+~
+0 0 11049 0
+S
+#11051
+Templar Houses~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D2
+~
+~
+0 0 11050 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

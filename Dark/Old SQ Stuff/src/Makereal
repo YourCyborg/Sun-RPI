@@ -1,0 +1,21 @@
+CC      = gcc
+PROF    =
+NOCRYPT =
+C_FLAGS = -O -Wall -ggdb $(PROF) $(NOCRYPT)
+L_FLAGS = -O -lcrypt $(PROF) 
+
+O_FILES = act_comm.o act_info.o act_move.o act_obj.o act_wiz.o \
+	  change.o comm.o \
+	  const.o db.o emote.o fight.o fileio.o handler.o interp.o \
+	  limited.o magic.o mem_manage.o memory.o money.o names.o \
+	  obj_fun.o olc.o \
+	  races.o random.o review.o rng.o room_fun.o \
+	  save.o shoot.o shop.o special.o update.o
+
+executable: $(O_FILES)
+	rm -f executable
+	$(CC) $(L_FLAGS) -o executable $(O_FILES)
+	chmod 4755 executable
+
+.c.o: merc.h
+	$(CC) -c $(C_FLAGS) $<

@@ -1,0 +1,96 @@
+db.c:	    for ( mob = pRoomIndex->people; mob != NULL; mob = mob->next_in_room )
+db.c:		if ( mob->pIndexData == NULL || mob->pIndexData != pMobIndex )
+db.c:		if ( mob->pReset != NULL )
+db.c:		mob->pReset = pReset;
+db.c:	    mob->pReset = pReset;
+db.c:    mob->pIndexData	= pMobIndex;
+db.c:    mob->name		= pMobIndex->name;
+db.c:    mob->namelist	= pMobIndex->namelist;
+db.c:    mob->short_descr	= pMobIndex->short_descr;
+db.c:    mob->long_descr	= pMobIndex->long_descr;
+db.c:    mob->dynamic_descr	= NULL;
+db.c:    mob->description	= pMobIndex->description;
+db.c:    mob->spec_fun_name	= pMobIndex->spec_fun_name;
+db.c:    mob->spec_fun	= pMobIndex->spec_fun;
+db.c:    mob->prompt		= NULL;
+db.c:    mob->level		= pMobIndex->level;
+db.c:    mob->act		= pMobIndex->act;
+db.c:    mob->affected_by	= pMobIndex->affected_by;
+db.c:    mob->alignment	= pMobIndex->alignment;
+db.c:    mob->aggression	= pMobIndex->aggression;
+db.c:    mob->speed		= pMobIndex->speed;
+db.c:    mob->clan		= pMobIndex->clan;
+db.c:    mob->sex		= pMobIndex->sex;
+db.c:    mob->race		= pMobIndex->race;
+db.c:    mob->max_hit	= dice( pMobIndex->hitnodice, pMobIndex->hitsizedice )
+db.c:    mob->hit[HIT_LOC_BODY]		= mob->max_hit;
+db.c:    mob->damnodice	= pMobIndex->damnodice;
+db.c:    mob->damsizedice	= pMobIndex->damsizedice;
+db.c:    mob->damplus	= pMobIndex->damplus;
+db.c:    mob->perm_stat_phys_str	= pMobIndex->mob_stat_phys_str;
+db.c:    mob->perm_stat_phys_dex	= pMobIndex->mob_stat_phys_dex;
+db.c:    mob->perm_stat_phys_tou	= pMobIndex->mob_stat_phys_tou;
+db.c:    mob->perm_stat_phys_qui	= pMobIndex->mob_stat_phys_qui;
+db.c:    mob->perm_stat_ment_int	= pMobIndex->mob_stat_ment_int;
+db.c:    mob->perm_offense	= pMobIndex->mob_offense;
+db.c:    mob->perm_defense	= pMobIndex->mob_defense;
+db.c:    mob->absorb[0]	= pMobIndex->absorb[0];
+db.c:    mob->absorb[1]	= pMobIndex->absorb[1];
+db.c:    mob->absorb[2]	= pMobIndex->absorb[2];
+db.c:    mob->absorb[3]	= pMobIndex->absorb[3];
+db.c:    mob->height		= race_array[mob->race]->height_base
+db.c:			+ dice( race_array[mob->race]->heightnodice,
+db.c:				race_array[mob->race]->heightsizedice );
+db.c:    mob->weight		= race_array[mob->race]->weight_base
+db.c:			+ dice( race_array[mob->race]->weightnodice,
+db.c:				race_array[mob->race]->weightsizedice );
+db.c:    mob->next		= char_list;
+interp.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+interp.c:	if ( mob->spec_fun != NULL )
+interp.c:	    if ( (*mob->spec_fun) ( ch, cmd, fnptr, argument, mob ) )
+olc.c:		pMobIndex = mob->pIndexData;
+olc.c:		pMobIndex = mob->pIndexData;
+olc.c:	    pMobIndex = mob->pIndexData;
+olc.c:	if ( mob->pReset != NULL )
+olc.c:	    mob = create_mobile( mob->pIndexData );
+olc.c:	pReset->arg1 = mob->pIndexData->vnum;
+olc.c:	mob->pReset = pReset;
+olc.c:    || !IS_NPC( mob ) || (pMobIndex = mob->pIndexData) == NULL )
+olc.c:	    pMobIndex = mob->pIndexData;
+save.c:    for ( mob = room->people; mob != NULL; mob = mob->next_in_room )
+save.c:	if ( IS_NPC( mob ) && IS_SET( mob->act, ACT_SENTINEL ) )
+save.c:    for ( ; mob != NULL; mob = mob->next_in_room )
+save.c:	if ( !IS_NPC( mob ) || !IS_SET( mob->act, ACT_SENTINEL ) )
+save.c:	if ( mob->carrying != NULL )
+save.c:	    for ( obj = mob->carrying; obj != NULL; obj = obj->next_content )
+save.c:		for ( obj = mob->wearing[i]; obj != NULL; obj = obj->next_worn )
+shop.c:	    pMobIndex = mob->pIndexData;
+special.c:    if ( mob->fighting == NULL )
+special.c:    if ( mob->fighting == NULL )
+special.c:    (*skill_table[sn].spell_fun) ( sn, mob->level, mob, NULL );
+special.c:    if ( mob->fighting == NULL )
+special.c:    for ( victim = mob->in_room->people; victim != NULL; victim = v_next )
+special.c:	if ( mob->level >= min_level )
+special.c:    (*skill_table[sn].spell_fun) ( sn, mob->level, mob, victim );
+special.c:    if ( mob->fighting == NULL )
+special.c:    for ( victim = mob->in_room->people; victim != NULL; victim = v_next )
+special.c:	if ( mob->level >= min_level )
+special.c:    (*skill_table[sn].spell_fun) ( sn, mob->level, mob, victim );
+special.c:    if ( mob->fighting == NULL )
+special.c:    for ( victim = mob->in_room->people; victim != NULL; victim = v_next )
+special.c:	if ( mob->level >= min_level )
+special.c:    (*skill_table[sn].spell_fun) ( sn, mob->level, mob, victim );
+special.c:    for ( corpse = mob->in_room->contents; corpse != NULL; corpse = c_next )
+special.c:	    obj_to_room( obj, mob->in_room, TRUE );
+special.c:    if ( !IS_AWAKE(mob) || mob->fighting != NULL )
+special.c:    for ( victim = mob->in_room->people; victim != NULL; victim = v_next )
+special.c:    for ( trash = mob->in_room->contents; trash != NULL; trash = trash_next )
+special.c:    if ( mob->fighting != NULL )
+special.c:	mob->position = POS_STANDING;
+special.c:	mob->position = POS_SLEEPING;
+special.c:    if ( mob->fighting == NULL
+special.c:    || ( victim = mob->fighting ) == NULL
+special.c:    ||   number_percent( ) > 2 * mob->level )
+special.c:    spell_poison( gsn_poison, mob->level, mob, victim );
+special.c:    if ( mob->position != POS_STANDING )
+special.c:    for ( victim = mob->in_room->people; victim != NULL; victim = v_next )

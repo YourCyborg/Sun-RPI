@@ -1,0 +1,2869 @@
+#HELPS
+
+
+
+37 import~
+Usage: import <room/mob/object/exit/cdesc/extra>
+
+Import will take all text from the given field and import it into your note buffer.
+Import is used in editing rooms, mobiles, objects and anything else which requires
+extensive editing.
+~
+
+
+37 connect~
+Syntax: connect <direction> <vnum> (oneway)
+Oneway is an optional parameter. Exits are two way by default.
+Anything other than 'oneway' in that field will be ignored.
+
+Connect will connect two rooms via exits.
+~
+
+
+37 breakexit~
+Syntax: break <direction/all>
+
+Breakexit will delete any or all exits specified in the current room.
+~
+
+
+36 snoop~
+Syntax: snoop <character>
+NPCs cannot be snooped. Only one person can be snooping a certain player at one time.
+
+Snoop will show you -everything- that that player sees, and is thus, quite spammy.
+~
+
+
+36 reject~
+Syntax: reject <player>
+Please note that the said player must be previously rloaded into the reviewing room.
+
+To append a rejection note, use your note buffer and simply reject them to add it on.
+~
+
+
+35 :~
+This is an alias for immtalk.
+
+See HELP IMMTALK for more information.
+~
+
+
+37 sset~
+Syntax: sset <victim> <skill> <value> <power>
+or:     sset <victim> all     <value> <power>
+
+Sset will allow you to set the skill or all skills of the said
+PC.
+
+To set NPCs, please uset mpset.
+~
+
+
+35 class_bits~
+0 None
+1 Sorceror
+2 Fighter
+3 Ranger
+4 Fire Elementalist
+5 Water Elementalist
+6 Templar
+7 Assassin
+8 Burgular
+9 Immortal
+10 Stone Elementalist
+11 Shadow Elementalist
+12 Energy Elementalist
+13 Void Elementalist
+14 Psionist
+15 Merchant
+~
+
+
+35 at~
+Syntax: at <person or vnum> <command>
+
+At will allow you to execute commands in other rooms without
+being there. This is useful if you want to drop off an item
+or load an NPC without having to leave the room
+you are currently in.
+~
+
+
+35 rstat~
+Syntax: rstat <vnum> (optional vnum parameter)
+
+Rstat will show you the stats of a room in an easy to read
+format.
+~
+
+
+1 wish~
+Usage: wish <all/name> <message>
+
+Wish all will send a message to all of the staff, which is used when
+no staff are visible or available.
+
+Wish <name> sends a message to a visible staff member.
+~
+
+
+35 room_flags~
+/*
+ * Room flags.
+ * Used in #ROOMS.
+ */
+#define ROOM_DARK                     1
+#define ROOM_SAVES_CONTENTS           2
+#define ROOM_NO_MOB                   4
+#define ROOM_INDOORS                  8
+#define ROOM_DRINKABLE_WATER         16
+#define ROOM_PRIVATE                512
+#define ROOM_SAFE                  1024
+#define ROOM_SOLITARY              2048
+#define ROOM_PET_SHOP              4096
+#define ROOM_NO_RECALL             8192
+#define ROOM_QUITABLE              16384
+~
+
+
+36 item_materials~
+Types are:
+
+     adamantite
+     agate
+     alexandrite
+     aluminum
+     amber
+     amethyst
+     antler	
+     aquamarine		 
+     arsenic
+     ash
+     azurite
+     balsa
+     bamboo
+     bark
+     birch
+     bloodstone
+     blue quartz
+     bone
+     brass
+     bronze
+     calcium
+     carbon
+     cherry
+     chromium
+     chrysoberyl
+     chrysoprase
+     citrine
+     clay
+     cobalt
+     copper
+     coral
+     diamond	
+     dragon tooth	 
+     ebony	
+     eggshell	  	 
+     electrum		
+     elm		 	
+     emerald		 
+     eucalyptus	 	 
+     fire opal			 
+     flint	 
+     fruit apple	       		 
+     fruit grapes	       		 
+     fur		 	 		 
+     garnet					 
+     gold					
+     glass		 			
+     granite	 			
+     graphite	 		 
+     hematite	 			 
+     iodine		 	 
+     iron		 	
+     ivory			 
+     jacinth	 			 
+     jade				 
+     jasper		 			 
+     lapis lazuli	 			 
+     lead		 		 
+     leather	 		 
+     magnesium				 
+     malachite	 			 
+     maple		 	
+     marble			
+     meat raw	  	 	
+     mercury		 
+     mithril		
+     moonstone	 	
+     nickel		 			 
+     oak		 			 
+     obsidian	 		 
+     onyx			
+     opal					 
+     palladium				 
+     pearl				
+     peridot	 		 
+     pewter		 			 
+     phosphorous		 		 
+     pine		 			     			
+     potassium		 		 
+     pyrite		 		
+     quartz		 		 
+     red	 		 
+     reed		  			 
+     rhodochrosite	 			 
+     rock crystal	 			 
+     ruby				 
+     sapphire			
+     sardonyx	 			 
+     shell		 		
+     silicon	 	      			 
+     sodium		 	 		 
+     spinel		 			 
+     star sapphire			 
+     star rose quartz 		 
+     star ruby				 
+     steel				 
+     stone		  		 
+     sulfur			 		 
+     teak		 			 
+     tiger eye	 		 
+     tin
+     titanium		 			 
+     topaz			 
+     tourmaline	 			 
+     turquoise				 
+     wax		 		
+     wicker		 		 
+     zinc					 
+     zircon	
+
+See help: OLC
+~
+
+
+36 reset~
+Usage: Reset <command> <number> <type> < v1 v2 v3 >
+
+Reset commands are: append, delete or list.
+Type is one of:  mobile, give, inventory, object, put or door
+
+
+To add in a reset, the number defaults to 0.
+
+Example: reset append 0 object 32 0 20
+
+Let's break it apart.
+
+Reset: Base command
+append: add the reset
+number: numbers the reset
+type: it is an object reset
+v1: object vnum
+v2: set to 0
+v3: room vnum that it pops.
+---
+
+To list the resets, type reset list 0.
+
+Example: reset list 0
+
+---
+
+To reset an area, type reset area <number>
+
+---
+
+To delete a reset, list them first, and then delete it by its number, you
+should get something like...
+
+Example:
+
+
+< 30  > reset list 0
+Log Xione: reset list 0
+1  O 43 43 32
+2  M 1 1 2
+3  M 5 2 3
+4  O 43 43 32
+5  M 5 2 3
+6  O 32 0 20
+7  O 32 0 20
+8  M 30 0 30
+
+You would then "reset delete 8" to remove reset 8.
+The values listed go: Number, Type, obj/mob vnum, unknown, roomvnum.
+
+More help to come.
+
+See helps: CLOAD XLOAD
+~
+
+
+39 shutdown~
+Usage: shutdown <code> (optional)
+
+Shutdown shuts down the mud, killing the startup script.
+This command can be used with the argument CODE to send the
+message "Reboot for code by yourname" used during the alpha stage.
+
+Example: Shutdown
+Example: Shutdown Code
+~
+
+
+40 punload~
+Usage: Punload <char>
+
+Punload forces a character to quit in their last -saved- room.
+This can be used to quit out a char who has an emergency, or is the
+following command for PLOAD.
+
+Again, do -NOT- force the character to save, punload does this for you.
+
+See helps: PLOAD
+~
+
+
+40 pload punload~
+Usage: pload <char>
+
+This command allows you to load up a character into the review room
+to modify their character.
+Do -NOT- force them to save after you modify them.
+
+See helps: PUNLOAD
+~
+
+
+0 Baazrag~
+Broad and muscled, 9 arms tall from toe to crown, baazrag tend to hunch
+when they stand (which is rare) over to a height of 5 feet, with a 
+large hump in their backs that diminishes as they are dehydrated.
+Baazrag typically use the knuckles of their hands as well as their
+feet when they walk or run.
+  Baazrag have been described as "600 stones of fur and muscle." 
+Generally they only stand to their full height when they are angered.
+Their skin is a mottled red and gray and a mop of dark hair runs from
+their foreheads all the way down to the backs of their thighs, but their
+faces and chests are scaled and hairless.  Their arms are disproportionatly
+large for their bodies, and their hands doubly so.  With three fingersand
+a thumb on each hand the baazrag has hands as large as a half-giant even
+though they stand less then half their height.  Because of their powerful
+legs muscles, they are often used to pull carts within the cities.
+
+Related help files:
+Baazrag_Society
+~
+
+
+0 Baazrag_Society~
+A distant cousin to the Athasian sloth is a wild creature, often domesticated
+for slave labor in the cities.  Although quite dull, the baazrag is sentient, 
+and some can understand the common tongue, although they approximate it
+poorly with their grunts, howls, and growls.  City baazrags understand the
+common speech and can learn and understand other languages over time; however
+they themselves cannot be understood, their throats and gullets make
+it difficult for them to eununciate words in the common speech, and other
+languages.
+  It takes much concentration and study for non-baazrags to comprehend
+the baazrag's garbled voice.  Nevertheless, some humanoids find the  
+skill worthwhile, since baazrags can be faithful and useful companions.
+Such people are known as "baazrag handlers" by the animal trade, and 
+can always find good employment as overseers and trainers.
+  In their wilderness packs, baazrags follow their druidic shaman    
+with a great deal of deference, not understanding the shaman's
+dealings with the elements and the spirits that in their beliefs
+run the world.  City-bred baazrags remain very superstitious, and
+believe almost anything that they are told about the supernatural.
+The most awesome displays of supernatural power tend to win their
+respect and submission.
+  In the cities, baazrags tend toward a brutish neutrality.  Baazrags
+raised in captivity tend to obey, and accept verbal abuse, but they
+will lash out violently when physically hurt, regardless of the
+consequences.  Only a fool flogs a baazrag.  Baazrags distinguish  
+each other's gender by scent, not by appearance, and certainly
+not by name, so their is no distinction between female and male
+Baazrag names.  Baazrags fear magic, but do not hate it - they
+have a fascination and curiosity with it, especially the showy kind.
+They have been known to gape and cheer in admiration at a fireball
+even when it is used against their allies.
+~
+
+
+0 Belgoi~
+Belgoi are a race of savage humanoids that live in the most desolate of
+places, since no other race will tolerate them nearby.  When seen from
+a distance, a belgoi appears human, but their blue skin, clawed hands,
+and webbed, three-toed feet soon give them away.  They have no teeth,
+no visible ears, and their hair is always black and stringy.  Belgoi
+seem to revel in destruction, and are considered to be second only to the
+defilers in the damage they can do to the world around them.
+
+Belgoi Society
+  Belgoi form large nomadic tribes that move into an area, strip it of
+all resources, and then move on.  These tribes send out raiding parties
+that attack caravans and small villages, hoping to obtain food and loot.
+They will eat anything but prefer the taste of the flesh of intelligent
+races.  Belgoi speak their own language, and the common tongue.
+~
+
+
+0 Braxat~
+Braxat are huge humanoids of mixed stock, mostly a combination of mammalian
+and reptillian.  They have a thick shell that covers their back, and have
+anywhere from three to five horny protrusions on the top of their head
+that protect their head and are used for attacking their targets.
+Braxat do walk upright, are able to speak with a clear, human voice, have
+opposable thumbs, and are warm-blooded.  Braxat can be found in most parts
+of Athas, usually hunting prey.  Mostly solitary creatures, sometimes
+they pick a mate, and bear some young.  The young are usually hidden away
+while the parents go in search of food for their offspring.  Braxat are
+the ultimate terrors of the desert and are usually nocturnal.  Braxat
+prefer intelligent prey, but will eat will caravan animals, or other
+mounts on occasion, all but kank that is, it is said that kank meat seems to unsettle
+their stomachs.  
+  Braxat shells can be used to make excellent shields and armor,
+usually crafted to create plate armor, because of the shell plating the
+natural shell takes on the braxat's back.  Because of this, braxat are sometimes
+hunted, but in most cases, the braxat is usually prepared for such
+things, and the hunted ends of becoming the hunter.  There is nothing known
+of the society of braxats.
+~
+
+
+0 Crodlu~
+Crodlu are large, flightless combinations of a bird and a reptile.  Resembling
+ostriches, they roam the wilderness in herds.  
+  Crodlu have wicked claws at the end of their long forearms, and so
+do their legs, which are naturally built for jumping great lengths.
+Crodlu also have a yellowish-red, scaly hide, with other similar
+colors along their sides and belly.  
+  Crodlu have very poor eyesight, but make up for it with an excellent
+sense of smell.  Crodlu have great endurance, almost better than a mul's 
+and can run at high speeds for long periods of time.  Female crodlu lay
+only one egg each year, when the chick hatches it is able run and fight
+within minutes, having a great appetite.  When it comes to feeding,  crodlu
+will eat anything, preferring to hunt live game when there is some
+around, over eatting just vegetables.  Crodlu herds have been seen
+with as many as 30 strong.  The herd leader is usually the largest, and
+will have more of a reddish scaly hide.  Crodlu make great mounts, but
+are hard to control and train as such most of the time unless they are caught
+as chicks and are trained as mounts as they are being raised.  
+~
+
+
+0 Dune Freak Anakore~
+The anakore are a race of dim-witted humanoids with bony, wedge-like heads,
+small ears pressed close to the sides of their heads, and sunken,
+beady eyes, they have a dorsal ridge running along their spine that  
+allows them to pick up vibrations travelling through the sand.  With it,
+they can detect creatures moving along the surface.  
+  Nearly all  anakore will attack their prey by burrowing underneath them, and
+striking from beneath with their sharp claws and poisonous bite.  Once the
+anakore's poison has had a chance to work, the dune freak will pull its
+victim under the sand, and let it suffocate.
+
+Anakore Society
+  The anakore usually live within sandy heaps, like dunes, or the
+alluvial fans at the mouths of canyons.  Normally they act in small packs  
+with the most aggressive acting as leader.
+~
+
+
+0 Erdlu~
+Erdlu are large, flightless birds, often used as livestock.  They can
+weigh up to two hundred stones, and stand almost seven arms tall.  Erdlu  
+are covered in thick, flexible, scale-like feathers, ranging in color from
+dust-gray to soft reddish-brown.  An erdlu's legs are long and strong, propelling
+it rapidly over the desert sands; the head, at the end of a long neck,
+is rounded with a wicked, wedge-shaped beak.  The omnivorous erdlu is
+a very common herd animal, with many uses.  Aside from its value as
+a meat animal, the erdlu's beak, wing scales, and claws, all find
+their way into various weapon heads and tools, and the egg of an erdlu
+is an excellent sourcee of food and water.  Cooked, a single egg can provide
+about three days' worth of food for a human.  Raw, the egg's liquid contents
+can be substituted for about one gallon of water.
+~
+
+
+0 Gaj~
+A gaj looks like a twisted cross between a spider, and a tortoise.
+From it's huge bulbous head, grow three large, feather-like antennae,
+six compound eyes, and a pair of powerful mandibles.  Its body is six
+arms in diameter and covered by a scaly, rust-orange shell.  Six
+four-joined legs, ending in webbed feet, sprout from beneath the
+shell.
+  Gaj are carnivores and require flesh to survive, but they also need to
+consume the mental energy of other sentient creatures to survive,
+because of this they are very rare.
+~
+
+
+0 Giants~
+Giants are huge, lumbering, and savage creatures that are said to live
+in the sandy wastes of Athas.  It is a well-known rumor around cities
+that the largest concentration of giants inhabit the islands of the
+Silt Sea, however this is just a rumor.  There are three major types
+of giant: beasthead, desert, and plains.
+
+Related help files:
+Help Beasthead, Help Desert_Giant, Help Plains_Giant
+~
+
+
+0 Beasthead~
+The smallest version of the giants of Athas, beasthead giants have
+humanoid bodies with the head of an animal or monster.  Most stand
+between twenty arms tall, and have very pale skin.  It is known that
+Beastheads love to throw rocks at their victims, and when they are
+out of 'ammunition' they sprint in for close combat.
+  Not much is known on the society of these giants, and where they live
+is speculation and only rumors  that they apparently live on islands
+in the Sea of Silt.
+
+Related help files:
+Help Giants, Help Desert_Giant, Help Plains_Giant
+~
+
+
+0 Currency~
+Don't know yet, here is what I have in mind.
+Ceramics
+Copper
+Silver
+Gold.
+Kind of shitty, but ceramics are going to be what the common players use 
+most.  Gold of course is the rarest, but will be abundant with some of
+the most powerful merchant houses.  
+100 ceramics = 1 copper
+100 coppers = 1 silver
+100 silver = 1 gold
+
+Simple, yet effective.
+-Delerak
+~
+
+
+0 Desert_Giant~
+Standing twenty to thirty arms tall, desert giants resemble massive
+humans.  Their features are exaggerated in some ways: may have huge
+noses, mouths, brows, chins, or ears.  The skin of a desert giant is
+dark, leathery and very thick, providing excellent protection against
+both weapons and the elements.  Most wear a minimum of clothing, no
+more then a loincloth and sandals.  The hair of desert giants is dark,
+coarse, and very strong, they often grow it in braids which are
+eventually cut and traded as rope.  The desert giant loves to throw
+spears, or even rocks, before entering melee combat.  
+ The society of desert giants is not well known.  But rumors tell that
+they raise herbs of kanks, and erdlus on one of the more arid islands of the Sea
+of Silt, and have limited trade with cities close by. 
+
+Related help files:
+Help Giants, Help Beasthead, Help Plains_Giant
+~
+
+
+0 Plains_Giant~
+Plains giants appear to be huge versions of elves.  Their twenty five
+to thirty arms of height is mostly in their legs and they have
+distinctly elven facial features.  Their skin is usually a dark red or
+brown.  And rumors say that they have fair hair and light blue or gray
+eyes.
+ Plains giants society is more well-known then the other giants.  They
+maintain more contact with other races then most giants.  They have
+been known to act as mercenaries for villages, merchant houses, and city-states.
+Rumor has it that they inhabit the less-rugged, brush-covered islands
+of the Silt Sea.  They produce food by gathering vegetation and
+herding kanks, and erdlus.
+~
+
+
+0 Measurement~
+I have an idea of the measurement I am going to use, since Darksun
+used the American feet, inches, etc, I am taking that as a base for
+now and using creativity to try and make a working system for the mud.
+
+
+Miles = ? Was thinking Mek but do not know...
+1/2 Mile = ?
+Feets  = Arms
+Inches = Thumbs
+
+Pounds  = Stones (simple and effective)
+Gallons = ?
+Pints   = ?
+Teaspoons, etc = ?
+
+Also, outside rooms will usually be estimated at 1/2 mile to a mile,
+city rooms are about 30 feet up to 50 feet (varied upon room) 
+Keep this in mind when building!  There are exceptions of course, but
+ask me if you are not sure.
+
+This is in the works, and ideas should be e-mailed to me, and would be
+appreciated.
+-Delerak
+dlaufenburg@tampabay.rr.com
+~
+
+
+0 Gith~
+Gith are a lanky race of reptillian humanoids that, when erect,
+stand close to seven feet tall, but who spend most of their time bent-
+over in a crouch that makes them appear to be only five feet tall.
+Their greenish-gray skin is hairless, and their lidless eyes are solid
+black with no visible iris or pupil.  Both their fingers and toes end
+in sharp claws.  Their lower jaw juts out in a pronounced under-bite.
+They have no teeth, but have sharp, bony ridges that they use to crush
+and grind their food.  Their powerful legs allow them to make great
+leaps, which they use to move about, walking in an awkward waddle only
+when they cannot jump or when sneaking up on prey.  Most gith
+encountered outside their homes are vicious warriors.  Gith combat
+tactics usually involve ambushes.  They prefer to have a distinct
+advantage in numbers, and so, attack in mass.  Their weapon of choice
+is usually an obsidian spear, but will use any weapon they have access
+to.  They disdain the use of ranged weapons, since they enjoy watching
+the pain and fear of their opponents.
+
+Related help files:
+Gith_Society
+~
+
+
+0 Gith_Society~
+Gith organize themselves into tribes, with the most powerful member as
+the leader.  All authority comes from the chief, whom has the power of
+life and death over any member in his tribe.  If the chief is killed,
+the strongest members of the tribe will fight to the death in order to
+determine who will be the new leader.  This trial-by-combat occurs
+immediately, even if the gith tribe is currently in the middle of a
+battle with another force.  Most gith tribes inhabit mountainous
+regions, coming down only to raid the villages of other humanoids, or
+to attack a passing caravan.  They are usually entertained by the
+suffering of others and with the prospect of a good meal, they will
+eat anything organic, and prefer meat.  Gith speak their own language,
+which has no alphabet but can be expressed in elvish script.
+~
+
+
+0 Inix~
+Inix are huge lizards, and are midway in size betwen a kank and a mekillot. 
+Inix weigh roughly three thousand stones and have been known to grow up to
+sixteen arms in length.  Inix make good mounts because of the amount
+of weight they can carry for their size and weight, which is two times the
+normal capacity.  In combat inix are fierce enemies, they can use
+their tails, and they will eventually try to bite, but it has been
+said they can swallow a halfling whole and will try to do so in
+combat.
+~
+
+
+0 Jozhal~
+Jozhal are small, lightly-built reptillian creatures which may be
+distinctly related to crodlu.  They have long, slender legs, lanky
+arms, ending in dextrous hands, and long, flexible, tails.  The neck
+of a jozhal is long and flexible, ending in a narrow-muzzled head with
+large eyes and needle-like teeth.  The skin is covered in many tiny
+scales, which are only visible in close examination, and can change
+color to match with or contrast against the creature's surroundings.
+Jozhals have precise control over their skin's color, and sometimes
+use it to create decorative patterns of color resembling tattoos.  
+  Jozhals avoid combat if at all possible, fleeing or using their
+chameleon-like skin to hide.  If forced into combat, a jozhal will
+attempt to defend itself first psionically, or with a spell which they
+have been known to use.  If they must, however, they will resort to
+simple bite attacks.
+
+Related help files:
+Jozhal_Society
+~
+
+
+0 Jozhal_Society~
+Jozhals are naturally shy and secretive creatures, and do not normally
+learn the languages of other races.  The leader of a family will learn
+the Common tongue, so that he or she may communicate with outsiders on
+the rare occasion that interaction is necessary.  When around those
+they do not know, especially other races, jozhals become much more
+withdrawn and are unwilling to even speak to outsiders unless
+necessary.  They will often travel days out of their way just to avoid
+encountering non-jozhal, especially elves and humans who they consider
+destructive.  If forced to interact with members of another race,
+jozhals will attempt to make the experience as short as possible.
+  Jozhals do not normally form permanent settlements.  Instead, they
+travel in nomadic family groups, traveling between the fertile areas
+of the Tablelands and Hinterlands, beyond the Ringing Mountains.
+These families forage for roots, nuts, and small reptiles and
+insects.  Jozhals always make use of every little bit of anything that
+they find, to the point of extremes, practicing cannibalism and
+fashioning bones of their dead into weapons and tools.  The only time
+a jozhal family will permanently settle in one area is when a member
+of that family becomes a Grove Master, and takes custody of those
+lands.   It is also a well known fact that jozhals are deeply suspicious of magic. 
+  Jozhal is a language composed of clicks, pops, and whistles.  Do to
+its unusual nature, many who are not familiar with jozhal will not
+even recognize it as a language.  The vast majority of jozhal do not
+keep a written form of their language.  
+~
+
+
+0 Kank Domestic~
+Many kanks roam wild across the the Tablelands, as well are herded.
+These large, docile insects have black chitinous exoskeletons, and are
+divided into three sections, head, thorax, and abdomen.
+There are three known kank types in Athas, Brood Queen, Worker, and
+Soldier.  Brood queens can weigh as much as five hundred stones, are
+five arms tall and around nine arms in length.  Workers can weigh as
+much as two hundred to three hundred stones, are three arms tall, and
+six to seven arms in length.  Soldiers can weigh as much as four
+hundred stones, are around four arms in height, and eight arms in
+length.
+  They can carry objects with their multi-jointed pincers, or use them
+in combat.
+  Soldier kanks are often used as caravan mounts, as they can travel
+for a full day at top speed, while carrying a tremendous amount of
+weight for their size.  They are also used as herd animals by elves
+and others, since they can thrive in any type of environment.  Plus
+they need little attention, as instinct drives them into organization.
+
+Related help files:
+Kank_Ecology, Kank_Society
+~
+
+
+0 Kank_Ecology~
+Workers are the only ones that produce kank honey.  Kank honey is a
+very sweet and fetches a high price.  It can sustain the food (but not
+water) requirements for a medium-sized creature for days.
+Kank exoskeleton can be used as armor, but it is very brittle and has
+to be treated properly to toughen it up some.  Exoskeletons are
+sometimes used for construction of chitin structures.
+~
+
+
+0 Kank_Society~
+Kank organize themselves into hives.  Worker kank secrete large
+globules of green honey, which is used to feed the young of the hive.  
+  Brood queens lay the eggs, usually twenty to fifty at a time.  The
+soldiers then fiercely defend the area until the eggs hatch.
+  Kank choose an area for egg laying which is near an abundant amounts
+  of vegetation for food.
+
+  A brood queen will avoid combat at all costs, unless all her
+soldiers and food producers are dead, and/or she is backed into a
+corner.
+  A worker only goes into combat when all the soldiers are dead and/or
+  they are backed into a corner.  
+  A soldier is the first line of defense for the hive.  It is a well
+known fact in Athas that soldier bites are poisonous.
+~
+
+
+0 Mekillot~
+Mekillots are mighty lizards that can weigh twelve thousand stones,
+with huge mound-shaped bodies that can easily reach thirty arms long.
+They are covered with a thick shell everywhere except for their sides
+and bellies.
+Mekillots are used as caravan beasts; a hitched pair can pull a full
+argosy at a slow pace.  Mekillots are never truly tamed, however, for
+the creatures have been known to go off the road and wander for days.
+  They also like to make snacks of their handlers.  Most caravans using
+these behemoths have a small team of psionicists to deal with the beasts.
+  In a fight, mekillots attack with their tongues, or they trample
+enemies underfoot.  A mekillot instinctively drops to the ground when
+something is underneath it, causing instant death or extreme damage to
+the victim.
+~
+
+
+0 Silk Wyrm~
+Silk wyrms, are large, flying, snake-like beasts that can reach over
+fifty arms in length, and have a hard chitinous shell that covers their
+body.  The dangerous silk wyrms spin their paralyzed victims into a silk cocoon.
+This silk casing is highly prized in most city-states because of it's
+resistance to fire, and is mostly used in the manufacture of silk
+clothing.
+~
+
+
+0 Tembo~
+The tembo is a savage predator that resembles a large hairless
+canine.  Its body is covered in loose folds of light, brown scaly
+hide, and measures about four arms long.  All four feet have
+razor-sharp claws, and large canines protrude from its upper jaw.  A
+tembo will eat anything, but prefers the children of sentient races.
+It is said that some very strong tembo have a psionic bite that can paralyze.
+~
+
+
+0 Ral Guthay~
+The two twin moons, Ral and Guthay are the key to the calender of
+Athas.  The merchants have a way of telling the month and days
+easily while others such as commoners and slaves could care less.
+Ral is the smaller, silver moon, propossed to be an unlucky sign if
+one is born under it.  Guthay is the larger, golden moon, said to be
+a very lucky ordeal if one is born under her light.
+
+Related help files:
+Calender, Time
+~
+
+
+0 email~
+Entering an email address at Darksun MUD is not optional and must be
+filled in to procede. At Darksun MUD, your email address will remain
+confidential within the staff, and will not be emailed under any
+circumstance in which you did not contact us first, or for the
+case of player/account applications and rejections. Darksun MUD
+does not solicitate emails to third parties and will keep all
+data on a protected server. To procede, you must enter a *valid*
+email address. If the email address is not valid, your player
+application request will be denied.
+
+
+~
+
+
+0 long_desc~
+Your long description is what people see when they walk into the room
+with you.  It should describe you briefly and physically.  It should
+not show excessive movement or activities.
+
+The long description should not refer to things in the room, such as walls,
+crowds, corners, etc.
+
+Example long descriptions:
+A tall human stands here, his brown eyes curious.
+A tanned, blue-eyed elf is standing here quietly.
+A burly, thick limbed dwarf stands carefully examining something nearby.
+
+The long description can be changed for roleplay with the command change ldesc.
+
+
+Related help files:
+Change
+~
+
+
+0 short_desc~
+Your short description is your 'action' description.  It is what people
+will see when they interact with you, fighting, socials, etc.
+
+If you type your name as your short description, the application will
+obviously be rejected.
+
+Example short descriptions:
+the bow-legged dwarf
+the lean, surly man
+the tall, deeply-tanned elf
+the brown-haired elven youth
+
+~
+
+
+0 namelist~
+Your namelist or keywords is the list of words another character can 
+refer to your character by.  Your name does not necessarily need to
+be one of them.  Nicknames and such should be placed here if you intend
+on using them in character.
+
+Example namelists:
+tall deeply tanned elf billy billybob
+burly thick bow bow-legged dwarf axe khazad
+lean surly human man tall
+
+~
+
+
+0 wear_locations~
+There are currently 17 wear locations.
+finger_l 
+finger_r 
+neck_1 
+neck_2 
+body 
+head 
+legs 
+feet 
+hands
+arms 
+shield
+about 
+waist 
+wrist_l 
+wrist_r
+wield
+hold 17
+~
+
+
+37 sector_types~
+inside 0
+city 1
+field 2
+forest 3
+hills 4
+mountain 5
+water_swim 6
+water_noswim 7
+unused 8
+air 9
+desert
+~
+
+
+37 exits_bits~
+is_door - 1
+closed - 2
+locked - 4
+secret - 64
+fence - 128
+wall - 256
+climb - 512
+~
+
+
+37 room_bits~
+dark - 1
+no_mob - 4
+indoors - 8
+quittable - 16384
+~
+
+
+37 container_bits~
+closeable - 1
+closed - 4
+locked - 8
+~
+
+
+37 item_applys~
+strength - 1
+dexterity - 2
+intelligence - 3
+toughness - 5
+mana - 12
+hps - 13
+move - 14
+hitroll - 18
+damroll - 19
+save_vs_spell - 24
+absorbption - 50
+channeling - 51
+~
+
+
+37 item_wears~
+These are the wearable location codes for olc.
+
+take - 1       (should be set on all takeable objects, e.g., not fountains)
+finger - 2
+neck - 4
+body - 8  (body armor)
+head - 16
+legs - 32
+feet - 64
+hands - 128
+arms - 256
+shield - 512
+about - 1024   (about body)
+waist - 2048
+wrist - 4096
+wield - 8192
+hold - 16384
+right wrist - 32768
+~
+
+
+37 item_extra~
+Extra affects that go on items.
+glow - 1
+hum - 2
+dark - 4
+locked - 8
+NOTAKE - 16 * Make sure to set this on things that can't be taken. *
+invisible - 32
+magic 64
+nodrop - 128
+blessed - 256
+noremove - 4096
+inventory - 8192   (for shopkeepers)
+~
+
+
+37 item_types~
+light - 1          v0: intensity   v1: v2: v3:
+scroll - 2         v0: power  v1-v3: spells
+wand - 3           v0: power  v1: charges  v2: max charges  v3: spell
+staff - 4          v0: power  v1: charges  v2: max charges  v3: spell
+weapon - 5         v0: v1: v2: v3: weapon bits
+treasure - 8       v0: v1: v2: v3:
+armor - 9          v0: slash  v1: bludgeon  v2: slash  v3: other
+potion - 10        v0: power  v1-v3: spells
+furniture - 12     v0: v1: v2: v3:
+trash - 13         v0: v1: v2: v3:
+container - 15     v0: can carry  v1: container bits  v2: key  v3:
+drink_con - 17     v0: max  v1: amount  v2: liquid  v3: poison (0 = not poison)
+key - 18           v0: v1: v2: v3:
+food - 19          v0: amount of food  v1: v2: v3: poison
+money - 20         v0: cp  v1: sp  v2: gp  v3:
+boat - 22          v0: v1: v2: v3:
+corpse - 23        v0: v1: v2: v3:  (skin objects.  not implemented)
+fountain - 25		dont use fountains without authorization
+pill - 26          v0: power  v1-v3: spells
+jewelry 30         v0: v1: v2: v3:  (random parameters.  not implemented)
+lock picks - 31    v0: level of pick  v1: v2: v3:
+building - 50      v0: room led to  v1: v2: v3:
+window - 51        v0: v1: v2: v3:
+controls - 52      v0: object it controls  v1: v2: v3:
+~
+
+
+37 act_bits~
+This is a list of act bits for mobiles.
+is_npc - 1   (must always be set)
+sentinel - 2		doesnt move
+scavenger - 4		picks stuff up
+aggressive - 32		(unused.  set aggressive bits)
+stay_area - 64		wont leave the zone
+wimpy - 128		runs away when moshed
+holds grudges - 256	begins fighting anyone who attacks
+shopkeeper - 1024	sells/buys shit
+~
+
+
+37 affect_bits~
+This is a list of affect bits for mobiles.
+invisible - 2
+detect_invis - 8
+detect_hidden - 32
+sanctuary - 128
+infrared - 512
+curse - 1024
+poisoned - 4096
+protection_from_evil - 8192
+sneak - 32768
+hide - 65536
+flying - 524288
+ethereal - 1048576
+~
+
+
+37 aggressive_bits~
+This is a list of aggressive bits for mobiles.
+all - 1		attacks anyone and everone
+smaller - 2	attacks smaller people more often than bigger
+wounded - 4	attacks wounded people first
+racial - 8	attacks people of hated races first
+clan - 16	attacks anyone not of it's clan
+bandit - 32	attacks humanoids (not implemented)
+predator - 64	attacks 'prey' (not implemented)
+long distance - 128	charges from next room
+~
+
+
+37 color_bits~
+These are the OLC numbers for color bits.
+black              1
+white              2
+red                4
+orange             8
+yellow            16
+green             32
+blue              64
+purple           128
+silver           256
+gold             512
+brown           1024
+light           2048
+dark            4096
+transparent     8192
+translucent    16384
+~
+
+
+37 material~
+The material command checks the properties of the material argument
+given.  There are more than 100 existing materials currently, but most
+of them aren't really needed for most areas.  (A lot of them are
+potential spell components and gemstones.)
+
+The most common materials used should probably  be:
+bronze
+leather
+pine    (perhaps a different wood.)
+
+Especially strong or valuable materials should not be used very often.
+Obvious examples are diamond, gold, and steel.
+
+Lots of types of semi-precious stones exist for making jewelry, so
+use zircon instead of diamond etc. unless diamond is really necessary.
+~
+
+
+37 cload~
+Cload creates a reset entry for an already existing mobile.
+So if you have a mobile named guard in the room with you,
+type:
+     cload guard
+and the guard will be added to the reset list.
+
+If the mobile is already linked to a reset, it will create a duplicate
+mobile and create a reset link to the new mobile.
+~
+
+
+37 olc~
+olc - on line creation
+On Line Creation consists of the following commands:
+For rooms:
+.     break, collapse, connect, dig, exset, rextra, rdesc, rset
+
+For mobs:
+.     mpset, newmob, vmob
+
+For objects:
+.     opset, newobj, vobj
+
+For resets:
+.     reset, cload
+
+For text manipulation:
+.     note, nmodify, import, export
+
+For information:
+.     material
+
+Related help files:
+help act_bits, help affect_bits, help aggressive_bits 
+help color_bits, help container_bits, help exits_bits 
+help item_applys, help item_extra, help item_types 
+help item_wears, help room_bits, help sector_types 
+help wear_locations
+~
+
+
+37 dig~
+Dig is used to create a new room.
+
+It can be used to either create a connected room by supplying a
+direction, or to create a separate room with the argument
+'new'.  e.g.,
+dig new 10000
+dig north 10001
+
+Dig can also be used to list the vnums used in a certain area by
+typing.
+Dig List.
+~
+
+
+0 set~
+Syntax:  set <option> <value>
+Currently your pagelength can be set.
+~
+
+
+0 prompt~
+Syntax:  prompt <desired format>
+Example:  prompt %h %m %v>
+
+Variables:
+%h - current hits, %H max hits
+%m - current mana, %M max mana
+%v - current move, %V max move
+%t - current stun, %T max stun
+%i - invisible state (* if invis, nothing if visible)
+%I - Wizinvis state, shows -invis- (immortal only)
+%r - room name, %R room vnum (immortal only)
+%z - area name (immortal only)
+%% - display a '%'
+~
+
+
+-1 DIKU~
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+                     Additional contributions from:
+
+Michael Curran  - the player title collection and additional locations.
+Ragnar Loenn    - the bulletin board.
+Bill Wisner     - for being the first to successfully port the game,
+                  uncovering several old bugs, uh, inconsistencies,
+                  in the process.
+
+And: Mads Haar and Stephan Dahl for additional locations.
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+
+~
+
+
+-1 MERC~
+[Note: this entry may not be removed or altered.  See our license.txt.]
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  Merc 2.1
+is available as Merc_21.tar.gz from ftp.tcp.com and ftp.math.okstate.edu.
+E-mail to 'merc-request@kpc.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+Share and enjoy.
+~
+
+
+-1 WIZLIST~
+The Staff of Darksun                     
+
+[Staff Overseer]
+Delerak                                     
+				  
+[Staff] 
+Thalladorn Parthenon
+Mopo Anira
+Vicks Lazloth
+				 
+		                                
+Retired or inactive.
+Linedel Flux 
+Desaris Xione                                                                                                                                       
+
+~
+
+
+35 Staff~
+Brief overview of the staff.
+
+Delerak: Founder, Building, Hosting (dlaufenburg@tampabay.rr.com)                                                                                              
+Thalladorn: Builder         (ibusoe@yahoo.com)
+Parthenon: Builder (Tyr)    (growing_all@hotmail.com)
+Anira: Builder (items)      (tipsy.tinkerbell@gmail.com)
+Vicks: Builder (balic)      (chenghaowei@gmail.com)            
+
+~
+
+
+-1 GREETING~
+8 888888888o.            .8.          8 888888888o.   8 8888     ,88' 
+8 8888    `^888.        .888.         8 8888    `88.  8 8888    ,88'  
+8 8888        `88.     :88888.        8 8888     `88  8 8888   ,88'   
+8 8888         `88    . `88888.       8 8888     ,88  8 8888  ,88'    
+8 8888          88   .8. `88888.      8 8888.   ,88'  8 8888 ,88'     
+8 8888          88  .8`8. `88888.     8 888888888P'   8 8888 88'      
+8 8888         ,88 .8' `8. `88888.    8 8888`8b       8 888888<       
+8 8888        ,88'.8'   `8. `88888.   8 8888 `8b.     8 8888 `Y8.     
+8 8888    ,o88P' .888888888. `88888.  8 8888   `8b.   8 8888   `Y8.   
+8 888888888P'   .8'       `8. `88888. 8 8888     `88. 8 8888     `Y8. 
+                                               
+   d888888o.   8 8888      88 b.             8 
+ .`8888:' `88. 8 8888      88 888o.          8 
+ 8.`8888.   Y8 8 8888      88 Y88888o.       8 
+ `8.`8888.     8 8888      88 .`Y888888o.    8 
+  `8.`8888.    8 8888      88 8o. `Y888888o. 8 
+   `8.`8888.   8 8888      88 8`Y8o. `Y88888o8 
+    `8.`8888.  8 8888      88 8   `Y8o. `Y8888 
+8b   `8.`8888. ` 8888     ,8P 8      `Y8o. `Y8 
+`8b.  ;8.`8888   8888   ,d8P  8         `Y8o.` 
+ `Y8888P ,88P'    `Y88888P'   8            `Yo 
+
+
+
+Options:
+C - Connect to your character.
+E - Enter the game.  (after connecting)
+R - Create a new character.
+X - Exit the system
+
+What is your choice: ~
+
+
+-1 greeting2~
+Options:
+E - Enter the game.
+X - Exit the system.
+
+What is your choice: ~
+
+
+-1 greeting3~
+Your character hasn't been reviewed yet, please allow 24 hours or less for
+character approval.
+~
+
+
+-1 MOTD~
+Last MOTD change: May 26th, 2006
+Welcome to Darksun MUD: Clash of the Sorceror Kings!
+We are currently in development and are seeking dedicated staff members
+to help us build this great world. Whether your talents be in building,
+programming, roleplaying, administration or an encouragement, we have a place for you.
+
+If this interests you, please mail staff@darksunkings.com with your information
+and we'll get back to you soon.
+
+[Press enter to continue]
+~
+
+
+36 IMOTD~
+Please register your forums account and inform xione of your username to be
+granted access to the staff portion of the forums.
+
+Room 1 is the "staff hangout" You'll find links to the review room and
+other info there, plus a cool room to hang in for discussing ooc topics.
+
+**********************************************************************
+
+*($*(#@)$*)(@#$_RANDOM PUNCTUATION TO GET ATTENTION *()#*()#*()*()%*()@#*($
+
+If you didn't read the note on the Dark Sun boards about the code
+replacement, do so.  DSK was replaced, at least temporarily, with
+a base SQ release.  The intent is to validate that the login crash
+bug is actually out of the SQ tree.
+
+Please post anything you see missing in the thread in the code forum.
+
+*($*(#@)$*)(@#$_RANDOM PUNCTUATION TO GET ATTENTION *()#*()#*()*()%*()@#*($
+
+**********************************************************************
+~
+
+
+36 holylist holywalk holyname holy~
+Holylist will show On/Off status of all holys.
+Holywalk allows the immortal to go through any door/wall regardless of
+any code.
+Holyvnum will show the vnums of rooms before their name, and objects
+before their sdesc.
+Holylight will give the immortal detections on everything such as
+invis, hiding, and will allow the immortal to move through rooms with
+no delay.
+Holyname will show the names of all characters/immortals in the look
+command, on any channel, as well as says, etc.
+Holyspeech gives the immortal all languages.
+~
+
+
+-1 NEWS~
+No news right now... everything is being put in help changes.
+~
+
+
+-1 RUNEQUEST~
+Elements of the skill and combat systems used in this game were
+partially derived from the Runequest gaming system, copyright by
+Chaosium Inc.
+
+For more information on these, point your web browser to:
+http://www.sirius.com/\~chaosium/chaosium.html
+
+or write to:
+
+CHAOSIUM INC.
+950A 56th St.
+Oakland, CA 94608-3129
+
+~
+
+
+-1 SUMMARY~
+SEE 'HELP INDEX' FOR A COMPLETE LIST OF HELPS AVAILABLE
+
+MOVEMENT                          GROUP
+north south east west up down     follow group gtell split
+exits sleep wake rest stand
+
+OBJECTS                           INFORMATION / COMMUNICATION
+get put drop give sacrifice       help credits areas commands socials
+wear wield hold                   report score time weather where who
+recite quaff use                  channels config description password title
+lock unlock open close pick       auction chat music question answer shout yell
+inventory equipment look compare  emote pose say tell
+eat drink fill                    bug idea typo
+list buy sell value               note
+
+COMBAT                            OTHER
+kill flee kick rescue disarm      ! save quit
+backstab cast
+
+For more help, type 'help <topic>' for any command, skill, or spell.
+Also help on: CHANGES DAMAGE DEATH NEWS STORY WIZLIST
+~
+
+
+0 !~
+Syntax: !
+
+! repeats the last command you typed.
+~
+
+
+0 NORTH~
+Syntax: north
+
+Moves your character north.
+~
+
+
+0 SOUTH~
+Syntax: south
+
+Moves your character south.
+~
+
+
+0 EAST~
+Syntax: east
+
+Moves your character east.
+~
+
+
+0 WEST~
+Syntax: west
+
+Moves your character west.
+~
+
+
+0 UP~
+Syntax: up
+
+Moves your character up.
+~
+
+
+0 DOWN~
+Syntax: down
+
+Moves your character down.
+~
+
+
+0 cast~
+Syntax: cast <spell> <target>
+note: This system is going to be re-done, re-hashed, and far more
+advanced in the near future. 
+-Delerak
+
+The <target> is optional.  Many spells which need targets will use an
+appropriate default target, especially during combat.
+
+If the spell name is more than one word, then you must quote the spell name.
+Example: cast 'cure critic' frag.  Quoting is optional for single-word spells.
+You can abbreviate the spell name.
+
+When you cast an offensive spell, the victim usually gets a saving throw.
+The effect of the spell is reduced or eliminated if the victim makes the
+saving throw successfully.
+
+Spell proficiencies are given to you when you choose your character class.
+How accurately you cast a spell improves through failure.  How powerful
+and how much mana drain it takes of you improve through success.
+
+It may be possible to gain new spellls from certain objects, teachers,
+and through other methods...
+
+See also the help sections for individual spells.
+~
+
+
+0 exits~
+Syntax: exits
+
+Tells you the visible exits of the room you are in.  Not all exits are visible.
+~
+
+
+0 drop~
+Syntax: drop <object>
+Syntax: drop <amount> coins
+
+Drop drops an object, or some coins, on the ground.
+
+Drop, understands the object names 'ALL' for all objects and
+'ALL.object' for all objects with the same name.
+~
+
+
+0 take get~
+Syntax: take  <object>
+Syntax: take  <object> <container>
+
+Take takes an object, either lying on the ground, or from a container, or even
+from a corpse.  Get is a synonym for take.
+
+Take, understands the object names 'ALL' for all objects and
+'ALL.object' for all objects with the same name.
+~
+
+
+0 give~
+Syntax: give <object> <character>
+Syntax: give <amount> coins <character>
+
+GIVE gives an object, or some coins, to another character.
+~
+
+
+0 put~
+Syntax: put <object> <container>
+Syntax: put N <coins> <container>
+
+put either puts an object, or a pile of N coins in a container.
+N support may be changed to allow putting N <objects> at once,
+but does not presently support that.  (e.g., put 2 dagger pouch
+will put a single dagger in the pouch.)
+~
+
+
+0 equipment~
+Equipment lists your worn and used items (armor, weapons, and held items).
+~
+
+
+0 inventory~
+Inventory shows the items you are carrying that are not being worn or used.
+~
+
+
+0 backstab~
+Syntax: backstab <character>
+
+Backstab is used by those of the stealthy arts to initiate a fight
+by placing their short blade into the back of their intended victim.
+This skill usually enables the striker to do significantly more damage
+than normal with the weapon being used.
+~
+
+
+0 disarm~
+Disarm will attempt to disarm whomever you are fighting.  Disarm
+requires a weapon suitable for disarming.  Examples are a pitchfork,
+or a main-gauche (parrying dagger).  Disarm is also based on your proficiency
+in disarming, and both character's strengths.
+Your ability to disarm improves through use.
+~
+
+
+0 kill~
+Kill is the primary command to start combat.  Nothing fancy, just
+starts you fighting...
+Examples:
+	kill rip   (bad idea)
+	kill fido
+~
+
+
+0 kick~
+Kick is effectively an extra attack.  It's effectiveness and damage
+improve with use.
+~
+
+
+0 bash~
+Bash is an attempt to knock your opponent to the ground.  This will make
+them unable to do basic activities for a few moments depending on the
+success of your bash and your skill at bashing.  Bash requires a weapon
+and shield to use.  Bash's effectiveness and the amount of time the opponent
+remains bashed improve with use.
+~
+
+
+0 flee~
+Flee is the usual way to leave combat.  You will not be able to choose
+in which direction you flee.
+~
+
+
+0 rescue~
+A character with the rescue skill may get other characters out of combat
+by rushing in to fight the foe themself.  The effectiveness of a rescue
+attempt improves with use.
+~
+
+
+0 look~
+Syntax: look
+Syntax: look    <object>
+Syntax: look    <character> [peek]
+Syntax: look    <direction>
+Syntax: look    <keyword>
+Syntax: look in <container>
+Syntax: look in <corpse>
+
+Look looks at something and sees what you can see.
+If you look (direction) depending on the range of vision for your race you will see a certain number of rooms away, including any PCs, NPCs in those rooms, as well as larger objects.
+
+The peek argument attempts to see more of a somebody's belongings.  See help peek.
+~
+
+
+0 order~
+Syntax: order <character> command
+Syntax: order all command
+note: This will change in the near future, and will be mainly used in clans and military organizations.  
+-Delerak
+
+ORDER orders one or all of your charmed followers (including pets) to
+perform any command.  The command may have arguments.  You are responsible
+for the actions of your followers, and others who attack your followers
+will incur the same penalty as if they attacked you directly.
+
+Most charmed creatures lose their aggresive nature (while charmed).
+~
+
+
+0 tell GTELL ; REPLY SAY~
+Syntax: gtell <message>
+Syntax: say   <message>
+Syntax: tell  <character> <message>
+
+All of these commands send messages to other players.  GTELL sends a message to
+all of the characters in your group, wherever they are, even if they are
+sleeping or stunned or dying.  ';' is a synonym for GTELL.
+
+SAY sends a message to all awake players in your room.  The single quote '''
+is a synonym for SAY.
+
+TELL sends a message to one awake player anywhere in the world.
+
+REPLY sends a message to the last player who sent you a TELL.  REPLY will work
+even if you can't see the player, and without revealing their identity.  This
+is handy for talking to invisible or switched immortal players.
+~
+
+
+0 note~
+Syntax: note list
+Syntax: note read    <number>
+Syntax: note read    all
+Syntax: note +       <message>
+Syntax: note subject <string>
+Syntax: note to      <to-list>
+Syntax: note clear
+Syntax: note show
+Syntax: note post
+Syntax: note remove  <number>
+
+NOTE LIST lists notes which you can read.  NOTE READ reads one or all notes.
+
+NOTE SUBJECT sets the subject line of a new note.  NOTE TO sets the list of
+recipients.  The recipient ALL means all players, and the recipient IMMORTAL
+means all immortals.  Use NOTE + to write message lines onto the note, one line
+at a time.  NOTE SHOW shows your note in progress; NOTE CLEAR starts over.
+
+NOTE POST posts your note for reading.  Posting is not automatic.
+
+NOTE REMOVE removes the entire note if you are the sender, or just removes you
+from the to-list if you are a recipient.
+~
+
+
+0 nmodify~
+Syntax: nmodify format [line]
+Syntax: nmodify sentence [line]
+Syntax: nmodify tab <line>
+Syntax: nmodify untab <line>
+Syntax: nmodify delete <line>
+Syntax: nmodify insert <line> <text>
+
+nmodify is used for modifying the note you currently have in progress.
+
+nmodify format fixes the formatting of the note such that no line is
+greater than 72 characters in length.  It recognizes tabs as paragraph
+breaks.
+
+nmodify sentence breaks the text by sentences so they can be re-paragraphed
+or deleted as appropriate.
+
+nmodify tab and untab add or delete a tab from the beginning of the line.
+
+nmodify delete removes the line specified.
+
+nmodify insert adds text after the line specified.  (0 for beginning)
+~
+
+
+0 shout chat~
+Syntax: chat     <message>
+Syntax: shout    <message>
+
+These commands send messages through communication channels to other players.
+
+CHAT, sends messages to all
+interested players.  '.' is a synonym for CHAT.
+
+SHOUT sends a message to all awake players within your area.
+
+You can use the CHANNELS command to hear, or not hear, any of these channels.
+~
+
+
+0 emote pemote~
+Emote and pemote are used to express actions.
+
+Several punctuation characters may be used to specify characters or
+objects in the room.
+
+      
+     Symbol     Reference    Target 
+     ___________________________________
+       \~  	              you
+	% 	's            your
+	! 	him/her       you
+	^ 	his/her       your
+	# 	he/she        you
+       \~                     obj
+       
+
+The emote system is still being worked on.
+~
+
+
+0 Athas~
+The endless wastes...The burning sand...The crimson sun...This is the
+world of Athas, the world of the Dark Sun campaign setting. Athas'
+savage, primal landscape is the result of long centuries of ecological
+and magical abuse. The world is dying. It breathes its last gasps as
+water turns to silt, grasslands become sandy wastes and jungles decay
+into stony barrens. Still, life finds a way to endure even in these 
+hellish conditions. In fact, it thrives.
+
+Athas is a place of contrasts. Bleak deserts exist beside verdant
+belts, rocky badlands give way to thick forests, and scrub plains
+surroud opulent oases. These contrasts go beyond envrionmental
+conditions. Magic, for example, is relativly scarce and universally 
+feared, while psionic powers are a common and accepted part of life.
+
+Water is more precious than gold in this resource-depleted world, and 
+metals of all sorts are likewise in short supply. Except for heat and
+sun, blood and dust, few things can be found in abundance.
+
+Children growing up beneath the crimson sun don't aspire to become
+heroes. True heroes who champion causes or seek to make the world 
+a better place are as rare as steel on Athas. Living to see the next
+dawn is more important than defending a set of beliefs, so survival 
+ultimately motivates all living creatures- not virtue or righteousness.
+
+Today, Athas rushes toward its future. If the course of destruction is 
+to be diverted, if Athas is to be restored, then more heroes must grab 
+the reins of destiny and give Athas a new hope. 
+~
+
+
+0 HOLD REMOVE WEAR WIELD~
+Syntax: hold   <object>
+Syntax: remove <object>
+Syntax: wear   <object>
+Syntax: wear   all
+Syntax: wield  <object>
+
+Three of these commands will take an object from your inventory and start using
+it as equipment.  HOLD is for light sources, wands, and staves.  WEAR is for
+armor.  WIELD is for weapons.
+
+WEAR ALL will attempt to HOLD, WEAR, or WIELD each suitable item in your
+inventory.  (WEAR ALL does not work right now)
+
+You may not be able to HOLD, WEAR, or WIELD an item if its alignment does not
+match yours, if it is too heavy for you, or if you are not experienced enough
+to use it properly.
+
+REMOVE will take any object from your equipment and put it back into your
+inventory.
+~
+
+
+0 CHANNELS~
+Syntax: channels
+Syntax: channels +<channel>
+Syntax: channels -<channel>
+
+With no options, CHANNELS shows you your current channels.  With a plus or
+minus sign and an option, CHANNELS turns that channel on or off.
+~
+
+
+0 CONFIG~
+Syntax: config
+Syntax: config +<option>
+Syntax: config -<option>
+
+This command configures some of your character behavior.  With no options,
+CONFIG shows you your current settings.  With a plus or minus sign and
+an option, CONFIG turns that option on or off.
+
+The options are:
+
+    AUTOEXIT  You automatically see exits.
+    BLANK     You have a blank line before your prompt.
+    BRIEF     You see brief descriptions only.
+    COMBINE   You see object lists in combined format.
+    PROMPT    You have a prompt.
+    TELNETGA  You receive a telnet GA sequence.
+~
+
+
+0 BUG IDEA TYPO~
+Syntax: bug <message>
+Syntax: idea <message>
+Syntax: typo <message>
+
+These commands will take your message and record it into a file as feedback
+to the mud implementors.   I even changed em so they go into the log!
+End up in two places, make me read em twice!!
+~
+
+
+0 CREDITS~
+Syntax: credits
+
+This command shows the list of the original Diku Mud implementors.
+~
+
+
+0 REPORT TIME WEATHER~
+Syntax: report
+Syntax: time
+Syntax: weather
+
+REPORT shows your current statistics to you and also announces them to other
+players in the room.
+
+TIME shows the game time, as well as the time the mud was last started,
+and the current local time for the host computer.
+
+WEATHER shows the current game weather.
+~
+
+
+0 AREAS COMMANDS SOCIALS~
+Syntax: areas
+Syntax: commands
+Syntax: socials
+
+AREAS shows you all the areas in the game, with the author's name and the
+suggested levels.  The suggested levels, of course, are full of shit.
+
+COMMANDS shows you all the (non-social) commands available to you.
+
+SOCIALS shows you all the social commands available to you.
+~
+
+
+0 WHO~
+Syntax: who
+Syntax: who <level-range>
+Syntax: who <class>
+Syntax: who <class> <level-range>
+
+WHO shows the people currently in the game.  Some people may choose to
+remain unseen and won't appear on the WHO
+~
+
+
+37 WHERE~
+Syntax: where
+Syntax: where <character>
+
+WHERE with an argument tells you the location of one character with that name,
+including monsters, anywhere in the world.
+~
+
+
+0 HELP~
+Syntax: help
+Syntax: help <keyword>
+
+HELP without any arguments shows a one-page command summary.
+
+HELP <keyword> shows a page of help on that keyword.  The keywords include
+all the commands, spells, and skills listed in the game.
+~
+
+
+0 description~
+Your description is what other characters see when they 'look' at you.
+In general, it should be 4 to 10 lines long.  The description should
+be totally physical.
+
+If the description has specific clothing or armor in it, the character
+will be rejected.  If it has movements, such as looking back at the
+person looking at you, it will be rejected.  It it has unnatural things,
+such as a face shrouded in darkness, or bright glows behind the eyes,
+it will be rejected.
+
+You should not refer to your name in your description, rather, you should
+use things like 'the elf'.  Do not refer to feeling generated by looking
+at the character, e.g., no 'aura of danger' etc.  The description should
+not refer to things that might be in the room, such as stands in the
+corner, away from crowds, etc.
+
+The description will be stopped at 900 characters.
+
+~
+
+
+0 PASSWORD~
+Syntax: password <old-password> <new-password>
+
+PASSWORD changes your character's password.  The first argument must be
+your old password.  The second argument is your new password.
+
+The PASSWORD command is protected against being snooped or logged.
+~
+
+
+0 WIMPY~
+Syntax: wimpy
+Syntax: wimpy <number>
+
+WIMPY sets your wimpy value.  When your character takes damage that reduces
+your hit points below your wimpy value, you will automatically attempt to flee.
+
+WIMPY with no argument sets your wimpy value to 20% of your maximum hit points.
+~
+
+
+0 LOCK UNLOCK PICK~
+Syntax: lock   <object|direction>
+Syntax: unlock <object|direction>
+Syntax: pick   <object|direction>
+
+LOCK and UNLOCK lock and unlock a closed object or door.  You must have
+the requisite key to LOCK or UNLOCK.
+
+PICK can open a lock without having the key.  In order to PICK successfully,
+you must have the appropriate tools.
+~
+
+
+0 OPEN CLOSE~
+Syntax: open   <object|direction>
+Syntax: close  <object|direction>
+
+OPEN and CLOSE open and close an object or a door.
+~
+
+
+0 DRINK EAT FILL~
+Syntax: drink <object>
+Syntax: eat   <object>
+Syntax: fill  <object>
+
+Self explanatory?
+
+FILL fills a drink container with water.
+~
+
+
+0 BUY LIST SELL VALUE~
+Syntax: buy   <object>
+Syntax: list
+Syntax: list  <object>
+Syntax: sell  <object>
+Syntax: value <object>
+
+BUY buys an object from a shop keeper.
+
+LIST lists the objects the shop keeper will sell you.  LIST <object> lists
+just the objects with that name.
+
+SELL sells an object to a shop keeper.
+
+VALUE asks the shop keeper how much he, she, or it will buy the item for.
+~
+
+
+0 SACRIFICE~
+Syntax: sacrifice <object>
+
+SACRIFICE offers an object to your God.  God may reward you for the sacrifice.
+The nature of the reward depends upon the type of object.
+~
+
+
+0 quaff recite~
+Syntax: quaff    <potion>
+Syntax: recite   <scroll> <target>
+
+QUAFF quaffs a magical potion (as opposed
+to DRINK, which drinks mundane liquids).  RECITE recites a magical scroll; the
+<target> is optional, depending on the nature of the scroll.
+~
+
+
+0 CONSIDER~
+Syntax: consider <character>
+
+CONSIDER tells you what your chances are of killing a character.
+Of course, it's only a rough estimate.
+~
+
+
+0 HIDE SNEAK VISIBLE~
+Syntax: HIDE
+Syntax: SNEAK
+Syntax: VISIBLE
+
+If you successfully HIDE, then other characters can't see you.
+This is checked each time a character attempts to see you.
+
+SNEAK turns on or off whether you are trying to move silently.  This
+is checked each time you move.
+
+VISIBLE cancels your hiding and sneaking, as well as any invisibility,
+making you visible again.
+~
+
+
+0 QUIT RENT SAVE~
+Syntax: QUIT
+Syntax: RENT
+Syntax: SAVE
+
+QUIT leaves the game, but leaves your items behind in the room you quit in.
+
+RENT will allow you to leave the game and keep your equipment.  You must
+rent in a room designated as a reception.
+
+SAVE will save your character and equipment.  You must have at least 2
+hours playing time to save.
+~
+
+
+0 SPLIT~
+Syntax: SPLIT <amount>
+
+SPLIT splits some gold between you and all the members of your
+group who are in the same room as you.
+~
+
+
+0 STEAL~
+Syntax: steal <object>
+Syntax: steal <object> <object>
+Syntax: steal <object> <character> [worn]
+Syntax: steal <object> <character> <object>
+
+Steal attempts to acquire an object.  If no character is specified,
+it attempts to steal from the room.  Where two objects are specified,
+it attempts to steal the first object from the second, which in the
+case of a character, may be a worn container.  If the worn keyword
+is appended to a command, it will attempt to steal worn equipment.
+Stealing worn equipment is assumed on sleeping victims.
+
+Note that it is more difficult to steal from a character's belt.
+It is even more difficult to steal from one of their worn packs.
+It is almost impossible to steal worn equipment.
+~
+
+
+0 PRACTICE~
+Syntax: PRACTICE
+
+PRACTICE has been removed.  Skills are either given to you as a new
+character, or an appropriate teacher, or book must be found to
+impart the new knowledge.  the SKILLS command now lists your skills.
+~
+
+
+0 SKILLS~
+Syntax: SKILLS <type>
+
+SKILLS will list your skills of a given type.  Possible types are:
+all
+combat
+handling
+stealth
+spells
+~
+
+
+40 ADVANCE~
+Syntax: advance <character> <level>
+
+ADVANCE sets a character's level to the specified value.  It is the
+only way to create new immortal characters within the game.  ADVANCE
+may also be used to demote characters.
+~
+
+
+40 TRUST~
+Syntax: trust <character> <level>
+
+TRUST sets a character's trust to the specified level.  This is similar to
+advancing the character for accessing immortal commands, but has no effect
+on combat strength, et cetera.  You can give more trust to mortal (or
+immortal) characters to give them access to more power without messing up
+the character.  You can also restrict a player's trust to less than their
+natural level.
+
+A trust of 0 means to use the character's natural level again.
+~
+
+
+39 ALLOW BAN~
+Syntax: allow   <site>
+Syntax: ban     <site>
+Syntax: ban
+
+BAN <site> prohibits players from that site from logging in.  BAN with
+no arguments lists the banned sites.  ALLOW <site> removes a site from
+the ban list.
+
+The site ban test works by suffix comparison, so if you ban 'foo.edu',
+all sites within 'foo.edu' are banned as well.
+
+Site bans are not saved; every time the server is rebooted, the site
+ban list is cleared.  
+~
+
+
+39 REBOOT SHUTDOWN WIZLOCK~
+Syntax: reboot
+Syntax: shutdown
+Syntax: wizlock
+
+REBOOT shuts down the server.  When the normal 'startup' script is used
+to control the server, a delay of sixty seconds will ensue (to allow
+old connections to die), followed by a reboot.
+
+SHUTDOWN shuts down the server and prevents the normal 'startup' script
+from restarting it.
+
+WIZLOCK is a toggle command.  When the server is WIZLOCKed, players
+below level 36 may not log in.  Players who lose their links, however,
+may reconnect.
+~
+
+
+39 DENY DISCONNECT FREEZE~
+Syntax: deny       <character>
+Syntax: disconnect <character>
+Syntax: freeze     <character>
+
+DENY denies access to a particular player and throws them out of the game.
+DENY is permanent (persists across reboots) and is not undoable from within the
+game.  Only someone with access to the player files directory may repeal a
+DENY by editing the appropriate player file.
+
+DISCONNECT <character> immediately disconnects that character.
+
+FREEZE <character> is a toggle which prevents a character from issuing any
+commands at all.
+~
+
+
+39 FORCE~
+Syntax: force <character> <command>
+Syntax: force all <command>
+
+FORCE forces one character to execute a command.
+
+FORCE 'all' forces all player characters to execute a command.
+This is typically used for 'force all save'.
+~
+
+
+39 USERS~
+Syntax: users
+
+USERS reports all of the visible users connected to the server, including users
+in the process of logging in.  The two numbers inside brackets are the channel
+number and the 'connected' state.  The 'connected' states are listed in merc.h:
+0 is CON_PLAYING; non-zero values are various states of logging in.
+~
+
+
+38 MLOAD OLOAD~
+Syntax: mload <vnum>
+Syntax: oload <vnum>
+Syntax: oload <vnum> <level>
+
+MLOAD loads a mobile given its vnum (virtual number).  The vnum's are just
+the #NNNN numbers that appear in world.obj.
+
+OLOAD loads an object given its vnum.  It takes an optional parameter for
+the level of the object to be loaded.
+~
+
+
+38 MSET OSET RSET SSET~
+Syntax: mset <character> <field> <value>
+Syntax: oset <object>    <field> <value>
+Syntax: rset <location>  <field> <value>
+Syntax: sset <character> <skill> <value>
+Syntax: sset <character> all     <value>
+
+MSET, OSET, and RSET set the properties of mobiles, objects, and rooms,
+respectively.  SSET sets a skill or spell level on a PC.
+
+There is currently no way to enter more than one line of text for a
+string-valued option.
+~
+
+
+38 NOEMOTE NOTELL SILENCE~
+Syntax: noemote <character>
+Syntax: notell  <character>
+Syntax: silence <character>
+
+NOEMOTE, NOTELL, and SILENCE are used to muffle other characters, by
+preventing them from emoting, telling, and using channels, respectively.
+Characters who are no'telled will also not receive those forms of
+communication.
+~
+
+
+38 PARDON~
+Syntax: pardon <character> killer
+Syntax: pardon <character> thief
+
+PARDON pardons a player for their crimes.
+
+Crimes? Those are VIRTUES, not crimes, you idiots.
+~
+
+
+38 PURGE~
+Syntax: purge
+Syntax: purge <character>
+
+PURGE is used to clean up the world.  PURGE with no arguments removes all the
+NPC's and objects in the current room.  PURGE with an argument purges one
+character from anywhere in the world.
+
+PURGE will not get rid of PC's.
+~
+
+
+38 RESTORE~
+Syntax: restore <character>
+
+RESTORE restores full hit points, mana points, and movement points to the
+target character.
+~
+
+
+38 SLAY~
+Syntax: slay <character>
+
+SLAY kills a character in cold blood, no saving throw.
+
+SLAY bypasses auto actions such as AUTOLOOT and AUTOSAC.
+~
+
+
+38 TRANSFER~
+Syntax: transfer <character>
+Syntax: transfer all
+Syntax: transfer <character> <location>
+Syntax: transfer all         <location>
+
+TRANSFER transfers the target character, or ALL player characters,
+to your current location (default) or to a specified location.
+~
+
+
+37 AT~
+Syntax: at <location> <command>
+
+AT executes the given command (which may have arguments) at the given
+location.  The location may be specified as a vnum, as the name of
+a mobile, or as the name of an object.
+
+AT works by temporarily moving you to that location, executing the
+command, and then moving you back (if the command didn't change your
+location).
+~
+
+
+37 ECHO RECHO~
+Syntax: echo  <message>
+Syntax: recho <message>
+
+ECHO sends a message to all players in the game, without any prefix
+indicating who sent it.
+
+RECHO sends a message to all players in your room, without any prefix
+indicating who sent it.
+~
+
+
+37 GOTO~
+Syntax:
+Goto Char  <PC Name>
+Goto Mob   <Mobile Name>
+Goto Mobv  <Mobile Vnum>
+Goto Room  <Room Vnum>
+Goto Obj   <Obj Name>
+Goto Objv  <Obj Vnum>
+
+GOTO takes you to a location, if you are visible, your bamfin will show,
+if you are invisible, nothing will be shown.
+
+You may not GOTO a room if it is PRIVATE and has two (or more) characters
+already present, or if it is SOLITARY and has one (or more) characters
+already present unless you are an OV.
+
+This is mainly used for OVs to talk in private over the normal player
+channels with other players and staff.
+
+~
+
+
+37 HOLYLIGHT INVIS~
+Syntax: holylight
+Syntax: invis
+
+HOLYLIGHT is a toggle that allows you to see (almost) every character and
+mobile in the game.  With holy light, you can see what's in the game more
+easily.  Without holy light, you can see what mortal players see.
+
+INVIS is a toggle which makes you completely invisible to all player characters
+of lower level than you, and to all mobiles.
+
+HOLYLIGHT will not allow you to see immortal INVIS characters who are
+higher level than you.
+~
+
+
+37 MEMORY~
+Syntax: memory
+
+MEMORY reports the size of your mud.
+
+The 'Mobs' and 'Objs' lines report the number of types of mobiles and objects,
+not the number of instances currently in the game.
+
+The 'Strings' line shows memory used by area-file strings.  These strings have
+a maximum limit, which is also shown.
+
+The 'Perms' line shows permanently allocated memory blocks.  There is no limit
+on the number and size of these blocks.
+~
+
+
+37 MFIND OFIND~
+Syntax: mfind <name>
+Syntax: ofind <name>
+
+MFIND finds all mobile types with a particular name.
+
+OFIND finds all object types with a particular name.
+~
+
+
+37 MSTAT OSTAT RSTAT~
+Syntax: mstat <character>
+Syntax: ostat <object>
+Syntax: rstat <location>
+Syntax: rstat
+
+MSTAT shows you statistics on a character.
+
+OSTAT shows you statistics on an object.
+
+RSTAT shows you statistics on a location. The location may be specified as
+a vnum, as the name of a mobile, or as the name of an object.
+~
+
+
+37 MWHERE~
+Syntax: mwhere <name>
+
+MWHERE shows you the locations of all mobiles with a particular name.
+~
+
+
+37 PEACE~
+Syntax: peace
+
+PEACE causes all characters in a room to stop fighting.
+~
+
+
+37 BAMFIN BAMFOUT~
+Syntax: bamfin  <message>
+Syntax: bamfout <message>
+
+The standard messages for GOTO are 'arrives in a swirling mist' and
+'leaves in a swirling mist'.  You can replace these messages with messages of
+your own choosing using the BAMFIN and BAMFOUT commands.
+~
+
+
+37 SLOOKUP~
+Syntax: slookup <skill-or-spell>
+Syntax: slookup all
+
+SLOOKUP shows you the internal 'sn' and external 'slot' for the given skill
+or spell.  The 'sn' is used for OSET and OSTAT.  The 'slot' is used for area
+files.  Neither 'sn' nor 'slot' is used for player files; these operate with
+the actual skill and spell names.
+
+SLOOKUP ALL shows this information for all skills and spells.
+~
+
+
+37 LOG SNOOP~
+Syntax: log   <character>
+Syntax: log   all
+Syntax: snoop <character>
+
+LOG <character> causes all of a character's commands to be logged into
+the server's log file.  Like FREEZE, it is a permanent character toggle.
+
+Certain commands (PASSWORD) are protected against LOG.  Conversely, certain
+commands (especially immortal commands) are always logged.
+
+LOG ALL logs all character commands.  It is a server-wide toggle; it does not
+persist across reboots.
+
+SNOOP shows you a copy of all the input and output going to a character.
+The character must have an open channel.  You may snoop more than one
+character at a time.
+
+SNOOP yourself to cancel all outstanding snoops.
+~
+
+
+37 SWITCH RETURN~
+Syntax: switch <character>
+Syntax: return
+
+SWITCH switches you into the body of another character (who must not
+already have a descriptor, e.g. you can't switch into a PC).
+
+RETURN returns you to your original body.
+~
+
+
+36 IMMTALK :~
+Syntax: immtalk <message>
+
+IMMTALK sends a message to all immortals.  : is a synonym for IMMTALK.
+~
+
+
+36 WIZHELP~
+Syntax: wizhelp
+
+WIZHELP provides a list of all the immortal commands.
+~
+
+
+39 ARMOR~
+Syntax: cast armor <character>
+
+This spell decreases (improves) the armor class of the target character
+by 20 points.
+~
+
+
+39 BLESS~
+Syntax: cast bless <character>
+
+This spell improves the to-hit roll and saving throw versus spell of the
+target character by +1 each.
+~
+
+
+39 BLINDNESS~
+Syntax: cast blindness <victim>
+
+This spell renders the target character blind.
+~
+
+
+39 fireball~
+Syntax: cast 'fireball'       <victim>
+
+These spells inflict damage on the victim.
+~
+
+
+39 lightning_bolt~
+lighting_bolt... needs desc
+~
+
+
+39 pebble~
+pebble.. needs desc
+~
+
+
+39 call_lightning~
+Syntax: cast 'call lightning'
+
+This spell works only out of doors, and only when the weather is bad.
+It calls down lightning bolts from God.
+~
+
+
+39 HARM~
+Syntax: cast harm             <victim>
+
+This spell inflicts damage on the victim.
+~
+
+
+39 charm_person~
+Syntax: cast 'charm person' <victim>
+
+This spell, if successful, causes the victim to follow you and to take orders
+from you.  Use ORDER to order your charmed followers.
+
+You are responsible for the actions of your followers.  Conversely, other
+people who attack your followers will be penalized as if they attacked you.
+~
+
+
+39 temporary_light~
+Syntax: cast 'temporary light'
+
+This spell creates a ball of light, which you can hold as a light source.
+The ball of light will last indefinitely.
+~
+
+
+39 control_weather~
+Syntax: cast 'control weather' better
+Syntax: cast 'control weather' worse
+
+This spell makes the weather either better or worse.
+~
+
+
+39 create_food~
+Syntax: cast 'create food'
+
+This spell creates a Magic Mushroom, which you or anyone else can eat.
+~
+
+
+39 create_water~
+Syntax: cast 'create water' <drink-container>
+
+This spell replenishes a drink container with water.
+~
+
+
+39 cure_blindness~
+Syntax: cast 'cure blindness' <character>
+
+This spell cures blindness in one so unfortunate.
+~
+
+
+39 cure_poison~
+Syntax: cast 'cure poison' <character>
+
+This spell cures poison in one so unfortunate.
+~
+
+
+39 HEAL~
+Syntax: cast 'heal'          <character>
+
+This spell cures damage on the target character.
+~
+
+
+39 CURSE~
+Syntax: cast 'curse' <character>
+
+This spell reduces the character's to-hit roll by 1 and save versus spells
+by 1.
+~
+
+
+39 detect_evil~
+Syntax: cast 'detect evil'
+
+This spell enables the caster to detect evil characters, which will
+reveal a characteristic red aura.
+~
+
+
+39 sense_life~
+Syntax: cast 'sense life'
+
+This spell enables the caster to detect hidden creatures.
+~
+
+
+39 detect_invis~
+Syntax: cast 'detect invis'
+
+This spell enables the caster to detect invisible objects and characters.
+~
+
+
+39 detect_magic~
+Syntax: cast 'detect magic'
+
+This spell enables the caster to detect magical objects.
+~
+
+
+39 detect_poison~
+Syntax: cast 'detect poison' <object>
+
+This spell detects the presence of poison in food or drink.
+~
+
+
+39 dispel_evil~
+Syntax: cast 'dispel evil' <victim>
+
+This spell invokes the wrath of God on an evil victim.
+
+Modified back to a more standard diku damage amount...
+~
+
+
+39 dispel_magic~
+Syntax: cast 'dispel magic' <character>
+
+This spell dispels magical affects on a character.  It may be used as
+an offensive spell to remove an enemy's magical advantages, or as a
+benign spell to remove a friend's (or one's own) magical handicaps.
+~
+
+
+39 enchant_weapon~
+Syntax: cast 'enchant weapon' <weapon>
+
+This spell magically enchants a weapon, increasing its to-hit and to-dam
+bonuses.  The weapon must be un-magical to start with.
+~
+
+
+39 vampiric_touch~
+Syntax: cast 'vampiric touch' <victim>
+
+This spell saps the hit points and  mana of its target.
+~
+
+
+39 FLAMESTRIKE~
+Syntax: cast 'flamestrike' <victim>
+
+This spell inflicts damage on the victim.
+~
+
+
+39 FLY~
+Syntax: cast 'fly' <character>
+
+This spell enables the target character to fly.
+~
+
+
+39 GATE~
+Syntax: cast 'gate' <character>
+
+This spell gates the caster to the mentioned creature or player.
+~
+
+
+39 STRENGTH~
+Syntax: cast strength <character>
+
+This spell increases the strength of the target character.
+
+It increases the strength of mages by more than others.
+~
+
+
+39 IDENTIFY~
+Syntax: cast identify <object>
+
+This spell reveals information about the object.
+~
+
+
+39 INFRAVISION~
+Syntax: cast infravision <character>
+
+This spell enables the target character to see in the dark.
+~
+
+
+39 INVIS~
+Syntax: cast invis <character>
+
+The INVIS spell makes the target character invisible.  Invisible characters
+will become visible when they attack.
+~
+
+
+39 know_alignment~
+Syntax: cast 'know alignment' <character>
+
+This spell reveals the alignment of the target character.
+~
+
+
+39 locate_object~
+Syntax: cast 'locate object' <name>
+~
+
+
+39 pass_door~
+Syntax: cast 'pass door'
+
+This spell enables the caster to pass through closed doors.
+~
+
+
+39 POISON~
+Syntax: cast poison <victim>
+
+This spell reduces the strength of the victim by two, as well as reducing the
+victim's regeneration rate.
+~
+
+
+39 PROTECTION SANCTUARY~
+Syntax: cast protection
+Syntax: cast sanctuary  <character>
+
+The PROTECTION spell reduces the damage taken from any attack by an evil
+creature by one quarter.
+
+The SANCTUARY spell reduces the damage taken by the character from any attack
+by one half.
+~
+
+
+39 VITALITY~
+Syntax: cast refresh <character>
+
+This spell refreshes the movement points of a character who is out of movement
+points.
+~
+
+
+39 remove_curse~
+Syntax: cast 'remove curse' <character>
+
+This spell removes a curse from a character.
+~
+
+
+39 SHIELD 'STONE SKIN'~
+Syntax: cast shield
+Syntax: cast 'stone skin'
+
+These spells improve the ability of the victim to absorb damage.
+However, these spells will make the victim's skin tough,
+and difficult to move fast.
+~
+
+
+39 SLEEP~
+Syntax: cast sleep <victim>
+
+This spell puts its victim to sleep.
+~
+
+
+39 SUMMON~
+Syntax: cast summon <character>
+
+This spell summons a character from anywhere else in your zone into your room.
+Characters who are fighting may not be summoned.
+~
+
+
+39 TELEPORT~
+Syntax: cast <teleport>
+
+This spell takes you from your current location to a random location somewhere
+in the world.
+~
+
+
+39 VENTRILOQUATE~
+Syntax: cast ventriloquate <speaker> <message>
+
+This spell throws your voice, making it appear that some other object or
+character in the room is saying your message.  Victims who make their saving
+throw will know that someone is using ventriloquism, but not who.  Victims who
+fail their saving throw will think that the object or character really did say
+your message.
+~
+
+
+39 WEAKEN~
+Syntax: cast weaken <victim>
+
+This spell reduces the strength of the victim by two points.
+~
+
+
+39 word_of_recall~
+Syntax: cast 'word of recall'
+~
+
+
+39 'ACID BREATH' 'FIRE BREATH' 'FROST BREATH' 'GAS BREATH' 'LIGHTNING BREATH'~
+Syntax: cast 'acid breath'      <victim>
+Syntax: cast 'fire breath'      <victim>
+Syntax: cast 'frost breath'     <victim>
+Syntax: cast 'gas breath'
+Syntax: cast 'lightning breath' <victim>
+
+These spells are for the use of dragons.  Acid, fire, frost, and lightning
+damage one victim, whereas gas damages every PC in the room.  Fire and
+frost can break objects, and acid can damage armor.
+~
+
+
+0 DODGE~
+This skill lets you dodge incoming attacks, taking no damage from them.
+Use of the skill is automatic.
+~
+
+
+0 PEEK~
+This skill allows you to see things hidden by a character's equipment,
+and in their inventory.  If you fail, they might notice how closely
+you're looking at them.
+
+Add "peek" to the look command when looking, for example:
+look guard peek
+~
+
+
+0 $~
+
+#$

@@ -1,0 +1,393 @@
+#OBJECT
+Nest         0
+Name         sword broad~
+ShortDescr   a broad sword~
+LookDescr    A grim looking broad sword has been left here.~
+Description  ~
+OVnum        13022
+ExtraFlags   0
+WearFlags    8193
+Worn         'none'
+ItemType     5
+Weight       80
+Capacity     0
+Size         100
+Timer        0
+Cost         600
+Color        0
+Material    'leather'
+Values       0 1 8 3
+Dam          1 8
+Toughness    50000
+Attack       3
+End
+
+#OBJECT
+Nest         0
+Name         hole~
+ShortDescr   a hole in the tree~
+LookDescr    A hole in a nearby tree appears to have stuff stored within it.~
+Description  The new has no description.
+~
+OVnum        11006
+ExtraFlags   0
+WearFlags    0
+Worn         'none'
+ItemType     15
+Weight       10
+Capacity     0
+Size         100
+Timer        0
+Cost         1
+Color        0
+Material    'wood'
+Values       0 0 0 0
+Dam          1 1
+Toughness    1000
+Attack       2
+End
+
+#OBJECT
+Nest         1
+Name         thin dagger~
+ShortDescr   a thin dagger~
+LookDescr    A thin dagger lies in the dust here.~
+Description  This dagger has a thin, steel blade with a wood and leather hilt.
+~
+OVnum        11003
+ExtraFlags   0
+WearFlags    8193
+Worn         'none'
+ItemType     5
+Weight       20
+Capacity     0
+Size         100
+Timer        0
+Cost         35
+Color        256
+Material    'steel'
+Values       0 0 0 1
+Dam          3 3
+Toughness    10000
+Attack       1
+End
+
+#OBJECT
+Nest         1
+Name         thin dagger~
+ShortDescr   a thin dagger~
+LookDescr    A thin dagger lies in the dust here.~
+Description  This dagger has a thin, steel blade with a wood and leather hilt.
+~
+OVnum        11003
+ExtraFlags   0
+WearFlags    8193
+Worn         'none'
+ItemType     5
+Weight       20
+Capacity     0
+Size         100
+Timer        0
+Cost         35
+Color        256
+Material    'steel'
+Values       0 0 0 1
+Dam          3 3
+Toughness    10000
+Attack       1
+End
+
+#OBJECT
+Nest         0
+Name         sword broad~
+ShortDescr   a broad sword~
+LookDescr    A grim looking broad sword has been left here.~
+Description  ~
+OVnum        13022
+ExtraFlags   0
+WearFlags    8193
+Worn         'none'
+ItemType     5
+Weight       80
+Capacity     0
+Size         100
+Timer        0
+Cost         600
+Color        0
+Material    'leather'
+Values       0 1 8 3
+Dam          1 8
+Toughness    50000
+Attack       3
+End
+
+#OBJECT
+Nest         0
+Name         sword broad~
+ShortDescr   a broad sword~
+LookDescr    A grim looking broad sword has been left here.~
+Description  ~
+OVnum        13022
+ExtraFlags   0
+WearFlags    8193
+Worn         'none'
+ItemType     5
+Weight       80
+Capacity     0
+Size         100
+Timer        0
+Cost         600
+Color        0
+Material    'leather'
+Values       0 1 8 3
+Dam          1 8
+Toughness    50000
+Attack       3
+End
+
+#MOB
+Name         Hiortr~
+Namelist     elf scout~
+ShortDescr   the elven scout~
+LongDescr    An elven scout carefully scans the horizon.
+~
+Description  This elf stands almost statuelike against the trees, looking for
+disturbances in the forest below.
+~
+Sex          1
+Class        0
+Race         elf~
+Level        5
+Room         11003
+Act          3
+HpManaMove   103 103 100 100 100 100
+HeightWeight 92 152
+AffectedBy   0
+Position     7
+Alignment    0
+Vision       0 0 0 0
+AttrPerm    90 130 150 80 80 50
+AttrMod      0 0 10 0 0 0
+MVnum        11000
+End
+
+#OBJECT
+Nest         0
+Name         coins pile talon talons~
+ShortDescr   a pile of talons~
+LookDescr    a pile of talons lies here.~
+Description  123 talon.~
+OVnum        3
+ExtraFlags   0
+WearFlags    1
+Worn         'none'
+ItemType     20
+Weight       9
+Capacity     0
+Size         100
+Timer        0
+Cost         0
+Color        0
+Material    'silver'
+Values       123 1 0 0
+Dam          1 1
+Toughness    0
+Attack       2
+End
+
+#OBJECT
+Nest         0
+Name         leather cap~
+ShortDescr   a leather cap~
+LookDescr    A leather cap is here.~
+Description  ~
+OVnum        9505
+ExtraFlags   0
+WearFlags    17
+Worn         'head'
+ItemType     9
+Weight       20
+Capacity     0
+Size         100
+Timer        0
+Cost         40
+Color        0
+Material    'leather'
+Values       1 1 1 1
+Dam          1 1
+Toughness    10000
+Attack       2
+End
+
+#OBJECT
+Nest         0
+Name         leather sleeves~
+ShortDescr   leather sleeves~
+LookDescr    A pair of leather sleeves is here.~
+Description  ~
+OVnum        9501
+ExtraFlags   0
+WearFlags    257
+Worn         'arms'
+ItemType     9
+Weight       40
+Capacity     0
+Size         100
+Timer        0
+Cost         40
+Color        0
+Material    'leather'
+Values       1 1 1 1
+Dam          1 1
+Toughness    10000
+Attack       2
+End
+
+#OBJECT
+Nest         0
+Name         leather jacket~
+ShortDescr   a leather jacket~
+LookDescr    A leather jacket lies here.~
+Description  ~
+OVnum        9500
+ExtraFlags   0
+WearFlags    9
+Worn         'body'
+ItemType     9
+Weight       100
+Capacity     0
+Size         100
+Timer        0
+Cost         40
+Color        0
+Material    'leather'
+Values       1 1 1 1
+Dam          1 1
+Toughness    10000
+Attack       2
+End
+
+#OBJECT
+Nest         0
+Name         leather gloves~
+ShortDescr   a pair of leather gloves~
+LookDescr    A pair of leather gloves is here.~
+Description  ~
+OVnum        9506
+ExtraFlags   0
+WearFlags    129
+Worn         'hands'
+ItemType     9
+Weight       20
+Capacity     0
+Size         100
+Timer        0
+Cost         40
+Color        0
+Material    'leather'
+Values       1 1 1 1
+Dam          1 1
+Toughness    10000
+Attack       2
+End
+
+#OBJECT
+Nest         0
+Name         thin dagger~
+ShortDescr   a thin dagger~
+LookDescr    A thin dagger lies in the dust here.~
+Description  This dagger has a thin, steel blade with a wood and leather hilt.
+~
+OVnum        11003
+ExtraFlags   0
+WearFlags    8193
+Worn         'primary'
+ItemType     5
+Weight       20
+Capacity     0
+Size         100
+Timer        0
+Cost         35
+Color        256
+Material    'steel'
+Values       0 0 0 1
+Dam          3 3
+Toughness    10000
+Attack       1
+End
+
+#OBJECT
+Nest         0
+Name         thin dagger~
+ShortDescr   a thin dagger~
+LookDescr    A thin dagger lies in the dust here.~
+Description  This dagger has a thin, steel blade with a wood and leather hilt.
+~
+OVnum        11003
+ExtraFlags   0
+WearFlags    8193
+Worn         'secondary'
+ItemType     5
+Weight       20
+Capacity     0
+Size         100
+Timer        0
+Cost         35
+Color        256
+Material    'steel'
+Values       0 0 0 1
+Dam          3 3
+Toughness    10000
+Attack       1
+End
+
+#OBJECT
+Nest         0
+Name         leather pants~
+ShortDescr   leather pants~
+LookDescr    A pair of leather pants is here.~
+Description  ~
+OVnum        9502
+ExtraFlags   0
+WearFlags    33
+Worn         'legs'
+ItemType     9
+Weight       50
+Capacity     0
+Size         100
+Timer        0
+Cost         40
+Color        0
+Material    'leather'
+Values       1 1 1 1
+Dam          1 1
+Toughness    10000
+Attack       2
+End
+
+#OBJECT
+Nest         0
+Name         boots soft leather~
+ShortDescr   a pair of soft leather boots~
+LookDescr    A fine pair of soft leather boots lies here.~
+Description  ~
+OVnum        11000
+ExtraFlags   0
+WearFlags    65
+Worn         'feet'
+ItemType     9
+Weight       10
+Capacity     0
+Size         100
+Timer        0
+Cost         150
+Color        3072
+Material    'leather'
+Values       1 1 1 1
+Dam          1 1
+Toughness    10000
+Attack       2
+AffectData   'unknown' -1 10 2 0
+End
+
+#END

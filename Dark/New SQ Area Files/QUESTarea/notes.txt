@@ -1,0 +1,19 @@
+Sender  Linedel~
+Date    Sat May 27 16:31:58 2006~
+To      all~
+Subject bugs~
+Text
+1) No starting equipment.
+2) timers on kick/bash need tweaking.
+3) bash fail apparently bashes your victim...
+4) fully thirsty/hungry entering game
+5) Bashed npcs don't stand up once timer gone..
+6) this beggar isn't dead yet.  (ok, not really a bug.  hoping he has food.)
+7) bartenders dont seem to have shop data.
+8) some guy in a bloody bar or something like that had a borked desc.. looked corrupt
+9) #5 confirmed.   failing bash bashes opponent.
+10) actually, make that #5 confirmed.. #5 is inaccurate, it's just really slow.
+
+posting note.. will make new one if necessary.
+~
+

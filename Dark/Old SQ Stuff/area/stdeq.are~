@@ -1,0 +1,33 @@
+#AREA Delerak     Standard Equipment~
+stdeq~
+delerak desaris~
+100 999
+0 1
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#100
+Equipment Room~
+This room exists to save the standard equipment zone manually.
+~
+~
+'city'
+524 0 0
+0 0 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

@@ -1,0 +1,61 @@
+Name 'inside'
+Flags building Endflags
+Difficulty 0
+Water 300 1
+Endsector
+Name 'inside window'
+Flags building window Endflags
+Difficulty 10
+Water 300 1
+Endsector
+Name 'city'
+Flags outdoors Endflags
+Difficulty 20
+Water 300 1
+Endsector
+Name 'field'
+Flags outdoors Endflags
+Difficulty 30
+Water 300 1
+Endsector
+Name 'forest'
+Flags outdoors Endflags
+Difficulty 40
+Water 300 1
+Endsector
+Name 'hills'
+Flags outdoors Endflags
+Difficulty 50
+Water 300 1
+Endsector
+Name 'water swim surface'
+Flags outdoors water Endflags
+Difficulty 40
+Water 300 1
+Endsector
+Name 'water noswim surface'
+Flags outdoors water noswim Endflags
+Difficulty 40
+Water 300 1
+Endsector
+Name 'cave'
+Flags /0 Endflags
+Difficulty 10
+Water 300 1
+Endsector
+Name 'road'
+Flags outdoors Endflags
+Difficulty 15
+Water 300 1
+Endsector
+Name 'air'
+Flags outdoors air Endflags
+Difficulty 40
+Water 300 1
+Endsector
+Name 'desert'
+Flags outdoors Endflags
+Difficulty 60
+Water 300 1
+Endsector
+Endsection

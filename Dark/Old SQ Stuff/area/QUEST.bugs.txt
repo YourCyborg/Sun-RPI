@@ -1,0 +1,106 @@
+[13067] Ozymandius: manfunction should be malfunction in dwarf help
+[11001] Ender: if i type east...it says the the is closed :)
+[*****] BUG: Aggr_update: null victim.
+[*****] BUG: Damage: 4804: more than 1000 points!
+[*****] BUG: Damage: 5304: more than 1000 points!
+[*****] BUG: Damage: 5424: more than 1000 points!
+[*****] BUG: Damage: 5833: more than 1000 points!
+[*****] BUG: Damage: 4773: more than 1000 points!
+[*****] BUG: Damage: 5088: more than 1000 points!
+[*****] BUG: Damage: 4954: more than 1000 points!
+[*****] BUG: Damage: 4892: more than 1000 points!
+[*****] BUG: Equip_char: vnum: (13029).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13032).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13029).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Load_char_obj: # not found.
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Save_char_obj: fopen
+[*****] BUG: Equip_char: vnum: (13028).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13029).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13003).
+[*****] BUG: Equip_char: already equipped (17).
+[*****] BUG: Equip_char: vnum: (13028).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13029).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13037).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13028).
+[*****] BUG: Equip_char: already equipped (5).
+[*****] BUG: Equip_char: vnum: (13029).
+[*****] BUG: Equip_char: already equipped (5).

@@ -1,0 +1,1884 @@
+#AREA Delerak     Random Treasure Zone~
+random~
+delerak~
+9500 9999
+0 1
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#9700
+scroll~
+scroll of Mages~
+A scroll lies here.~
+~
+~
+'leather'
+2 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9701
+staff~
+staff of the Magi~
+A staff lies here.~
+~
+~
+'leather'
+4 0 1 0
+30 0 0 -1
+100 0 100 0 0
+1 1 0 2
+#9702
+staff~
+staff of Power~
+A staff lies here.~
+~
+~
+'leather'
+4 0 1 0
+30 0 0 -1
+100 0 100 0 0
+1 1 0 2
+#9703
+wand~
+wand of Fear~
+A wand lies here.~
+~
+~
+'leather'
+3 0 1 0
+30 0 0 -1
+50 0 100 0 0
+1 1 0 2
+#9704
+book~
+book of Infinite Spells~
+A book lies here.~
+~
+~
+'leather'
+2 0 1 0
+30 -1 -1 -1
+30 0 100 0 0
+1 1 0 2
+#9705
+manual~
+manual of Bodily Health~
+A manual lies here.~
+~
+~
+'leather'
+2 0 1 0
+30 -1 -1 -1
+20 0 100 0 0
+1 1 0 2
+#9706
+manual~
+manual of Gainful Exercise~
+A manual lies here.~
+~
+~
+'leather'
+2 0 1 0
+30 -1 -1 -1
+20 0 100 0 0
+1 1 0 2
+#9707
+manual~
+manual of Quickness in Action~
+A manual lies here.~
+~
+~
+'leather'
+2 0 1 0
+30 -1 -1 -1
+20 0 100 0 0
+1 1 0 2
+#9708
+tome~
+tome of Clear Thought~
+A tome lies here.~
+~
+~
+'leather'
+2 0 1 0
+30 -1 -1 -1
+20 0 100 0 0
+1 1 0 2
+#9709
+tome~
+tome of Understanding~
+A tome lies here.~
+~
+~
+'leather'
+2 0 1 0
+30 -1 -1 -1
+20 0 100 0 0
+1 1 0 2
+#9710
+staff~
+staff of Striking~
+A staff lies here.~
+~
+~
+'leather'
+4 0 1 0
+30 0 0 -1
+50 0 100 0 0
+1 1 0 2
+#9711
+staff~
+staff of Thunder and Lightning~
+A staff lies here.~
+~
+~
+'leather'
+4 0 1 0
+30 0 0 -1
+50 0 100 0 0
+1 1 0 2
+#9712
+staff~
+staff of Withering~
+A staff lies here.~
+~
+~
+'leather'
+4 0 1 0
+30 0 0 -1
+50 0 100 0 0
+1 1 0 2
+#9789
+scroll~
+knowledge scroll~
+A knowledge scroll.~
+~
+~
+'leather'
+50 0 1 0
+30 1000 200 1001
+20 0 100 100 0
+1 1 0 2
+#9790
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 -1 -1 7
+0 0 100 0 15
+1 1 0 2
+#9791
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 -1 -1 26
+0 0 100 0 15
+1 1 0 2
+#9792
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 -1 -1 42
+0 0 100 0 5
+1 1 0 2
+#9793
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 -1 -1 17
+0 0 100 0 15
+1 1 0 2
+#9794
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 -1 -1 24
+0 0 100 0 15
+1 1 0 2
+#9795
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 -1 -1 4
+0 0 100 0 10
+1 1 0 2
+#9796
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 39 39 39
+0 0 100 0 10
+1 1 0 2
+#9797
+scroll~
+a page~
+A page from the book of spells lies here.~
+~
+~
+'leather'
+2 0 1 0
+20 -1 -1 -1
+0 0 100 0 10
+1 1 0 2
+#9798
+wand~
+a wand~
+A wand lies here.~
+~
+~
+'leather'
+3 0 16385 0
+30 0 20 -1
+50 0 100 0 0
+2 3 500 2
+#9799
+staff~
+a staff~
+A staff lies here.~
+~
+~
+'leather'
+4 0 16385 0
+30 0 10 -1
+50 0 100 0 0
+3 3 1000 2
+#9600
+potion defense~
+potion of defense~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 1 1 66
+10 0 100 0 0
+1 1 0 2
+#9601
+potion luck~
+potion of luck~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 3 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9602
+potion sight~
+potion of Sight~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 44 19 20
+10 0 100 0 0
+1 1 0 2
+#9603
+potion antidote~
+potion of antidote~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 14 43 -1
+10 0 100 0 0
+1 1 0 2
+#9604
+potion extra healing extra-healing~
+potion of extra-healing~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9605
+potion flying~
+potion of Flying~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 56 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9606
+potion gasseous form gasseous-form~
+potion of Gasseous Form~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 74 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9607
+potion strength~
+potion of strength~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 39 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9608
+potion healing~
+potion of healing~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 28 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9609
+potion invis invisibility~
+potion of invisibility~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 29 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9610
+potion magic resistance~
+potion of Magic Resistance~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9611
+potion agility~
+potion of Agility~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9612
+potion invulnerability~
+potion of Invulnerability~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9613
+potion speed~
+potion of Speed~
+A potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9614
+oil impact~
+oil of Impact~
+Some oils lie here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9650
+burgundy potion~
+a burgundy potion~
+A burgundy colored potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 43
+10 0 100 0 0
+1 1 0 2
+#9651
+white potion~
+a white potion~
+A white colored potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 3
+10 0 100 0 0
+1 1 0 2
+#9652
+orange potion~
+an orange potion~
+An orange colored potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 28
+10 0 100 0 0
+1 1 0 2
+#9653
+pink potion~
+a pink potion~
+A pink colored potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 28
+10 0 100 0 0
+1 1 0 2
+#9654
+lavender potion~
+a lavender potion~
+A lavender coloured potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 44
+10 0 100 0 0
+1 1 0 2
+#9655
+yellow potion~
+a yellow potion~
+A yellow colored potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 19
+10 0 100 0 0
+1 1 0 2
+#9656
+amber potion~
+an amber potion~
+An amber colored potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 20
+10 0 100 0 0
+1 1 0 2
+#9657
+blue potion~
+a blue potion~
+A blue colored potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 28
+10 0 100 0 0
+1 1 0 2
+#9658
+clear potion~
+a clear potion~
+A clear potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 29
+10 0 100 0 0
+1 1 0 2
+#9659
+purple potion~
+a purple potion~
+A purple potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 36
+10 0 100 0 0
+1 1 0 2
+#9660
+clear red potion~
+a clear red potion~
+A clear red potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 42
+10 0 100 0 0
+1 1 0 2
+#9661
+silver potion~
+a silver potion~
+A silver potions lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 39
+10 0 100 0 0
+1 1 0 2
+#9662
+grey potion~
+a grey potion~
+A grey potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 1
+10 0 100 0 0
+1 1 0 2
+#9663
+beige potion~
+a beige potion~
+A beige potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 18
+10 0 100 0 0
+1 1 0 2
+#9664
+tan potion~
+a tan potion~
+A tan potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+17 1 3 39
+10 0 100 0 0
+1 1 0 2
+#9665
+sky blue potion sky-blue~
+a sky-blue potion~
+A sky-blue potion lies here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9666
+lumpy black potion tar~
+a lumpy black potion~
+A container full of tar is lying here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9667
+fushia potion flask~
+a small flask of vileness~
+A fushia potion sits here. (fortunately contained in it's flask).~
+~
+~
+'leather'
+10 0 1 0
+30 -1 42 -1
+10 0 100 0 0
+1 1 0 2
+#9668
+chalky potion~
+a chalky potion~
+A chalky potion has been dropped here.~
+~
+~
+'leather'
+10 0 1 0
+30 44 19 20
+10 0 100 0 0
+1 1 0 2
+#9669
+azure potion~
+an azure potion~
+An azure potion has been places here.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 1
+10 0 100 0 0
+1 1 0 2
+#9670
+aquamarine potion~
+an aquamarine potion~
+An aquamarine potion glows brilliantly~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9699
+unfinished potion~
+an unfinished potion~
+An unfinished potion sits here bored.~
+~
+~
+'leather'
+10 0 1 0
+30 -1 -1 -1
+10 0 100 0 0
+1 1 0 2
+#9500
+leather jacket~
+a leather jacket~
+A leather jacket lies here.~
+~
+~
+'leather'
+9 0 9 0
+1 1 1 1
+100 0 100 40 100
+1 1 10000 2
+#9501
+leather sleeves~
+leather sleeves~
+A pair of leather sleeves is here.~
+~
+~
+'leather'
+9 0 257 0
+1 1 1 1
+40 0 100 40 100
+1 1 10000 2
+#9502
+leather pants~
+leather pants~
+A pair of leather pants is here.~
+~
+~
+'leather'
+9 0 33 0
+1 1 1 1
+50 0 100 40 100
+1 1 10000 2
+#9503
+leather boots~
+a pair of leather boots~
+A pair of leather boots lies here.~
+~
+~
+'leather'
+9 0 65 0
+1 1 1 1
+40 0 100 40 100
+1 1 10000 2
+#9505
+leather cap~
+a leather cap~
+A leather cap is here.~
+~
+~
+'leather'
+9 0 17 0
+1 1 1 1
+20 0 100 40 100
+1 1 10000 2
+#9506
+leather gloves~
+a pair of leather gloves~
+A pair of leather gloves is here.~
+~
+~
+'leather'
+9 0 129 0
+1 1 1 1
+20 0 100 40 100
+1 1 10000 2
+#9510
+studded leather jacket~
+a studded leather jacket~
+A studded leather jacket lies here.~
+~
+~
+'leather'
+9 0 9 0
+2 2 1 3
+100 0 100 60 100
+1 1 15000 2
+A
+2 -4
+A
+51 -1
+#9511
+studded leather sleeves~
+studded leather sleeves~
+A pair of studded leather sleeves is here.~
+~
+~
+'leather'
+9 0 257 0
+2 2 1 3
+30 0 100 60 100
+1 1 15000 2
+A
+2 -4
+A
+51 -1
+#9512
+studded leather pants~
+studded leather pants~
+A pair of studded leather pants is here.~
+~
+~
+'leather'
+9 0 33 0
+2 2 1 3
+50 0 100 60 100
+1 1 15000 2
+A
+2 -4
+A
+51 -1
+#9515
+studded leather cap~
+a studded leather cap~
+A studded leather cap is here.~
+~
+~
+'leather'
+9 0 17 0
+2 2 1 3
+20 0 100 60 100
+1 1 15000 2
+A
+2 -4
+A
+51 -1
+#9520
+scale mail jacket~
+a scale mail jacket~
+A scale mail jacket lies here.~
+~
+~
+'leather'
+9 0 9 0
+3 3 4 2
+100 0 100 100 0
+1 1 20000 2
+A
+2 -8
+A
+51 -3
+#9521
+scale mail sleeves~
+scale mail sleeves~
+A pair of scale mail sleeves is here.~
+~
+~
+'leather'
+9 0 257 0
+3 3 4 2
+40 0 100 100 0
+1 1 20000 2
+A
+2 -8
+A
+51 -3
+#9522
+scale mail leggings~
+scale mail leggings~
+A pair of scale mail leggings is here.~
+~
+~
+'leather'
+9 0 33 0
+3 3 4 2
+50 0 100 100 0
+1 1 20000 2
+A
+2 -8
+A
+51 -3
+#9524
+buckler shield~
+a buckler~
+A buckler is here.~
+~
+~
+'leather'
+9 0 513 0
+3 3 3 3
+40 0 100 100 0
+1 1 20000 2
+A
+51 -20
+#9525
+scale mail helm~
+a scale mail helm~
+A scale mail helm is here.~
+~
+~
+'leather'
+9 0 17 0
+3 3 4 2
+20 0 100 100 0
+1 1 20000 2
+A
+2 -8
+A
+51 -3
+#9530
+chain mail~
+suit of chain mail~
+A suit of chain mail lies neglected on the ground.~
+~
+~
+'leather'
+9 0 9 0
+4 2 5 4
+150 0 100 150 0
+1 1 25000 2
+A
+2 -8
+A
+51 -5
+#9531
+chain sleeves~
+chain sleeves~
+Some chain sleeves lie here.~
+~
+~
+'leather'
+9 0 257 0
+4 2 5 4
+40 0 100 150 0
+1 1 25000 2
+A
+2 -8
+A
+51 -5
+#9532
+chain leggings~
+chain leggings~
+Some chain leggings lie in a heap here.~
+~
+~
+'leather'
+9 0 33 0
+4 2 5 4
+40 0 100 150 0
+1 1 25000 2
+A
+2 -8
+A
+51 -5
+#9534
+target shield~
+a target shield~
+A target shield is here, waiting to block blows.~
+~
+~
+'leather'
+9 0 513 0
+4 4 4 4
+40 0 100 150 0
+1 1 25000 2
+A
+51 -30
+#9535
+chain helmet~
+a chain helmet~
+A chain helmet lies on the ground.~
+~
+~
+'leather'
+9 0 17 0
+4 2 5 4
+40 0 100 150 0
+1 1 25000 2
+A
+2 -8
+A
+51 -5
+#9536
+chain gloves~
+a pair of chain gloves~
+A pair of chain gloves is here.~
+~
+~
+'leather'
+9 0 129 0
+3 3 3 3
+40 0 100 150 0
+1 1 25000 2
+A
+2 -8
+A
+51 -5
+#9540
+elven chain vest~
+an elven chain vest~
+A vest of fine mithril lies neglected on the ground.~
+~
+~
+'leather'
+9 0 9 0
+4 3 5 4
+150 0 100 2000 10
+1 1 25000 2
+A
+51 1
+#9541
+elven chain sleeves~
+elven chain sleeves~
+Some elven chain sleeves lie here.~
+~
+~
+'leather'
+9 0 257 0
+4 3 5 4
+40 0 100 2000 10
+1 1 25000 2
+A
+51 1
+#9542
+elven chain leggings~
+elven chain leggings~
+Some elven chain leggings lie in a heap here.~
+~
+~
+'leather'
+9 0 33 0
+4 3 5 4
+40 0 100 2000 10
+1 1 25000 2
+A
+51 1
+#9546
+cloth elven chain gloves~
+a pair of fine silver cloth gloves~
+A pair of silver cloth gloves is here.~
+~
+~
+'leather'
+9 0 129 0
+4 3 5 4
+40 0 100 2000 10
+1 1 25000 2
+A
+51 1
+#9550
+bronze breast plate~
+a bronze breast plate~
+Some bronze plate mail is here.~
+~
+~
+'leather'
+9 0 9 0
+5 5 5 5
+250 0 100 250 100
+1 1 35000 2
+A
+2 -12
+A
+51 -7
+#9551
+bronze sleeves~
+bronze sleeves~
+Some bronze sleeves are here.~
+~
+~
+'leather'
+9 0 257 0
+5 5 5 5
+70 0 100 250 100
+1 1 35000 2
+A
+2 -12
+A
+51 -7
+#9552
+bronze leggings~
+bronze leggings~
+A pair of bronze leggings is here.~
+~
+~
+'leather'
+9 0 33 0
+5 5 5 5
+80 0 100 250 100
+1 1 35000 2
+A
+2 -12
+A
+51 -7
+#9553
+bronze boots~
+bronze boots~
+A pair of bronze boots is here.~
+~
+~
+'leather'
+9 0 65 0
+5 5 5 5
+80 0 100 250 100
+1 1 35000 2
+A
+2 -12
+A
+51 -7
+#9554
+shield medium~
+a medium shield~
+A medium shield is here.~
+~
+~
+'leather'
+9 0 513 0
+5 5 5 5
+150 0 100 250 0
+1 1 35000 2
+A
+51 -35
+#9555
+bronze helmet~
+a bronze helmet~
+A bronze helmet rests here in the dust.~
+~
+~
+'leather'
+9 0 17 0
+5 5 5 5
+60 0 100 250 100
+1 1 35000 2
+A
+2 -12
+A
+51 -7
+#9560
+plate mail~
+plate mail~
+Some plate mail is here.~
+~
+~
+'leather'
+9 0 9 0
+6 6 6 6
+250 0 100 400 0
+1 1 45000 2
+A
+2 -16
+A
+51 -9
+#9561
+plate sleeves~
+plate sleeves~
+Some plate sleeves are here.~
+~
+~
+'leather'
+9 0 257 0
+6 6 6 6
+70 0 100 400 0
+1 1 45000 2
+A
+2 -16
+A
+51 -9
+#9562
+plate leggings~
+plate leggings~
+A pair of plate leggings is here.~
+~
+~
+'leather'
+9 0 33 0
+6 6 6 6
+80 0 100 400 0
+1 1 45000 2
+A
+2 -16
+A
+51 -9
+#9563
+plate boots~
+plate boots~
+A pair of plate boots is here.~
+~
+~
+'leather'
+9 0 65 0
+6 6 6 6
+80 0 100 400 0
+1 1 45000 2
+A
+2 -16
+A
+51 -9
+#9564
+shield large~
+a large shield~
+A large round shield is here.~
+~
+~
+'leather'
+9 0 513 0
+6 6 6 6
+150 0 100 400 0
+1 1 45000 2
+A
+51 -45
+#9565
+plate helmet~
+a plate helmet~
+A plate helmet lies neglected in the dust.~
+~
+~
+'leather'
+9 0 17 0
+6 6 6 6
+60 0 100 400 0
+1 1 45000 2
+A
+2 -16
+A
+51 -9
+#9570
+field plate mail~
+field plate mail~
+Some field plate mail is here.~
+~
+~
+'leather'
+9 0 9 0
+7 7 7 7
+250 0 100 600 5
+1 1 50000 2
+A
+2 -20
+A
+51 -11
+#9571
+field plate sleeves~
+field plate sleeves~
+Some field plate sleeves are here.~
+~
+~
+'leather'
+9 0 257 0
+7 7 7 7
+70 0 100 600 5
+1 1 50000 2
+A
+2 -20
+A
+51 -11
+#9572
+field plate leggings~
+field plate leggings~
+A pair of field plate leggings is here.~
+~
+~
+'leather'
+9 0 33 0
+7 7 7 7
+80 0 100 600 5
+1 1 50000 2
+A
+2 -20
+A
+51 -11
+#9573
+field plate boots~
+field plate boots~
+A pair of field plate boots is here.~
+~
+~
+'leather'
+9 0 65 0
+7 7 7 7
+80 0 100 600 5
+1 1 50000 2
+A
+2 -20
+A
+51 -11
+#9574
+shield tower~
+a tower shield~
+An 8 foot tall shield stands here at attention.~
+~
+~
+'leather'
+9 0 513 0
+7 7 7 7
+150 0 100 600 5
+1 1 50000 2
+A
+51 -50
+#9575
+field plate helmet~
+a field plate helmet~
+A field plate helmet rests here.~
+~
+~
+'leather'
+9 0 17 0
+7 7 7 7
+60 0 100 600 5
+1 1 50000 2
+A
+2 -20
+A
+51 -11
+#9597
+bracelet~
+a bracelet~
+A braclet is here.~
+~
+~
+'leather'
+30 0 4097 0
+0 0 0 0
+10 0 100 50 0
+1 1 1000 2
+#9598
+amulet~
+an amulet~
+An amulet is here.~
+~
+~
+'leather'
+30 0 5 0
+0 0 0 0
+10 0 100 50 0
+1 1 1000 2
+#9599
+ring~
+a ring~
+A ring is here.~
+~
+~
+'leather'
+30 0 3 0
+0 0 0 0
+10 0 100 50 0
+1 1 1000 2
+#9800
+sword shield~
+the Sword Shield~
+A shield with a long spike is here.~
+~
+~
+'leather'
+9 0 513 0
+7 7 7 7
+100 0 100 0 0
+1 1 0 2
+A
+19 5
+#9801
+gauntlets ogre power~
+gauntlets of Ogre Power~
+Some battered old gauntlets lie here.~
+~
+~
+'leather'
+9 0 129 0
+4 4 4 4
+20 0 100 0 0
+1 1 0 2
+A
+1 50
+#9802
+girdle~
+girdle of Giant Strength~
+A battered girdle is here.~
+~
+~
+'leather'
+30 0 2049 0
+4 4 4 4
+20 0 100 0 0
+1 1 0 2
+A
+1 100
+#9803
+maul titans~
+the Maul of the Titans~
+A large maul is here...~
+~
+~
+'leather'
+5 0 8193 0
+0 4 10 8
+350 0 100 0 0
+1 1 0 2
+A
+2 30
+A
+19 4
+#9804
+sword defender~
+the Defender~
+A sword with a large hilt is here.~
+~
+~
+'leather'
+5 0 8193 0
+0 3 6 3
+120 0 100 0 0
+1 1 0 2
+A
+2 30
+A
+5 30
+#9805
+cloak displacement~
+a Cloak of Displacement~
+A shimmering and shifting cloak appears to be here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+A
+2 50
+#9806
+cloak elvenkind elven~
+a Cloak of Elvenkind~
+A greenish-brown cloak lies hidden in nearby foliage.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9807
+cloak protection~
+a Cloak of Protection~
+A dark blue cloak with glowing runes lies here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9808
+robe arch arch-magi magi~
+the Robe of The Arch-Magi~
+A bluish robe with yellow stars lies here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9809
+boots elven elvenkind~
+boots of Elvenkind~
+Some tan boots with very soft, flexable soles lie here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9810
+boots varied tracks~
+boots of Varied Tracks~
+Some boots with shifting soles sit on the ground.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9811
+bracers defense~
+bracers of Defense~
+A set of magical bracers rest here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9812
+helm teleportation~
+the Helm of Teleportation~
+A shimmering helm is here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9813
+bag holding~
+a small canvas bag~
+A small bag sits here unnoticed.~
+~
+~
+'leather'
+15 0 1 0
+0 0 0 0
+100 1000 100 1000 0
+1 1 0 2
+#9814
+lens detection ring~
+the Lens of Detection~
+A small ring with glass inside lies here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9815
+plate mail fear~
+plate Mail of Fear~
+A ferocious set of plate mail lies here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+400 0 100 0 0
+1 1 0 2
+#9816
+dagger venom~
+the Dagger of Venom~
+A wicked looking dagger with small barbs near the tip is here.~
+~
+~
+'leather'
+5 0 0 0
+0 3 4 1
+20 0 100 0 0
+1 1 0 2
+#9817
+sword nine stealer lives~
+the Nine Lives Stealer~
+A vicious black shortsword lies here.~
+~
+~
+'leather'
+5 0 0 0
+0 3 5 3
+100 0 100 0 0
+1 1 0 2
+#9818
+sword life stealing~
+sword of Life Stealing~
+A large black longsword is here darkening the world.~
+~
+~
+'leather'
+5 0 0 0
+0 3 5 3
+100 0 100 0 0
+1 1 0 2
+#9819
+sword wounding~
+the Sword of Wounding~
+A large sword with huge barbs is here.~
+~
+~
+'leather'
+5 0 0 0
+0 3 5 3
+100 0 100 0 0
+1 1 0 2
+#9820
+vorpal sword~
+the Vorpal Sword~
+A very sharp looking sword is here.~
+~
+~
+'leather'
+5 0 0 0
+0 3 6 3
+100 0 100 0 0
+1 1 0 2
+#9821
+ring~
+a Ring of Beaurocratic Wizardry~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9822
+ring~
+ring of Fortitude~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9823
+ring~
+ring of Life Protection~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9824
+ring~
+ring of Seeing~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9825
+amulet~
+amulet of Magic Resistance~
+An amulet lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9826
+necklace~
+necklace of Memory Enhancement~
+A necklace lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9827
+cloak cheetah~
+cheetah Cloak~
+A yellow and black spotted cloak lies here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9828
+robe repetition~
+robe of Repetition~
+A rather plain looking robe is here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9829
+bracers~
+bracers of Blinding Strike~
+A pair of magical bracers lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+50 0 100 0 0
+1 1 0 2
+#9830
+cap healing~
+healing Cap~
+A small cap is here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+20 0 100 0 0
+1 1 0 2
+#9831
+claw magic stealing~
+the Claw of Magic Stealing~
+A small glove with long enhanced claws is here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9832
+ring~
+ring of Invisibility~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9833
+ring~
+ring of Protection~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9834
+ring~
+ring of Regeneration~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9835
+ring~
+ring of Vampiric Regeneration~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9836
+ring~
+the Spell Storing Ring~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9837
+ring~
+ring of Spell Turning~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9838
+ring~
+ring of Wizardry~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9839
+amulet~
+amulet of Life Protection~
+An amulet lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9840
+amulet~
+amulet of Proof Against Detection and Location~
+An amulet lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9841
+gem seeing~
+gem of Seeing~
+A gem lies here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9842
+periapt~
+periapt of Wound Closure~
+A periapt lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9843
+boots speed~
+boots of Speed~
+Some boots that appear right for travelling are here.~
+~
+~
+'leather'
+9 0 0 0
+0 0 0 0
+100 0 100 0 0
+1 1 0 2
+#9844
+ring~
+ring of Djinni Summoning~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9845
+ring~
+ring of Free Action~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9846
+ring~
+ring of Mind Shielding~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#9847
+ring~
+ring of X-Ray Vision~
+A ring lies here.~
+~
+~
+'leather'
+30 0 0 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#0
+
+
+#ROOMS
+#9500
+The Treasure Room~
+This room is so that the random treasure zone can be saved manually.
+~
+~
+'inside window'
+4 0 0
+0 0 0
+S
+#0
+
+
+#RESETS
+S
+
+
+#$

@@ -1,0 +1,10 @@
+
+./startup &
+echo 'Booting the MAIN port...'
+echo '...'
+echo 'ps -U Darksun'
+ps -U Darksun
+echo '------------------------'
+echo 'Done.'
+echo ''
+

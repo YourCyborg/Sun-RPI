@@ -1,0 +1,992 @@
+#AREA Diku        Limbo~
+limbo~
+delerak anira albernathy~
+1 99
+0 0
+
+
+#MOBILES
+#1
+norse~
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+~
+~
+1 0 1000 0 10 0 S
+26 5d10+550 4d6+3
+150 150 150 0 150 0 150
+0 0 0 0
+8 2
+'std_humanoid'
+0
+#5
+norse~
+guard~
+Rip's Guard~
+Rip's guard stares at you, drawing his blade.
+~
+~
+~
+1 0 0 0 10 0 S
+40 100d100+1000 100d2+200
+200 200 200 0 200 0 200
+0 0 0 0
+8 2
+'std_humanoid'
+0
+#10
+norse~
+horse~
+a horse~
+A horse stands here, eyeing the ground carefully.
+~
+~
+~
+11 0 0 0 10 0 S
+1 10d10+100 4d2+2
+80 80 80 0 80 0 80
+0 0 0 0
+8 0
+'std_humanoid'
+0
+#30
+Bob DJ~
+new newmob~
+The DJ guy~
+A DJ stands here, playing music.
+~
+New mob is waiting for a real description.
+~
+~
+3 0 0 0 0 0 S
+30 10d30+50 2d4+0
+50 50 50 50 50 100 100
+0 0 0 0
+8 1
+'std_humanoid'
+0
+E 40 'secondary'
+#31
+thri-kreen thri kreen mantis green~
+new newmob~
+a greenish-brown thri-kreen~
+A greenish-brown thri-kreen stands guard at the elevators here
+~
+This thri-kreen stands to be about 8 paces tall.  It's body is a
+greenish brown color that is mottled with dark brown spots.  It's eyes
+are are dull black that seem to suck in all light that hits them.  It has
+two mandibles protruding from it's mouth and two claws at the ends of
+it's arms.
+~
+spec_guard~
+3 8 0 1 -15536 0 S
+30 10000d2+1000 250d2+500
+150 50 50 50 150 150 150
+0 0 0 0
+8 0
+'thri-kreen'
+13
+S 'harm' 100 100
+S 'hide' 100 100
+S 'sneak' 100 100
+S 'martial arts' 100 100
+#69
+Bryant~
+hulking man~
+a hulking, large muscled man~
+A large muscled, hulking man is standing guard here
+~
+As you gaze upon this man, you instantly know fear.  He almost appears
+to be some hybrid of dwarf and man because his body is so tightly
+muscled.  The slightest movement or leaning of weight causes the whole
+man's body to move, as muscle flows under the skin and tenses into solid
+rock.
+There is no mistaking about it, if he wanted you dead, you would be...
+~
+~
+67 40 -1 0 0 0 S
+1 5d5+50 2d4+0
+150 150 150 150 150 150 150
+0 0 0 0
+8 1
+'std_humanoid'
+0
+#0
+
+
+#OBJECTS
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+~
+'silver'
+20 0 1 0
+1 0 0 0
+10 0 100 0 0
+1 1 0 2
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+~
+~
+'silver'
+20 0 1 0
+0 0 0 0
+10 0 100 0 0
+1 1 0 2
+#10
+body %s~
+the body of %s~
+The body of %s is crumpled on the ground here~
+~
+~
+'leather'
+23 0 1 0
+0 0 0 1
+1000 0 100 0 0
+1 1 0 2
+#11
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+~
+~
+'leather'
+24 0 0 0
+0 0 0 1
+1000 0 100 0 0
+1 1 0 2
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.
+~
+~
+~
+'leather'
+19 0 1 0
+1 1 1 0
+10 0 100 10 10
+1 1 0 2
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+~
+'leather'
+1 0 1 0
+0 0 24 0
+10 0 100 0 0
+1 1 0 2
+#24
+lantern~
+a small lantern~
+A small lantern lies here.~
+~
+~
+'leather'
+1 0 1 0
+50 0 -1 0
+10 0 100 50 0
+1 1 0 2
+#30
+Wagon~
+a large, wooden wagon~
+A large wooden wagon sits here on four small, round wheels.~
+~
+~
+'leather'
+50 16 0 0
+20 0 0 0
+-31072 0 100 0 0
+1 1 0 2
+#32
+controls~
+reins~
+A set of reins lies here seemingly attached to nothing.~
+~
+~
+'leather'
+52 16 0 0
+30 30 30 30
+10000 0 100 0 0
+1 1 0 2
+#98
+crash finder~
+the crash finder~
+A crash finding object is here.~
+~
+~
+'leather'
+10 0 1 0
+30 1 3 27
+10 0 100 10 1
+1 1 0 2
+#99
+unformed object~
+an unformed object~
+An unformed object is here.~
+~
+~
+'leather'
+1 0 1 0
+0 0 0 0
+0 0 100 0 0
+1 1 0 2
+#50
+apple red~
+a red apple~
+A red apple lies glistening on the ground.~
+A shiny red apple.
+~
+~
+'fruit apple'
+19 0 1 4
+10 0 0 0
+2 0 100 1 10
+1 2 1 2
+#51
+green apple~
+green apple~
+A green apple lies in the dust.~
+A green apple.
+~
+~
+'fruit apple'
+19 0 1 32
+15 0 0 0
+2 0 100 1 10
+1 1 1 2
+#52
+bunch grapes red~
+a bunch of red grapes~
+A few red grapes have been dropped here.~
+A bunch of about 20 red grapes.
+~
+~
+'fruit grapes'
+19 0 1 128
+7 0 0 0
+1 0 100 3 10
+1 1 1 2
+#40
+computer machine~
+a large computer~
+A large computer sits on a table here~
+The new has no description.
+~
+~
+'wood'
+13 0 16384 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#41
+couch sofa~
+a large, silken sofa~
+A large, silken sofa is here.~
+The new has no description.
+~
+~
+'wood'
+12 16 0 0
+0 0 0 0
+10 0 100 1 100
+1 1 1000 2
+L 1
+#42
+gold golden wagon argosy~
+a large, golden argosy~
+A large, gleaming golden argosy sits here on spinners~
+This glimmering wagon hums softly as it idles here on the ground.  It
+spans the good size of a building, and is lined with windows that
+protrude from the side.  The windows are tinted dark-black and have blue
+LED's under them to illuminate their outer surface.  The wheels are 380"
+platinum plated spinners that spin constantly.  The undercarriage is
+decked out in dancing blue and yellow lasers that shine out from under
+it, shining upon the ground in dazzling patterns.
+~
+~
+'gold'
+50 16 0 512
+31 31 31 31
+10000 0 100 1 10
+1 1 1000 2
+L 1
+#43
+airflight controls~
+the airflight controls~
+A large cockpit with airflight controls is near a large window here~
+The new has no description.
+~
+~
+'wood'
+52 16 0 0
+42 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#44
+key card keycard golden~
+a golden keycard~
+A golden keycard lies on the ground here~
+The new has no description.
+~
+~
+'wood'
+18 0 16384 0
+0 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#45
+oasis water~
+a small oasis~
+A small oasis is set in the dunes here~
+The new has no description.
+~
+~
+'wood'
+25 16 0 0
+300 300 1 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#46
+pool~
+a deep, water-filled pool~
+A deep, water-filled pool is set into the deck here~
+The new has no description.
+~
+~
+'wood'
+50 16 0 0
+40 0 0 0
+10 0 100 1 10
+1 1 1000 2
+L 1
+#47
+edge pool~
+the edge of the pool~
+The edge of the pool is here, a place to climb out~
+The new has no description.
+~
+~
+'wood'
+51 16 0 0
+39 39 39 39
+10 0 100 1 10
+1 1 1000 2
+L 1
+#48
+player staff mic microphone~
+the player/staff microphone~
+The player/staff microphone is here on a podium~
+The new has no description.
+~
+~
+'steel'
+13 16 16384 0
+0 0 0 0
+0 0 100 0 101
+1 1 1000 2
+L 1
+#49
+florescent light fixture switch~
+a florescent light fixture~
+A florescent light fixture hums quietly overhead~
+The new has no description.
+~
+~
+'wood'
+1 16 0 0
+1000 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#69
+desk~
+a large oak desk~
+There is a large oak desk sitting here~
+Before you stands a desk that has various pieces of paper strewn upon
+it.  There are spots where it appears as if someone was eating and then
+all the sudden just stopped, dropping their food where ever it landed.
+Your inspection of the desk comes to a final conclusion when you find two
+pieces of paper that seem to be stuck together by an unknown substance.
+~
+~
+'wood'
+15 16 0 0
+0 0 0 0
+10 0 100 1 101
+0 0 1000 2
+L 1
+#70
+bookshelf~
+a large agafari bookshelf~
+Resting along the northern wall is a large agafari bookshelf~
+On this bookshelf rests many books, some in languages you understand,
+others in things you've never seen before.  You think the owner must be
+very well traveled to have acquired these.
+~
+~
+'wood'
+15 16 0 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#71
+tome journal~
+a large green tome~
+A large green tome labeled "Albernathy's Journal"~
+As you peer at this book you are amazed with the quality of it's
+construction and your eyes are drawn towards the picture on the cover.
+The picture is a stunningly detailed rendering of some type of scary
+horned beast you're happy you've never laid eyes on.
+
+You shrug and begin to reach towards the right side of the book to open
+it's cover.  Suddenly the picture comes to life and the beast snarls,
+"Put me back fool! You have no idea what you're doing with this
+knowledge!"
+
+You jump slightly and suddenly decide you should probably put this book back where you found it...
+~
+~
+'wood'
+8 0 24577 0
+0 0 0 0
+10 0 100 1 101
+1 1 1000 2
+L 1
+#0
+
+
+#ROOMS
+#1
+Staff Hangout~
+North - Review Room
+East - Staff Discussion Room
+South - The Void
+West - None
+Down - City Selection
+************************************************************
+
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D0
+The review room lies ahead.
+~
+~
+0 0 6 0
+D1
+The staff discussino room lies this way.
+~
+'backside of a safety deposit box'~
+7 0 39 0
+D2
+~
+~
+0 0 2 0
+D5
+The city selection room lies below.
+~
+~
+0 0 5 0
+S
+#2
+An empty void~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+~
+~
+'inside'
+8196 0 0
+0 0 0
+S
+#3
+Within the darksun~
+***********************************
+~
+~
+'inside'
+524 0 0
+0 0 0
+S
+#5
+City Selection~
+Welcome to Darksun, Alpha Version.
+
+Due to massive building projects and the likes, we are not open for player
+testing as of yet. We do allow you to create characters so that you can come
+and check the world out and talk with the staff.
+
+We would encourage you to visit our website which can be found at
+http://www.darksunkings.com for more information reguarding staff contacts
+etc. We also encourage you to visit our forums which can be found by going to
+http://forums.darksunkings.com There you will find discussion about the MUD
+and issues pertaining to it.
+During the alpha stage, we will allow you to roam around the cities and hang out
+with us, but be advised that not very many NPCs or objects are in just of yet.
+You will also not have any skill, so don't count on running around and killing our
+innocent NPCs. They might just kill you.
+
+Type CITY without any arguments to see a list of the cities.
+Type CITY <city of choice> to go to that city.
+
+Urik is finished as far as rooms. Draj is close, and tyr is still under construction.
+~
+spec_start_room~
+'inside'
+8196 0 0
+-75 0 0
+S
+#6
+Reviewing Room~
+Players are stored in this room while being reviewed.
+The following are guidelines for approval:
+
+Must have proper namelist to match short description
+Must have a short description
+Must have a proper long description set
+** Must have a valid email address
+No description is required at this point in time.
+Must not be abusive, or out of context for the game in any shape.
+To reject them, please include a reason by typing a note to them before you reject them
+
+*******************************************************************************************
+
+~
+~
+'city'
+16384 0 0
+-175 0 0
+D2
+~
+~
+0 0 1 0
+S
+#20
+Inside a wagon~
+This is inside of a test wagon!
+~
+~
+'inside window'
+5 0 0
+0 0 0
+D1
+~
+~
+0 0 21 0
+S
+#4
+Lazloth's Office~
+You are squeezed inside an uncomfortable cage, ready to be sold.  Other
+animals surround you, awaiting a similar fate.
+~
+~
+'inside'
+4 0 0
+0 0 0
+S
+#10
+Delerak's Domain~
+This room is large and square, it bears the word "Delerak's Domain" on
+the ceiling in large bold letters.  It's pretty bare at this point, but a
+few things are lying strewn around lazily.  A battle-worn steel sword
+lies in the corner, it's leather grip sweat-stained and heavily used.  A
+computer sits on a worn wooden desk, many books lie strewn up behind it
+on the desk's backboard, green text on a black background can be seen
+scrolling by on the computer's flatscreen.  Several posters lie plastered
+on the walls, one an exotic tiger lying in white snow, the other a
+picture of albert einstein and one of his quotes.
+~
+~
+'inside'
+4 0 0
+0 0 0
+S
+#7
+A dark and shadowy alley~
+Empty description.
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#21
+Storage~
+Empty description.
+~
+~
+'city'
+0 0 0
+0 0 0
+D3
+~
+~
+0 0 20 0
+S
+#30
+Inside a large, gold argosy.~
+Gold lines the walls, floor, and ceiling of this huge, golden argosy.
+The floor is set in with small tiles that glimmer in the light reflected
+from a hanging disc on the ceiling that a light shines upon.  The walls
+are dressed in silk, linen and precious gems.  Loud music can be heard
+from two giant black wooden boxes that sit in front of a small booth.
+~
+~
+'inside'
+8192 -31072 0
+5 1000 0
+D1
+~
+~
+0 0 33 1685217635
+D3
+~
+~
+0 0 34 0
+D4
+Two clear obsidian doors slide back and forth here as the small room
+climbs up and down at the push of a small, glowing red button on a panel
+at the side of the doors.
+~
+elevator~
+1 44 32 0
+D5
+Two clear obsidian doors slide back and forth here as the small room
+climbs up and down at the push of a small, glowing red button on a panel
+at the side of the doors.
+~
+elevator~
+7 44 31 0
+S
+#31
+Boarding room.~
+The hard marble surface of this floor shines brilliantly in the light
+that gazes in from the outside heat.  The marble is black and white in
+color and flows elegantly throughout the room.  A small platform takes
+people down to the ground just to the eastern side of the room while two
+clear doors made from some type of obsidian lie in the back of the room.
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D4
+Two clear obsidian doors slide back and forth here as the small room
+climbs up and down at the push of a small, glowing red button on a panel
+at the side of the doors.
+~
+elevator~
+7 44 30 0
+S
+#32
+A large, air-tight cabin.~
+The walls of this room have been painted white and are spotless.  On the
+northern wall there are numerous machines, each one having LED numbers on
+them, flashing or staying steady.  Near the machines, there a seat,
+sitting directly behind some type of wheel contraption that you grab with
+both hands.
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D2
+~
+~
+0 0 -1 5
+D5
+~
+elevator~
+1 44 30 0
+S
+#33
+A marble-floored hallway~
+The marble floor of this hallway glimmers from the overhead blue LEDs
+that are placed in the ceiling, shining down around you.  Various
+pictures hang on the wall on in particular is a portrait of an Australian
+girl at the beach.  The hallway ends abrubtly to the west at a staircase
+that climbs up onto the deck.
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D0
+The sliding-door to the north leads into a large office.
+~
+sliding-door sliding door~
+7 44 38 0
+D2
+To the south lies the discussion room
+~
+sliding-door sliding door~
+1 44 39 0
+D3
+~
+~
+0 0 30 0
+S
+#34
+A marble-floored hallway~
+The marble floor of this hallway glimmers from the overhead blue LEDs
+that are placed in the ceiling, shining down around you.  Various
+pictures hang on the wall on in particular is a portrait of an Australian
+girl at the beach.  The hallway ends abrubtly to the west at a staircase
+that climbs up onto the deck.
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D0
+~
+port-door port door~
+3 0 35 0
+D1
+~
+~
+0 0 30 0
+D2
+~
+port-door port door~
+3 0 36 0
+D4
+~
+staircase~
+0 0 37 0
+S
+#35
+A darkened room~
+The walls of this room are painted black, seeming to suck in all of the
+light.  A small red light hangs from the ceiling above a small, steel
+table that sits in the center of the room.  There is a small window at
+the back of the room, peering outside of the argosy.
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D2
+~
+~
+3 0 34 0
+S
+#36
+A darkened room~
+The walls of this room are painted black, seeming to suck in all of the
+light.  A small red light hangs from the ceiling above a small, steel
+table that sits in the center of the room.  There is a small window at
+the back of the room, peering outside of the argosy.
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D0
+~
+~
+3 0 34 0
+S
+#37
+The upper deck~
+The air here is clean, blowing cooly from the sky.  The sun doesn't seem
+to beat down as hard here, yet it is still visible.  Sometimes a glint
+will reflect off of something in the air above you, yet it can't be seen
+otherwise.  On further inspection, you will find a hard, clear substance
+along the outer railing of the deck.
+~
+~
+'inside'
+8192 0 0
+0 0 0
+D5
+~
+~
+0 0 34 0
+S
+#38
+Xione's Office~
+This room is is lined with golden objects, floating discs, silk
+curtains, and more.  The floor is polished obsidian that shows down to
+the sand and gives a feeling of movement as the argosy itsself moves.
+There is a porthole at the eastern side of the room, it's black tint
+securing the light outside, yet you can still see out.
+~
+~
+'inside'
+512 0 0
+0 0 0
+D2
+~
+~
+7 44 33 0
+S
+#39
+Staff Discussion Room~
+The rules for discussion are as follows.
+
+1. Do not speak unless you have the microphone.
+2. Wish to Xione if you wish to have the mic.
+3. No other commands besides say and wish.
+4. Spammers will be forced to leave.
+5. Anyone who doesn't adhere will be forced to leave.
+
+If you have any questions, wish to Xione.
+~
+~
+'inside'
+8192 0 0
+-75 0 0
+D0
+~
+~
+1 44 33 0
+D3
+~
+'safety deposit box'~
+7 44 1 0
+S
+#40
+The shallow end~
+Shimmering blue water covers the surface of the pool, making light
+ripples against you as you float in the water.  The pool extends out to
+the north, its color darkening and getting deeper.
+~
+~
+'water swim surface'
+0 0 0
+0 0 0
+D0
+To the north is the deep end of the pool
+~
+~
+0 0 41 1685217635
+S
+#41
+The deep end~
+As you wade into the water, it begins getting deeper, and before you
+know it, you're up to your neck in water.  The walls of the pool are
+smooth and firm, made out of some rock that has been sanded down to
+perfection.  If you turn back about, you can wade back to the entrace of
+the pool.
+~
+~
+'water noswim surface'
+0 0 0
+0 0 0
+D2
+To the south is the shallow end of the pool
+~
+~
+0 0 40 0
+S
+#42
+New Room.~
+Empty description.
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#24
+Nira's Niche~
+This room is a simple glass platform covered by a transparent glass dome
+floating in a perpetual night sky.  There is a sheer white curtain
+covering a double-doorway leading to a glass balcony outside the dome to
+the east.
+~
+~
+'inside'
+4 0 0
+0 0 0
+D1
+A white, silken curtain flutters in the breeze to the east
+~
+curtain~
+1 0 25 0
+S
+#11
+Jakahri's Den of do0m!~
+Empty description.
+~
+~
+'city'
+4 0 0
+0 0 0
+S
+#25
+A glass balcony overlooking the night~
+This large balcony overlooks the perpetual and placid night that
+surrounds the dome to the west.  A curtain hangs fluttering in the
+doorway, and edging the balcony is an elegant and gracefully twisting
+rail made of crystal.
+~
+~
+'inside'
+0 0 0
+0 0 0
+D3
+A white, silken curtain flutters in the breeze to the west
+~
+curtain~
+1 0 24 0
+S
+#69
+Albernathy's Domain~
+You are standing in a brick tower.  There are a few bookshelves along
+the northern wall, various books of different colors and materials are
+resting there, some with large amounts of dust, others well used.  On the
+western most edge of the tower you see a large fluffy bed.  Sitting along
+the eastern wall, somewhat sideways, you see a large oak desk.
+~
+~
+'inside'
+2 0 0
+0 0 0
+D2
+Pathway leading to Anura's room
+Pathway leading to Anira's room
+~
+~
+64 0 24 0
+S
+#0
+
+
+#RESETS
+O 0 9504 5 24
+O 0 9503 0 24
+O 0 47 47 40
+O 0 46 46 37
+O 0 32 32 20
+O 0 41 41 30
+O 0 43 43 32
+O 0 43 43 32
+O 0 32 0 20
+O 0 32 0 20
+M 0 30 0 30
+O 0 32 0 20
+M 0 31 0 31
+O 0 41 41 38
+O 0 41 0 38
+S
+
+
+#$
