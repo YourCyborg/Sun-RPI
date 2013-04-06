@@ -1,0 +1,13 @@
+2013-04-06 19:54:23+0000 [-] Log opened.
+2013-04-06 19:54:23+0000 [-] twistd 13.0.0 (/usr/bin/python 2.7.3) starting up.
+2013-04-06 19:54:23+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2013-04-06 19:54:23+0000 [-] AmpServerFactory starting on 5000
+2013-04-06 19:54:23+0000 [-] Starting factory <src.server.amp.AmpServerFactory instance at 0x237b950>
+2013-04-06 19:54:25+0000 [src.server.amp.AmpServerFactory] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 5000) PEER:IPv4Address(TCP, '127.0.0.1', 45824))
+2013-04-06 19:54:25+0000 [AMPProtocol,0,127.0.0.1] /usr/lib/python2.7/site-packages/Django-1.5.1-py2.7.egg/django/core/management/__init__.py:409: exceptions.DeprecationWarning: The 'setup_environ' function is deprecated, you likely need to update your 'manage.py'; please see the Django 1.4 release notes (https://docs.djangoproject.com/en/dev/releases/1.4/).
+2013-04-06 19:54:38+0000 [AMPProtocol,0,127.0.0.1] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 5000) PEER:IPv4Address(TCP, '127.0.0.1', 45824))
+2013-04-06 19:54:38+0000 [-] Received SIGINT, shutting down.
+2013-04-06 19:54:38+0000 [-] (TCP Port 5000 Closed)
+2013-04-06 19:54:38+0000 [-] Stopping factory <src.server.amp.AmpServerFactory instance at 0x237b950>
+2013-04-06 19:54:38+0000 [-] Main loop terminated.
+2013-04-06 19:54:38+0000 [-] Server Shut Down.
